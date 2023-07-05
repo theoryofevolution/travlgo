@@ -1,6 +1,5 @@
 import streamlit as st
 
-#site header
 st.title('Welcome to travlgo!')
 
 destination = st.text_input('Final Destination:', 'Paris')
