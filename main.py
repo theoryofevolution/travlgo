@@ -8,9 +8,12 @@ with st.form("my_form"):
     budget = st.number_input('Budget:', min_value=0, step=10)
     arrival_date = st.date_input("Arrival Date:")
     departure_date = st.date_input("Departure Date:")
+    travel_pace = st.select_slider(
+    'Select your travel pace',
+    options=[1, 2, 3, 4, 5], help='1 means you would like a very relaxed and comfortable trip. 5 means that you\'re really adventurous!')
     # Every form must have a submit button.
     submitted = st.form_submit_button("Submit")
     if submitted:
         with st.spinner('Wait for it...'):
             time.sleep(5)
-            st.success('Done!')
+        st.success('Done!')
