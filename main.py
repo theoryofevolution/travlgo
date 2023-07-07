@@ -34,7 +34,7 @@ payload = {
 }
 
 st.title('Welcome to travlgo!')
-
+global submitted
 with st.form("my_form"):
     destination = st.text_input('Final Destination:', 'Paris')
     budget = st.number_input('Budget:', min_value=0, step=10)
@@ -45,26 +45,34 @@ with st.form("my_form"):
     options=[1, 2, 3, 4, 5], help='1 means you would like a very relaxed and comfortable trip. 5 means that you\'re really adventurous!')
     # Every form must have a submit button.
     submitted = st.form_submit_button("Submit")
-    if submitted:
-        with st.spinner('Wait for it...'):
-            response = requests.post(url, headers=headers, json=payload)
-            activities = response.json()    
-            # Access the products
-            products = activities['products']
-            product_1 = products[1]
-
-            product_1_code = product_1['productCode']
-            title_1 = product_1['title']
-            description_1 = product_1['description']
-            images_1 = product_1['images'][0]['variants'][7]['url']
-            product_url_1 = product_1['productUrl']
-
-            # Print or process the product information
-            print(f"Product Code: {product_1_code}")
-            print(f"Title: {title_1}")
-            print(f"Description: {description_1}")
-            print(f"Url: {product_url_1}")
-            print(f"Image: {images_1}")
+if submitted:
+    with st.spinner('Wait for it...'):
+        response = requests.post(url, headers=headers, json=payload)
+        activities = response.json()    
+        # Access the products
+        products = activities['products']
+        product_1 = products[1]
+        product_1_code = product_1['productCode']
+        title_1 = product_1['title']
+        description_1 = product_1['description']
+        images_1 = product_1['images'][0]['variants'][7]['url']
+        product_url_1 = product_1['productUrl']
+        # Print or process the product information
+        print(f"Product Code: {product_1_code}")
+        print(f"Title: {title_1}")
+        print(f"Description: {description_1}")
+        print(f"Url: {product_url_1}")
+        print(f"Image: {images_1}")
         st.success('Done!')
         st.image(images_1)
         st.text(description_1)
+        st.write(f'''
+            <a target="_self" href="{product_url_1}">
+                <button>
+                Book this tour
+                </button>
+            </a>
+            ''',
+            unsafe_allow_html=True
+        )
+
