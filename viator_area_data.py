@@ -14,10 +14,26 @@ response = requests.get(url, headers=headers)
 
 if response.status_code == 200:
     data = response.json()
-    # Process the data as needed
-    print(data)
+    # Process the data as neededd
 else:
     print(f"Request failed with status code {response.status_code}")
+
+cities = []
+countries = []
+regions = []
+
+for areas in data['data']:
+    if areas['destinationType'] == 'CITY':
+        cities.append(areas['destinationUrlName'])
+    elif areas['destinationType'] == 'COUNTRY':
+        countries.append(areas['destinationUrlName'])
+    elif areas['destinationType'] == 'REGION':
+        regions.append(areas['destinationUrlName'])
+
+print(f"cities: {cities} \n\n")
+print(f"countries: {countries} \n\n")
+print(f"regions: {regions} \n\n")
+
 
 file_path_extracted = "destinations.json"
 destinations = response.json()
