@@ -1,6 +1,5 @@
 import json
 import requests
-
 # API endpoint and credentials
 url = "https://api.sandbox.viator.com/partner/products/search"
 api_key = '3d28194b-f857-4334-930f-36540f9bf313'
@@ -35,4 +34,23 @@ payload = {
 # Send POST request
 response = requests.post(url, headers=headers, json=payload)
 activities = response.json()
-print(activities)
+
+with open('travels.json', 'w') as f:
+    json.dump(activities, f)
+
+# Access the products
+products = activities['products']
+product_1 = products[1]
+
+product_1_code = product_1['productCode']
+title_1 = product_1['title']
+description_1 = product_1['description']
+images_1 = product_1['images'][0]['variants'][7]['url']
+product_url_1 = product_1['productUrl']
+
+# Print or process the product information
+print(f"Product Code: {product_1_code}")
+print(f"Title: {title_1}")
+print(f"Description: {description_1}")
+print(f"Url: {product_url_1}")
+print(f"Image: {images_1}")
