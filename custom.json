@@ -1,0 +1,143 @@
+[
+    [
+        {
+            "productCode": "7251P11",
+            "title": "The Paris Monuments Tour",
+            "description": "The Paris Monuments bike tour is focused exclusively on Paris' legendary sites & attractions. You\u2019ll see everything you have on your list, from the Notre Dame to the Eiffel Tower. You\u2019ll cover more ground than you thought possible, experience Paris\u2019 new and best bike lanes, and learn the history of some of the most adored museums and landmarks in the world. Our guides are well trained in Paris history, and more importantly, how to get you to each stop safely - all while gliding gleefully along!",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0a/5d/02/e3.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0a/5d/02/e3.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 37,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 37,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 210
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 49.76,
+                    "fromPriceBeforeDiscount": 49.76
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/Paris/The-Paris-Monuments-Tour/d479-7251P11?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "479",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12029,
+                21702,
+                11929,
+                12028,
+                21972,
+                11911
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        }
+    ]
+]

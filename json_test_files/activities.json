@@ -1,0 +1,1326 @@
+{
+    "products": [
+        {
+            "productCode": "343488P1",
+            "title": "Gander Walking Tours in Glasgow",
+            "description": "Go for a gander on a tour which reflects the energy and welcoming nature of Glasgow itself. All tours are conducted by myself, Johnny -- so if you have read a good review, you will know that that is the tour that you will be getting! I will provide you with a memorable introduction to this stupendous city, and at the conclusion of the tour, will be delighted to email you as many Glasgow recommendations as you can handle, tailored to your personal interests.\n\nWalk with the self-styled Glasgow Gander around Glasgow City Centre, from Royal Exchange Square to Glasgow Cathedral, taking in the city's famed Victorian architecture, and drinking deeply of its vibrant atmosphere. Learn the fascinating story of Glasgow in the company of a passionate guide. ",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Glasgow goes too far sometimes",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0e/80/91/ef.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0e/80/91/ef.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 11,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 98,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 109,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 180
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 15.59,
+                    "fromPriceBeforeDiscount": 15.59
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/Glasgow/Glasgow-Gander-Walking-Tours/d740-343488P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "740",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12029,
+                21957,
+                21956,
+                22143,
+                21951,
+                12046,
+                11929,
+                12028,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "144450P2",
+            "title": "2 hour group lesson (3-16 people)",
+            "description": "2 hour group surfing lesson\n\nAll equipment provided \n\nAn amazing experience to have with your family and friends. ",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0e/fb/34/ff.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0e/fb/34/ff.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 122,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 122,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 120
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "ACTIVITY",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 64.95,
+                    "fromPriceBeforeDiscount": 64.95
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/The-Scottish-Highlands/2-hour-group-lesson/d768-144450P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "768",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12048,
+                21946,
+                20757,
+                21442,
+                11923,
+                22083,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "LIKELY_TO_SELL_OUT"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "88768P1",
+            "title": "Walking Tours in Inverness City Centre",
+            "description": "Take a walk with Cath, a local to the area, and an experienced and qualified tourist guide around her beautiful city of Inverness. A Walk Inverness tour contains lots of local history, beautiful scenery, architecture, and romantic (yet sometimes bloody) tales which have over time, shaped Inverness into the thriving city that stands today.\n\nIn the true spirit of Outlander, find out more about the short but final confrontation of the Jacobite Rising, The Battle of Culloden in 1746, in which the fate of between 1500 Jacobites was sealed by a poor decision and a hostile terrain. Cath will fascinate you with references to Outlander along with life in 18th century Inverness right up to the present day. Sharing stories of clan history, folklore and legends. Step even further back in time to 565 AD and learn about St Columba\u2019s visit to the Highlands.\n",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Cath your tour guide is a local to the area and a qualified STGA Green badge guide.",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0b/e3/1e/67.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0b/e3/1e/67.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 15,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 49,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 64,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 90
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 18.19,
+                    "fromPriceBeforeDiscount": 18.19
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/Inverness/Walk-Inverness-City-Centre-With-An-Experienced-Local-Guide/d5051-88768P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "5051",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12029,
+                21946,
+                11938,
+                22143,
+                12046,
+                12028,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "62330P2",
+            "title": "Private 4 Hour Tour of Edinburgh in a Spacious 6-seater Mercedes",
+            "description": "During your private 4-Hour Tour soak up the amazing sights of both the Old and New Town of Edinburgh. You will be shown around in a comfortable and spacious vehicle by one of our experienced driver-guides. \n\nThis private tour is perfect for the visitor who has limited time and who wants to see all of the major attractions. You will have time to get\u00a0out, walk around and take photos and to learn about this beautiful medieval city from your\u00a0guide. \n\nOr perhaps, you are a visitor who simply wants a shorter tour to orientate yourself\u00a0to the layout of the city with hints and tips from your\u00a0guide on the best places to visit, eat and shop in your\u00a0own time. Here are just some of the places that you will be able to stop at on\u00a0your tour:\n\nEdinburgh Castle\n\nGrassmarket\n\nGreyfriars Bobby\n\nRoyal Mile\n\nSt Giles Cathedral\n\nMercat Cross\n\nPalace of Holyrood House\n\nArthur's Seat\n\nCalton Hill\n\nWalter Scott Monument\n\nNew Town\n\nDean Village",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Your Guide and Vehicle",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/06/71/ef/dc.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/06/71/ef/dc.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 10,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 45,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 55,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 240
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 422.16,
+                    "fromPriceBeforeDiscount": 422.16
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/Edinburgh/Private-4-Hour-Tour-of-Edinburgh-in-a-Spacious-6-seater-Mercedes/d739-62330P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "739",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21946,
+                11930,
+                21956,
+                21951,
+                21955,
+                21960,
+                12029,
+                11938,
+                21952,
+                11929,
+                12028,
+                11941,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "PRIVATE_TOUR"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "196210P1",
+            "title": "Award-winning circular cycle tour of Edinburgh! ",
+            "description": "This is a cycle tour you won't find anywhere else. I shall take you where other tourists will not know about. There are other cycle tours in Edinburgh, but as I take small groups, you will be able to go at your own pace, ask as many questions as you like and take numerous photos without pressure of being rushed. This tour requires you to be able to cycle for a maximum distance of 20 miles with regular stops and at a slow -steady pace. This tour is not suitable for under 12 years. From Craigmillar Caste, to the stunning Dean Village, Leith and Portobello, you will be cycling through all the 'must-see' parts of Edinburgh that are off the tourist trail. E-bikes can be hired at an additional cost of \u00a315pp cash on the day. Please let me know if you would like this option. (If you think you would prefer a shorter tour, please check out our 'cycle tour to the coast' which is 12 miles, 3 hours)",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Foothills of Arthur's Seat, our extinct Volcano ",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/09/2a/19/47.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/09/2a/19/47.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 2,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 37,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 39,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 270
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "ACTIVITY",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 106.51,
+                    "fromPriceBeforeDiscount": 106.51
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/Edinburgh/The-Ultimate-cycle-tour-of-Edinburgh/d739-196210P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "739",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21946,
+                12046,
+                21702,
+                21860,
+                21972,
+                11911
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "144450P1",
+            "title": "2 hour private surf lesson! (Up to 2 people)",
+            "description": "2 hour private surf lesson\n\nAll equipment provided \n\nThis is for up to two people and will be exclusive to your ability in surfing and what you want to achieve, Wheather that\u2019s just having fun in the water or taking your surfing to the next level.",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0a/56/fb/a0.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0a/56/fb/a0.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 51,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 51,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 120
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "ACTIVITY",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 168.86,
+                    "fromPriceBeforeDiscount": 168.86
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/The-Scottish-Highlands/2-hour-private-surf-lesson-Up-to-2-people/d768-144450P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "768",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12048,
+                21946,
+                20757,
+                21442,
+                11923,
+                22083,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "PRIVATE_TOUR",
+                "LIKELY_TO_SELL_OUT"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "156576P2",
+            "title": "Watch Closely - An Evening of Magic",
+            "description": "Glasgow's only dedicated monthly magic show! Hosted by the Scottish \"Close-up Magician of the Year\", this is an enchanting evening of magic, storytelling and unforgettable moments...",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Watch Closely",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0b/ec/61/d5.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0b/ec/61/d5.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 1,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 47,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 48,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 90
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 25.33,
+                    "fromPriceBeforeDiscount": 25.33
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/Glasgow/Watch-Closely-Ticket/d740-156576P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "740",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21954,
+                11908,
+                21953,
+                22143,
+                21948,
+                21951,
+                11917,
+                21860,
+                21765,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "319915P1",
+            "title": "Fun Bike Tour in Glasgow",
+            "description": "We make locals feel like tourists and tourists feel like locals. \n\nWe are a local tour company specializing in sharing the rich social history of some of the city's most iconic spots. \n\nWe use fully refurbished ex Royal Mail bikes, and all are named after (often not so) famous Glaswegian women and aim to make all our guests appreciate the city as much as we do.\n\nOur routes are safe and take in beautiful parks, rivers and utilize Glasgow's expanding cycle network. If you need an electric bike, please ask us about this as it can often be arranged.\n\nOur tours cover the past and contemporary Glasgow, across themes such as history, architecture, culture, and immigration.\n\n",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0b/f8/42/78.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0b/f8/42/78.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 1,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 27,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 28,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 180
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 64.3,
+                    "fromPriceBeforeDiscount": 64.3
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/Glasgow/Gallus-Pedals-the-best-way-to-re-discover-Glasgow/d740-319915P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "740",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21956,
+                21951,
+                21702,
+                21955,
+                21949,
+                12029,
+                21954,
+                21948,
+                11929,
+                21860,
+                12028,
+                21972,
+                11911
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "40826P3",
+            "title": "Private Greyfriars Kirkyard tour - 'Meet' the dead of Old Edinburgh!",
+            "description": "The Greyfriars Kirkyard tour is perfect for everyone who wants to know more about Scottish history. The people buried within the Kirkyard made Edinburgh what it was. We'll share some of the most important, most interesting and most surprising stories about these rather fascinating people. And we'll do this in an entertaining, professional and respectful manner. \n\nGreyfriars is a fascinating place that has links to some incredible stories from Scotland\u2019s history (not 'just' Edinburgh's history). Their stories are the stories of Edinburgh. You\u2019ll learn about these characters as you stand only inches away from where their bodies lie buried. \n\nHear the stories behind martyred Covenanters, an amusing artist, an infamous ghost, grave robbers, the Irish murderers Burke and Hare, a tortured spy and, of course, the devoted Skye Terrier, Greyfriars Bobby.\n\nAre you ready to \u2018meet\u2019 the \u2018Dead of Old Edinburgh\u2019? ",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/10/03/e5/8c.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/10/03/e5/8c.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 6,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 36,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 42,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 105
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 90.93,
+                    "fromPriceBeforeDiscount": 90.93
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://shop.live.rc.viator.com/tours/Edinburgh/Greyfriars-Kirkyard-Projector-Tour-in-Edinburgh/d739-40826P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "739",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12029,
+                21954,
+                21956,
+                12075,
+                21948,
+                21951,
+                21952,
+                12046,
+                11941,
+                21960,
+                21972,
+                21949
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "PRIVATE_TOUR"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        }
+    ],
+    "totalCount": 209
+}

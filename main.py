@@ -2,9 +2,18 @@ import streamlit as st
 import time
 import json
 import requests
-
+import difflib
+import tag_lib
 url = "https://api.sandbox.viator.com/partner/products/search"
 api_key = '3d28194b-f857-4334-930f-36540f9bf313'
+
+#find nearest tag function
+def find_nearest_tag(user_entry, available_tags):
+    closest_match = difflib.get_close_matches(user_entry, available_tags, n=1)
+    if closest_match:
+        return closest_match[0]
+    else:
+        return None
 
 # Request headers
 headers = {
@@ -36,17 +45,22 @@ payload = {
 st.title('Welcome to travlgo!')
 global submitted
 with st.form("my_form"):
+
     destination = st.text_input('Final Destination:', 'Paris')
     budget = st.number_input('Budget:', min_value=0, step=10)
     arrival_date = st.date_input("Arrival Date:")
     departure_date = st.date_input("Departure Date:")
+    trip_customization = st.multiselect(
+    'Customize your trip', options = tag_lib.snatch_tags)
     travel_pace = st.select_slider(
-    'Select your travel pace',
-    options=[1, 2, 3, 4, 5], help='1 means you would like a very relaxed and comfortable trip. 5 means that you\'re really adventurous!')
+    'Select your travel intensity',
+    options=['Slow', 'Medium', 'Fast'])
     # Every form must have a submit button.
     submitted = st.form_submit_button("Submit")
+
 if submitted:
     with st.spinner('Wait for it...'):
+
         response = requests.post(url, headers=headers, json=payload)
         activities = response.json()    
         # Access the products
@@ -57,6 +71,7 @@ if submitted:
         description_1 = product_1['description']
         images_1 = product_1['images'][0]['variants'][7]['url']
         product_url_1 = product_1['productUrl']
+
         # Print or process the product information
         print(f"Product Code: {product_1_code}")
         print(f"Title: {title_1}")

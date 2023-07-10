@@ -1,0 +1,454 @@
+{
+    "100972P3": {
+        "productCode": "100972P3",
+        "title": "Parisian Life Style Private Photo Shoot at Eiffel Tower",
+        "description": "Visiting Paris? \n\nTime to live the dream! \n\nWalk around the city with a local professional photographer and take home the best images of your amazing trip. In a 100% Parisian life style photo shooting, get to know Paris' highlights and secrets and keep your memories forever. \n \u2022 1h photo shooting with local professional photographer \n \u2022 50-80 high resolution EDITED photos sent by mail after the shooting \n \u2022 groups up to ten people! \n \u2022 Ideal for celebrating your honeymoon, engagement photos, bachelor party, family trip, birthdays and more \n \u2022 props included for kids \n \u2022 kids friendly activity \n \u2022 fun, local and 100% passionate photographers!\n\nNOTE: you will be booked in the first available hour. You will receive an email about your tour hour, meeting point and recognizing your photographer within 7 days of booking. Please check your spam and contact with us if you have not received it. ",
+        "images": [
+            {
+                "imageSource": "SUPPLIER_PROVIDED",
+                "caption": "",
+                "isCover": true,
+                "variants": [
+                    {
+                        "height": 50,
+                        "width": 50,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 100,
+                        "width": 100,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 200,
+                        "width": 200,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 400,
+                        "width": 400,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 40,
+                        "width": 60,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 80,
+                        "width": 120,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 120,
+                        "width": 180,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 160,
+                        "width": 240,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 240,
+                        "width": 360,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 320,
+                        "width": 480,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 360,
+                        "width": 540,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 446,
+                        "width": 674,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 480,
+                        "width": 720,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 118,
+                        "width": 210,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 75,
+                        "width": 75,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/09/21/f3/64.jpg"
+                    },
+                    {
+                        "height": 109,
+                        "width": 154,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/09/21/f3/64.jpg"
+                    }
+                ]
+            }
+        ],
+        "reviews": {
+            "sources": [
+                {
+                    "provider": "VIATOR",
+                    "totalCount": 44,
+                    "averageRating": 5.0
+                },
+                {
+                    "provider": "TRIPADVISOR",
+                    "totalCount": 51,
+                    "averageRating": 5.0
+                }
+            ],
+            "totalReviews": 95,
+            "combinedAverageRating": 5.0
+        },
+        "duration": {
+            "fixedDurationInMinutes": 60
+        },
+        "confirmationType": "INSTANT_THEN_MANUAL",
+        "itineraryType": "STANDARD",
+        "pricing": {
+            "summary": {
+                "fromPrice": 112.68,
+                "fromPriceBeforeDiscount": 112.68
+            },
+            "currency": "USD"
+        },
+        "productUrl": "https://shop.live.rc.viator.com/tours/Paris/EIFFEL-TOWER-TROCADERO-1h-Photo-Shooting/d479-100972P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "destinations": [
+            {
+                "ref": "479",
+                "primary": true
+            }
+        ],
+        "tags": [
+            21946,
+            11938,
+            11939,
+            12046,
+            11969,
+            11941,
+            21972,
+            11915
+        ],
+        "flags": [
+            "FREE_CANCELLATION",
+            "PRIVATE_TOUR"
+        ],
+        "translationInfo": {
+            "containsMachineTranslatedText": false,
+            "translationSource": "ORIGINAL"
+        }
+    },
+    "44598P8": {
+        "productCode": "44598P8",
+        "title": "Paris in a Day - Private Experience",
+        "description": "Explore the atmospheric neighborhoods of Paris like a local on this private custom-made tour that cleverly combines pleasurable walking moments into the historic neighborhoods with the use of private (taxi) and public (metro/bus) transportation when needed. Accompanied by your guide, enjoy walking Latin Quarter and other typical Parisian neighborhoods praised by the locals, admire landmarks like Notre-Dame, Arc de Triomphe, Louvre, Pantheon, Invalides. Discover Paris neighborhoods where you'll stroll the Luxembourg Gardens and lesser known highlights on the way. Get to navigate like a true Parisian and learn to easily and safely use Paris Metro. Receive tips on what to see and do in Paris from a local guide. Private tour ensures a completely customized experience Hassle-free pickup and drop-off at your hotel within Paris city limits. NO pick up at hotels near Paris airports (CDG, Orly, Beauvais). It's like going with your friend who knows a lot about it and wants to share it with you.",
+        "images": [
+            {
+                "imageSource": "SUPPLIER_PROVIDED",
+                "caption": "Eating homemade ice cream in Paris",
+                "isCover": true,
+                "variants": [
+                    {
+                        "height": 50,
+                        "width": 50,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 100,
+                        "width": 100,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 200,
+                        "width": 200,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 400,
+                        "width": 400,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 40,
+                        "width": 60,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 80,
+                        "width": 120,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 120,
+                        "width": 180,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 160,
+                        "width": 240,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 240,
+                        "width": 360,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 320,
+                        "width": 480,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 360,
+                        "width": 540,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 446,
+                        "width": 674,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 480,
+                        "width": 720,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 118,
+                        "width": 210,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 75,
+                        "width": 75,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/06/6c/59/31.jpg"
+                    },
+                    {
+                        "height": 109,
+                        "width": 154,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/06/6c/59/31.jpg"
+                    }
+                ]
+            }
+        ],
+        "reviews": {
+            "sources": [
+                {
+                    "provider": "VIATOR",
+                    "totalCount": 24,
+                    "averageRating": 5.0
+                },
+                {
+                    "provider": "TRIPADVISOR",
+                    "totalCount": 54,
+                    "averageRating": 5.0
+                }
+            ],
+            "totalReviews": 78,
+            "combinedAverageRating": 5.0
+        },
+        "duration": {
+            "variableDurationFromMinutes": 360,
+            "variableDurationToMinutes": 420
+        },
+        "confirmationType": "MANUAL",
+        "itineraryType": "STANDARD",
+        "pricing": {
+            "summary": {
+                "fromPrice": 248.26,
+                "fromPriceBeforeDiscount": 248.26
+            },
+            "currency": "USD"
+        },
+        "productUrl": "https://shop.live.rc.viator.com/tours/Paris/Paris-in-a-Day-Private-Experience/d479-44598P8?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "destinations": [
+            {
+                "ref": "479",
+                "primary": true
+            }
+        ],
+        "tags": [
+            21957,
+            21721,
+            21953,
+            21946,
+            21733,
+            21971,
+            21954,
+            21736,
+            11938,
+            20757,
+            21948,
+            22083,
+            21950,
+            11941,
+            11930,
+            21956,
+            12075,
+            21951,
+            21955,
+            21949,
+            12029,
+            21952,
+            12046,
+            12028,
+            21972
+        ],
+        "flags": [
+            "FREE_CANCELLATION",
+            "PRIVATE_TOUR",
+            "LIKELY_TO_SELL_OUT"
+        ],
+        "translationInfo": {
+            "containsMachineTranslatedText": false,
+            "translationSource": "ORIGINAL"
+        }
+    },
+    "7251P11": {
+        "productCode": "7251P11",
+        "title": "The Paris Monuments Tour",
+        "description": "The Paris Monuments bike tour is focused exclusively on Paris' legendary sites & attractions. You\u2019ll see everything you have on your list, from the Notre Dame to the Eiffel Tower. You\u2019ll cover more ground than you thought possible, experience Paris\u2019 new and best bike lanes, and learn the history of some of the most adored museums and landmarks in the world. Our guides are well trained in Paris history, and more importantly, how to get you to each stop safely - all while gliding gleefully along!",
+        "images": [
+            {
+                "imageSource": "SUPPLIER_PROVIDED",
+                "caption": "",
+                "isCover": true,
+                "variants": [
+                    {
+                        "height": 50,
+                        "width": 50,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 100,
+                        "width": 100,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 200,
+                        "width": 200,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 400,
+                        "width": 400,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 40,
+                        "width": 60,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 80,
+                        "width": 120,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 120,
+                        "width": 180,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 160,
+                        "width": 240,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 240,
+                        "width": 360,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 320,
+                        "width": 480,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 360,
+                        "width": 540,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 446,
+                        "width": 674,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 480,
+                        "width": 720,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 118,
+                        "width": 210,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 75,
+                        "width": 75,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0a/5d/02/e3.jpg"
+                    },
+                    {
+                        "height": 109,
+                        "width": 154,
+                        "url": "https://hare-media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0a/5d/02/e3.jpg"
+                    }
+                ]
+            }
+        ],
+        "reviews": {
+            "sources": [
+                {
+                    "provider": "TRIPADVISOR",
+                    "totalCount": 37,
+                    "averageRating": 5.0
+                }
+            ],
+            "totalReviews": 37,
+            "combinedAverageRating": 5.0
+        },
+        "duration": {
+            "fixedDurationInMinutes": 210
+        },
+        "confirmationType": "INSTANT",
+        "itineraryType": "STANDARD",
+        "pricing": {
+            "summary": {
+                "fromPrice": 49.76,
+                "fromPriceBeforeDiscount": 49.76
+            },
+            "currency": "USD"
+        },
+        "productUrl": "https://shop.live.rc.viator.com/tours/Paris/The-Paris-Monuments-Tour/d479-7251P11?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "destinations": [
+            {
+                "ref": "479",
+                "primary": true
+            }
+        ],
+        "tags": [
+            12029,
+            21702,
+            11929,
+            12028,
+            21972,
+            11911
+        ],
+        "flags": [
+            "FREE_CANCELLATION"
+        ],
+        "translationInfo": {
+            "containsMachineTranslatedText": false,
+            "translationSource": "ORIGINAL"
+        }
+    }
+}
