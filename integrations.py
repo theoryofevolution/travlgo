@@ -1,7 +1,7 @@
 import json
 import requests
 import extractor
-
+import openai
 API_KEY = '3d28194b-f857-4334-930f-36540f9bf313'
 url = 'https://api.sandbox.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
@@ -76,14 +76,6 @@ def viator_post_request(destination:str, start_date:str, end_date:str, user_tags
         json.dump(custom_data, f, indent=4)
 
     matched = {}
-    '''
-    for data in activities_data[0]:
-        for custom in custom_data[0]:
-            if data['productCode'] == custom['productCode']:
-                matched[data['productCode']] = data
-        if custom['productCode'] not in matched:
-            matched[custom['productCode']] = custom
-    '''
 
     for data in activities_data[0]:
         matched[data['productCode']] = data
@@ -101,4 +93,42 @@ def viator_post_request(destination:str, start_date:str, end_date:str, user_tags
     
     return extracted_values
 
-viator_post_request('Paris', '2023-08-14', '2023-08-19', ['Excellent Quality', 'Half-day Tours'], 4)
+extracted_values = viator_post_request('Paris', '2023-08-14', '2023-08-19', ['Excellent Quality', 'Half-day Tours'], 4)
+
+def gpt_formatting(extracted_values, days_spent=2):
+    openai.api_key = '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'
+    prompt = f"""Generate a travel itinerary day by day using the data that you have been given. In between each activity
+    you are allowed to include some information about their travel location, or anything else that is interesting to do on the way to their next place. {json.dumps(extracted_values)} ENSURE THAT YOU USE THE PRODUCT TITLE.
+    Format [YOU CAN ALSO RECOMMEND PLACES TO GO THAT ARE NOT ON THE LIST FOR FOOD AND DRINK. YOU ARE ALLOWED TO REMOVE AND REPLACE ACTIVITIES BASED ON THEIR TRAVEL PACE. IF THEY HAVE A COMFORTABLE TRAVEL PACE, ALLOW FOR 1-2 ACTIVITIES A DAY. IF THEY HAVE AN ADVENTUROUS TRAVEL PACE, INCLUDE THREE ACTIVITIES.
+    THE FOLLOWING IS JUST AN EXAMPLE. DO AS YOU SEE FIT. ENSURE NOT TO SUGGEST REDUNDANT TOURS OF SAME AREAS]:
+    Day 1:
+        Morning Activity:
+            [RECOMMENDATION]
+        Afternoon Activity:
+            [RECOMMENDATION]
+        Evening Activity:
+            [RECOMMENDATION]
+    Day 2:
+        Morning Activity:
+            [RECOMMENDATION]
+        Afternoon Activity:
+            []
+        Evening Activity:
+            [RECOMMENDATION]
+    END OF FORMAT
+    """
+
+    response = openai.Completion.create(
+        engine="text-davinci-003",
+        prompt=prompt,
+        max_tokens=500,
+        temperature=0.7,
+        n=1,
+        stop=None,
+    )
+
+    generated_itinerary = response.choices[0].text.strip()
+
+    print(generated_itinerary)
+
+gpt_formatting(extracted_values, days_spent=2)
