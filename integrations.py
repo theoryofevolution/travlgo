@@ -3,7 +3,8 @@ import requests
 import extractor
 import openai
 import datetime
-API_KEY = '3d28194b-f857-4334-930f-36540f9bf313'
+import config
+API_KEY = config.API_KEY_VIATOR
 url = 'https://api.sandbox.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
 def viator_post_request(destination:str, start_date, end_date, user_tags:list, event_number:int):
@@ -89,16 +90,13 @@ def viator_post_request(destination:str, start_date, end_date, user_tags:list, e
     
     extracted_values = extractor.extract_product_info(matched)
 
-    with open('extracted.json', 'w') as f:
-        json.dump(extracted_values, f, indent=4)
-    
     return extracted_values
 
 def gpt_formatting(extracted_values, start_date, end_date):
     difference = start_date - end_date
     days_spent = difference.days
 
-    openai.api_key = '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'
+    openai.api_key = config.API_KEY_OPENAI
     prompt = f"""Generate a travel itinerary for {days_spent} days using the data that you have been given. In between each activity
     you are allowed to include some information about their travel location, or anything else that is interesting to do on the way to their next place. {json.dumps(extracted_values)} 
     Use the activities above and include ALL of the activities into the itinerary. DO NOT REPEAT ANY EVENTS. Please place the product code next to the title of the activity.
