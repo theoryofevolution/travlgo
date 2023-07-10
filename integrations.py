@@ -2,10 +2,11 @@ import json
 import requests
 import extractor
 import openai
+import datetime
 API_KEY = '3d28194b-f857-4334-930f-36540f9bf313'
 url = 'https://api.sandbox.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
-def viator_post_request(destination:str, start_date:str, end_date:str, user_tags:list, event_number:int):
+def viator_post_request(destination:str, start_date, end_date, user_tags:list, event_number:int):
     activities_data = []
     custom_data = []
     with open('destinations.json') as file:
@@ -34,8 +35,8 @@ def viator_post_request(destination:str, start_date:str, end_date:str, user_tags
             "destination": destination_id,
             "lowestPrice": 5,
             "highestPrice": 500,
-            "startDate": start_date,
-            "endDate": end_date,
+            "startDate": str(start_date),
+            "endDate": str(end_date),
             "includeAutomaticTranslations": True,
             "confirmationType": "INSTANT",
             "durationInMinutes": {"from": 20, "to": 540},
@@ -57,8 +58,8 @@ def viator_post_request(destination:str, start_date:str, end_date:str, user_tags
             "tags": tag_ids,
             "lowestPrice": 5,
             "highestPrice": 500,
-            "startDate": start_date,
-            "endDate": end_date,
+            "startDate": str(start_date),
+            "endDate": str(end_date),
             "includeAutomaticTranslations": True,
             "confirmationType": "INSTANT",
             "durationInMinutes": {"from": 20, "to": 540},
@@ -93,14 +94,15 @@ def viator_post_request(destination:str, start_date:str, end_date:str, user_tags
     
     return extracted_values
 
-extracted_values = viator_post_request('Paris', '2023-08-14', '2023-08-19', ['Excellent Quality', 'Half-day Tours'], 4)
+def gpt_formatting(extracted_values, start_date, end_date):
+    difference = start_date - end_date
+    days_spent = difference.days
 
-def gpt_formatting(extracted_values, days_spent=2):
     openai.api_key = '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'
-    prompt = f"""Generate a travel itinerary day by day using the data that you have been given. In between each activity
-    you are allowed to include some information about their travel location, or anything else that is interesting to do on the way to their next place. {json.dumps(extracted_values)} ENSURE THAT YOU USE THE PRODUCT TITLE.
-    Format [YOU CAN ALSO RECOMMEND PLACES TO GO THAT ARE NOT ON THE LIST FOR FOOD AND DRINK. YOU ARE ALLOWED TO REMOVE AND REPLACE ACTIVITIES BASED ON THEIR TRAVEL PACE. IF THEY HAVE A COMFORTABLE TRAVEL PACE, ALLOW FOR 1-2 ACTIVITIES A DAY. IF THEY HAVE AN ADVENTUROUS TRAVEL PACE, INCLUDE THREE ACTIVITIES.
-    THE FOLLOWING IS JUST AN EXAMPLE. DO AS YOU SEE FIT. ENSURE NOT TO SUGGEST REDUNDANT TOURS OF SAME AREAS]:
+    prompt = f"""Generate a travel itinerary for {days_spent} days using the data that you have been given. In between each activity
+    you are allowed to include some information about their travel location, or anything else that is interesting to do on the way to their next place. {json.dumps(extracted_values)} 
+    Use the activities above and include ALL of the activities into the itinerary. DO NOT REPEAT ANY EVENTS. Please place the product code next to the title of the activity.
+    Format:
     Day 1:
         Morning Activity:
             [RECOMMENDATION]
@@ -112,7 +114,7 @@ def gpt_formatting(extracted_values, days_spent=2):
         Morning Activity:
             [RECOMMENDATION]
         Afternoon Activity:
-            []
+            [RECOMMENDATION]
         Evening Activity:
             [RECOMMENDATION]
     END OF FORMAT
@@ -129,6 +131,4 @@ def gpt_formatting(extracted_values, days_spent=2):
 
     generated_itinerary = response.choices[0].text.strip()
 
-    print(generated_itinerary)
-
-gpt_formatting(extracted_values, days_spent=2)
+    return generated_itinerary
