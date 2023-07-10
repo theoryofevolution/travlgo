@@ -1,0 +1,4840 @@
+{
+    "tags": [
+        {
+            "tagId": 21545,
+            "tagNameEn": "Motor Sports Classes"
+        },
+        {
+            "tagId": 20214,
+            "tagNameEn": "Flamenco Performance"
+        },
+        {
+            "tagId": 21544,
+            "tagNameEn": "Lacrosse Classes"
+        },
+        {
+            "tagId": 20213,
+            "tagNameEn": "Father's Day "
+        },
+        {
+            "tagId": 9188,
+            "tagNameEn": "Fitness center"
+        },
+        {
+            "tagId": 21543,
+            "tagNameEn": "Ice Skating Classes"
+        },
+        {
+            "tagId": 20212,
+            "tagNameEn": "Escape Rooms"
+        },
+        {
+            "tagId": 21542,
+            "tagNameEn": "Horse Racing Classes"
+        },
+        {
+            "tagId": 20211,
+            "tagNameEn": "Distillery Tours "
+        },
+        {
+            "tagId": 21541,
+            "tagNameEn": "Hockey Classes"
+        },
+        {
+            "tagId": 20210,
+            "tagNameEn": "Dhow Cruises "
+        },
+        {
+            "tagId": 21540,
+            "tagNameEn": "Gymnastics Classes"
+        },
+        {
+            "tagId": 9182,
+            "tagNameEn": "Hot Tub"
+        },
+        {
+            "tagId": 9183,
+            "tagNameEn": "Golf course"
+        },
+        {
+            "tagId": 9180,
+            "tagNameEn": "Dry Cleaning"
+        },
+        {
+            "tagId": 9181,
+            "tagNameEn": "Meeting rooms"
+        },
+        {
+            "tagId": 20219,
+            "tagNameEn": "Jazz Shows"
+        },
+        {
+            "tagId": 21549,
+            "tagNameEn": "Shooting Classes"
+        },
+        {
+            "tagId": 20218,
+            "tagNameEn": "Glassblowing Classes "
+        },
+        {
+            "tagId": 9187,
+            "tagNameEn": "Business center"
+        },
+        {
+            "tagId": 21548,
+            "tagNameEn": "Rugby Classes"
+        },
+        {
+            "tagId": 20217,
+            "tagNameEn": "Fun & Games"
+        },
+        {
+            "tagId": 9184,
+            "tagNameEn": "Non-smoking rooms"
+        },
+        {
+            "tagId": 21547,
+            "tagNameEn": "Rollerblading Classes"
+        },
+        {
+            "tagId": 20216,
+            "tagNameEn": "Flyboarding "
+        },
+        {
+            "tagId": 9185,
+            "tagNameEn": "Tennis Court"
+        },
+        {
+            "tagId": 21546,
+            "tagNameEn": "Rock Climbing Classes"
+        },
+        {
+            "tagId": 20215,
+            "tagNameEn": "Float Trips "
+        },
+        {
+            "tagId": 11980,
+            "tagNameEn": "Italian Riviera Multi Day Trips from Milan"
+        },
+        {
+            "tagId": 11982,
+            "tagNameEn": "Cinque Terre Day Trips from Milan"
+        },
+        {
+            "tagId": 11981,
+            "tagNameEn": "Genoa Day Trips from Milan"
+        },
+        {
+            "tagId": 21556,
+            "tagNameEn": "Wrestling Classes"
+        },
+        {
+            "tagId": 20225,
+            "tagNameEn": "Light & Sound Shows "
+        },
+        {
+            "tagId": 21555,
+            "tagNameEn": "Track and Field Classes"
+        },
+        {
+            "tagId": 20224,
+            "tagNameEn": "Layover Tours "
+        },
+        {
+            "tagId": 21554,
+            "tagNameEn": "Tennis Classes"
+        },
+        {
+            "tagId": 20223,
+            "tagNameEn": "Language Classes "
+        },
+        {
+            "tagId": 21553,
+            "tagNameEn": "Swordsmanship Classes"
+        },
+        {
+            "tagId": 20222,
+            "tagNameEn": "LGBT Friendly Tours "
+        },
+        {
+            "tagId": 21552,
+            "tagNameEn": "Swimming Classes"
+        },
+        {
+            "tagId": 21551,
+            "tagNameEn": "Softball Classes"
+        },
+        {
+            "tagId": 20220,
+            "tagNameEn": "Jetpacks "
+        },
+        {
+            "tagId": 21550,
+            "tagNameEn": "Soccer Classes"
+        },
+        {
+            "tagId": 20229,
+            "tagNameEn": "Obstacle Courses "
+        },
+        {
+            "tagId": 21559,
+            "tagNameEn": "Bar Tours"
+        },
+        {
+            "tagId": 20228,
+            "tagNameEn": "Music Classes "
+        },
+        {
+            "tagId": 21558,
+            "tagNameEn": "Folk Dancing Lessons"
+        },
+        {
+            "tagId": 20227,
+            "tagNameEn": "Martial Arts Classes "
+        },
+        {
+            "tagId": 21557,
+            "tagNameEn": "Flight Instruction Classes"
+        },
+        {
+            "tagId": 20226,
+            "tagNameEn": "Markets"
+        },
+        {
+            "tagId": 11999,
+            "tagNameEn": "Rome To Siena"
+        },
+        {
+            "tagId": 11998,
+            "tagNameEn": "Rome To Tuscany"
+        },
+        {
+            "tagId": 11993,
+            "tagNameEn": "Rome To Florence"
+        },
+        {
+            "tagId": 11992,
+            "tagNameEn": "Rome To Venice"
+        },
+        {
+            "tagId": 11995,
+            "tagNameEn": "Rome To Positano"
+        },
+        {
+            "tagId": 11994,
+            "tagNameEn": "Rome To Sorrento"
+        },
+        {
+            "tagId": 11997,
+            "tagNameEn": "Rome To Capri"
+        },
+        {
+            "tagId": 11996,
+            "tagNameEn": "Rome To Pisa"
+        },
+        {
+            "tagId": 21523,
+            "tagNameEn": "Historical Reenactments"
+        },
+        {
+            "tagId": 21765,
+            "tagNameEn": "Shows"
+        },
+        {
+            "tagId": 21522,
+            "tagNameEn": "Meditation"
+        },
+        {
+            "tagId": 21764,
+            "tagNameEn": "Fashion Tours"
+        },
+        {
+            "tagId": 21521,
+            "tagNameEn": "Costume Dress Up Experiences"
+        },
+        {
+            "tagId": 21763,
+            "tagNameEn": "Kendama"
+        },
+        {
+            "tagId": 21520,
+            "tagNameEn": "TV Tours"
+        },
+        {
+            "tagId": 21762,
+            "tagNameEn": "Roller Skating"
+        },
+        {
+            "tagId": 21761,
+            "tagNameEn": "Performance Car Driving"
+        },
+        {
+            "tagId": 21760,
+            "tagNameEn": "Camping"
+        },
+        {
+            "tagId": 21529,
+            "tagNameEn": "Baseball Classes"
+        },
+        {
+            "tagId": 21528,
+            "tagNameEn": "Badminton Classes"
+        },
+        {
+            "tagId": 21527,
+            "tagNameEn": "Australian Rules Football (AFL) Classes"
+        },
+        {
+            "tagId": 21526,
+            "tagNameEn": "Archery Classes"
+        },
+        {
+            "tagId": 21768,
+            "tagNameEn": "Shore Excursions"
+        },
+        {
+            "tagId": 21525,
+            "tagNameEn": "Skiing Classes"
+        },
+        {
+            "tagId": 21767,
+            "tagNameEn": "Swimming Competitions"
+        },
+        {
+            "tagId": 21524,
+            "tagNameEn": "Zen Dojo"
+        },
+        {
+            "tagId": 21766,
+            "tagNameEn": "Snowboarding Competitions"
+        },
+        {
+            "tagId": 11966,
+            "tagNameEn": "Glass Bottom Boat Tours"
+        },
+        {
+            "tagId": 11965,
+            "tagNameEn": "Dinner Cruises"
+        },
+        {
+            "tagId": 11968,
+            "tagNameEn": "Airboat Tours"
+        },
+        {
+            "tagId": 11967,
+            "tagNameEn": "Brunch Cruises"
+        },
+        {
+            "tagId": 11969,
+            "tagNameEn": "Photography Tours"
+        },
+        {
+            "tagId": 11960,
+            "tagNameEn": "Western Caribbean Shore Excursions"
+        },
+        {
+            "tagId": 11962,
+            "tagNameEn": "Sustainable Tours"
+        },
+        {
+            "tagId": 11961,
+            "tagNameEn": "Southern Caribbean Shore Excursions"
+        },
+        {
+            "tagId": 11964,
+            "tagNameEn": "Lunch Cruises"
+        },
+        {
+            "tagId": 11963,
+            "tagNameEn": "Sunset Cruises"
+        },
+        {
+            "tagId": 21534,
+            "tagNameEn": "Crossfit Classes"
+        },
+        {
+            "tagId": 21776,
+            "tagNameEn": "Discount Cards"
+        },
+        {
+            "tagId": 20203,
+            "tagNameEn": "Ballet Tickets"
+        },
+        {
+            "tagId": 21533,
+            "tagNameEn": "Climbing Classes"
+        },
+        {
+            "tagId": 21775,
+            "tagNameEn": "Dining Cards"
+        },
+        {
+            "tagId": 20202,
+            "tagNameEn": "Art Classes "
+        },
+        {
+            "tagId": 21532,
+            "tagNameEn": "Boxing Classes"
+        },
+        {
+            "tagId": 21774,
+            "tagNameEn": "Fashion Shows"
+        },
+        {
+            "tagId": 21531,
+            "tagNameEn": "Bowling Classes"
+        },
+        {
+            "tagId": 21530,
+            "tagNameEn": "Basketball Classes"
+        },
+        {
+            "tagId": 20209,
+            "tagNameEn": "Dance Lessons "
+        },
+        {
+            "tagId": 21539,
+            "tagNameEn": "Golf Classes"
+        },
+        {
+            "tagId": 20208,
+            "tagNameEn": "Craft Classes "
+        },
+        {
+            "tagId": 21538,
+            "tagNameEn": "Football (American) Classes"
+        },
+        {
+            "tagId": 20207,
+            "tagNameEn": "Classical Music "
+        },
+        {
+            "tagId": 21537,
+            "tagNameEn": "Fitness Classes"
+        },
+        {
+            "tagId": 21779,
+            "tagNameEn": "Amusement Parks"
+        },
+        {
+            "tagId": 20206,
+            "tagNameEn": "Classic Car Tours "
+        },
+        {
+            "tagId": 21536,
+            "tagNameEn": "Fencing Classes"
+        },
+        {
+            "tagId": 21778,
+            "tagNameEn": "Beach Access"
+        },
+        {
+            "tagId": 20205,
+            "tagNameEn": "Chocolate Tours "
+        },
+        {
+            "tagId": 21535,
+            "tagNameEn": "Cycling Classes"
+        },
+        {
+            "tagId": 21777,
+            "tagNameEn": "Fireworks Shows"
+        },
+        {
+            "tagId": 20204,
+            "tagNameEn": "Catamaran Cruises "
+        },
+        {
+            "tagId": 11977,
+            "tagNameEn": "Verona Day Trips from Milan"
+        },
+        {
+            "tagId": 11976,
+            "tagNameEn": "Yoga Classes"
+        },
+        {
+            "tagId": 11979,
+            "tagNameEn": "Swiss Alps Day Trips from Milan"
+        },
+        {
+            "tagId": 11978,
+            "tagNameEn": "Venice Day Trips from Milan"
+        },
+        {
+            "tagId": 11971,
+            "tagNameEn": "Plantation Tours"
+        },
+        {
+            "tagId": 11970,
+            "tagNameEn": "Horse Carriage Rides"
+        },
+        {
+            "tagId": 11973,
+            "tagNameEn": "Horseback Riding"
+        },
+        {
+            "tagId": 11972,
+            "tagNameEn": "Airport Lounges"
+        },
+        {
+            "tagId": 11975,
+            "tagNameEn": "Onsens"
+        },
+        {
+            "tagId": 11974,
+            "tagNameEn": "Stand Up Paddleboarding"
+        },
+        {
+            "tagId": 21501,
+            "tagNameEn": "Mandarin Lessons"
+        },
+        {
+            "tagId": 21743,
+            "tagNameEn": "SIM Cards"
+        },
+        {
+            "tagId": 21500,
+            "tagNameEn": "Korean Lessons"
+        },
+        {
+            "tagId": 21742,
+            "tagNameEn": "Services"
+        },
+        {
+            "tagId": 21741,
+            "tagNameEn": "Rail Transfers"
+        },
+        {
+            "tagId": 21740,
+            "tagNameEn": "Rail Passes"
+        },
+        {
+            "tagId": 21509,
+            "tagNameEn": "Arts & Design"
+        },
+        {
+            "tagId": 21507,
+            "tagNameEn": "Snowboarding Classes"
+        },
+        {
+            "tagId": 21749,
+            "tagNameEn": "Transportation"
+        },
+        {
+            "tagId": 21506,
+            "tagNameEn": "Turkish Lessons"
+        },
+        {
+            "tagId": 21505,
+            "tagNameEn": "Swedish Lessons"
+        },
+        {
+            "tagId": 21504,
+            "tagNameEn": "Russian Lessons"
+        },
+        {
+            "tagId": 21503,
+            "tagNameEn": "Portuguese Lessons"
+        },
+        {
+            "tagId": 21745,
+            "tagNameEn": "Transfers"
+        },
+        {
+            "tagId": 21502,
+            "tagNameEn": "Norwegian Lessons"
+        },
+        {
+            "tagId": 11944,
+            "tagNameEn": "Universal Theme Parks"
+        },
+        {
+            "tagId": 11943,
+            "tagNameEn": "Inter-Island Flights"
+        },
+        {
+            "tagId": 11946,
+            "tagNameEn": "High Tea"
+        },
+        {
+            "tagId": 11948,
+            "tagNameEn": "Super Savers"
+        },
+        {
+            "tagId": 11947,
+            "tagNameEn": "Viator Private Guides"
+        },
+        {
+            "tagId": 11949,
+            "tagNameEn": "Climbing"
+        },
+        {
+            "tagId": 10851,
+            "tagNameEn": "Shopping"
+        },
+        {
+            "tagId": 11940,
+            "tagNameEn": "Once in a Lifetime Experiences"
+        },
+        {
+            "tagId": 10850,
+            "tagNameEn": "Theaters"
+        },
+        {
+            "tagId": 11942,
+            "tagNameEn": "Custom Private Tours"
+        },
+        {
+            "tagId": 11941,
+            "tagNameEn": "Private Sightseeing Tours"
+        },
+        {
+            "tagId": 21512,
+            "tagNameEn": "Literary Tours"
+        },
+        {
+            "tagId": 21754,
+            "tagNameEn": "Local Impact"
+        },
+        {
+            "tagId": 21511,
+            "tagNameEn": "Culture"
+        },
+        {
+            "tagId": 21753,
+            "tagNameEn": "Photo Shoots"
+        },
+        {
+            "tagId": 21510,
+            "tagNameEn": "Crime Tours"
+        },
+        {
+            "tagId": 21752,
+            "tagNameEn": "Wi-Fi Cards"
+        },
+        {
+            "tagId": 21751,
+            "tagNameEn": "Transportation Rentals"
+        },
+        {
+            "tagId": 21750,
+            "tagNameEn": "Transportation Passes"
+        },
+        {
+            "tagId": 21519,
+            "tagNameEn": "Street Art Tour"
+        },
+        {
+            "tagId": 21518,
+            "tagNameEn": "Religious Tours"
+        },
+        {
+            "tagId": 21517,
+            "tagNameEn": "Pop Culture"
+        },
+        {
+            "tagId": 21759,
+            "tagNameEn": "Traditional Wellness"
+        },
+        {
+            "tagId": 21516,
+            "tagNameEn": "Shows & Performances"
+        },
+        {
+            "tagId": 21758,
+            "tagNameEn": "Six Flags"
+        },
+        {
+            "tagId": 21515,
+            "tagNameEn": "Music Tours"
+        },
+        {
+            "tagId": 21757,
+            "tagNameEn": "Sea World"
+        },
+        {
+            "tagId": 21514,
+            "tagNameEn": "Museums"
+        },
+        {
+            "tagId": 21756,
+            "tagNameEn": "Busch Gardens"
+        },
+        {
+            "tagId": 21513,
+            "tagNameEn": "Mosque Tours"
+        },
+        {
+            "tagId": 11955,
+            "tagNameEn": "Viator VIP Tours"
+        },
+        {
+            "tagId": 11954,
+            "tagNameEn": "Viator Exclusive Tours"
+        },
+        {
+            "tagId": 11957,
+            "tagNameEn": "Easter"
+        },
+        {
+            "tagId": 11956,
+            "tagNameEn": "Day of the Dead"
+        },
+        {
+            "tagId": 11959,
+            "tagNameEn": "Eastern Caribbean Shore Excursions"
+        },
+        {
+            "tagId": 11958,
+            "tagNameEn": "Private Transfers"
+        },
+        {
+            "tagId": 11951,
+            "tagNameEn": "Winter Sports Rentals"
+        },
+        {
+            "tagId": 11950,
+            "tagNameEn": "Winter Sports Tickets & Passes"
+        },
+        {
+            "tagId": 11953,
+            "tagNameEn": "Beer & Brewery Tours"
+        },
+        {
+            "tagId": 11952,
+            "tagNameEn": "Ziplining"
+        },
+        {
+            "tagId": 21721,
+            "tagNameEn": "Public Transportation Tours"
+        },
+        {
+            "tagId": 21720,
+            "tagNameEn": "Rentals"
+        },
+        {
+            "tagId": 21961,
+            "tagNameEn": "Sanitation measures applied"
+        },
+        {
+            "tagId": 21960,
+            "tagNameEn": "Contactless payment for gratuities and add-ons"
+        },
+        {
+            "tagId": 21729,
+            "tagNameEn": "Sightseeing Cruises"
+        },
+        {
+            "tagId": 11919,
+            "tagNameEn": "Kid-Friendly"
+        },
+        {
+            "tagId": 11918,
+            "tagNameEn": "Private Day Trips"
+        },
+        {
+            "tagId": 21726,
+            "tagNameEn": "Skyscrapers & Towers"
+        },
+        {
+            "tagId": 21725,
+            "tagNameEn": "Sightseeing Tours"
+        },
+        {
+            "tagId": 21724,
+            "tagNameEn": "See it by Air"
+        },
+        {
+            "tagId": 21722,
+            "tagNameEn": "Seaplane Tours"
+        },
+        {
+            "tagId": 11922,
+            "tagNameEn": "Multi-day Tours"
+        },
+        {
+            "tagId": 11921,
+            "tagNameEn": "Overnight Tours"
+        },
+        {
+            "tagId": 10835,
+            "tagNameEn": "Good View"
+        },
+        {
+            "tagId": 11924,
+            "tagNameEn": "Dinner and Show Tickets"
+        },
+        {
+            "tagId": 11923,
+            "tagNameEn": "Extreme Sports"
+        },
+        {
+            "tagId": 11926,
+            "tagNameEn": "Sightseeing Packages"
+        },
+        {
+            "tagId": 10836,
+            "tagNameEn": "Good For Honeymoon"
+        },
+        {
+            "tagId": 11925,
+            "tagNameEn": "Adults-only Shows"
+        },
+        {
+            "tagId": 11928,
+            "tagNameEn": "Full-day Tours"
+        },
+        {
+            "tagId": 21719,
+            "tagNameEn": "Power Boats"
+        },
+        {
+            "tagId": 11927,
+            "tagNameEn": "Zoo Tickets"
+        },
+        {
+            "tagId": 21732,
+            "tagNameEn": "Tours by Duration"
+        },
+        {
+            "tagId": 21731,
+            "tagNameEn": "Speed Boat Rentals"
+        },
+        {
+            "tagId": 21730,
+            "tagNameEn": "Specialty Plane Tours"
+        },
+        {
+            "tagId": 21972,
+            "tagNameEn": "Excellent Quality"
+        },
+        {
+            "tagId": 21971,
+            "tagNameEn": "Viator Plus"
+        },
+        {
+            "tagId": 21739,
+            "tagNameEn": "Private Residence Transfers"
+        },
+        {
+            "tagId": 11929,
+            "tagNameEn": "Half-day Tours"
+        },
+        {
+            "tagId": 21738,
+            "tagNameEn": "Luggage Storage"
+        },
+        {
+            "tagId": 21736,
+            "tagNameEn": "Luxury Car Tours"
+        },
+        {
+            "tagId": 21735,
+            "tagNameEn": "Helicopter Transfers"
+        },
+        {
+            "tagId": 21734,
+            "tagNameEn": "Limousine Tours"
+        },
+        {
+            "tagId": 21733,
+            "tagNameEn": "Car Tours"
+        },
+        {
+            "tagId": 11933,
+            "tagNameEn": "Jet Boat Rentals"
+        },
+        {
+            "tagId": 11932,
+            "tagNameEn": "Boat Rentals"
+        },
+        {
+            "tagId": 10846,
+            "tagNameEn": "Nightlife Seeker"
+        },
+        {
+            "tagId": 11935,
+            "tagNameEn": "Entertainment Packages"
+        },
+        {
+            "tagId": 10845,
+            "tagNameEn": "Outdoor Activities"
+        },
+        {
+            "tagId": 10848,
+            "tagNameEn": "Landmarks"
+        },
+        {
+            "tagId": 11937,
+            "tagNameEn": "Port Transfers "
+        },
+        {
+            "tagId": 10847,
+            "tagNameEn": "Museums"
+        },
+        {
+            "tagId": 11939,
+            "tagNameEn": "Romantic Tours"
+        },
+        {
+            "tagId": 10849,
+            "tagNameEn": "Airport"
+        },
+        {
+            "tagId": 11938,
+            "tagNameEn": "Private and Luxury"
+        },
+        {
+            "tagId": 11931,
+            "tagNameEn": "City Packages"
+        },
+        {
+            "tagId": 11930,
+            "tagNameEn": "Bus Tours"
+        },
+        {
+            "tagId": 19067,
+            "tagNameEn": "Serbian"
+        },
+        {
+            "tagId": 19066,
+            "tagNameEn": "Separate Living Room"
+        },
+        {
+            "tagId": 19069,
+            "tagNameEn": "Shared Kitchen"
+        },
+        {
+            "tagId": 19068,
+            "tagNameEn": "Shallow End"
+        },
+        {
+            "tagId": 19063,
+            "tagNameEn": "24-Hour Security"
+        },
+        {
+            "tagId": 19062,
+            "tagNameEn": "Seating Area"
+        },
+        {
+            "tagId": 19065,
+            "tagNameEn": "Separate Dining Area"
+        },
+        {
+            "tagId": 19064,
+            "tagNameEn": "Secured Parking"
+        },
+        {
+            "tagId": 19061,
+            "tagNameEn": "Saltwater Pool"
+        },
+        {
+            "tagId": 19060,
+            "tagNameEn": "Salon"
+        },
+        {
+            "tagId": 19078,
+            "tagNameEn": "Slovak"
+        },
+        {
+            "tagId": 19077,
+            "tagNameEn": "Ski School"
+        },
+        {
+            "tagId": 19079,
+            "tagNameEn": "Slovenian"
+        },
+        {
+            "tagId": 19074,
+            "tagNameEn": "Sinhala"
+        },
+        {
+            "tagId": 19073,
+            "tagNameEn": "Shops"
+        },
+        {
+            "tagId": 19076,
+            "tagNameEn": "Ski Rentals"
+        },
+        {
+            "tagId": 19075,
+            "tagNameEn": "Skiing"
+        },
+        {
+            "tagId": 19070,
+            "tagNameEn": "Shared Lounge / TV Area"
+        },
+        {
+            "tagId": 19072,
+            "tagNameEn": "Shoeshine"
+        },
+        {
+            "tagId": 19071,
+            "tagNameEn": "Shared Bathroom"
+        },
+        {
+            "tagId": 12208,
+            "tagNameEn": "Dine With a Local Chef"
+        },
+        {
+            "tagId": 19049,
+            "tagNameEn": "Private Bathrooms"
+        },
+        {
+            "tagId": 19048,
+            "tagNameEn": "Portuguese"
+        },
+        {
+            "tagId": 19045,
+            "tagNameEn": "Pool / Beach Towels"
+        },
+        {
+            "tagId": 19044,
+            "tagNameEn": "Polish"
+        },
+        {
+            "tagId": 19047,
+            "tagNameEn": "Pool with View"
+        },
+        {
+            "tagId": 19046,
+            "tagNameEn": "Pool View"
+        },
+        {
+            "tagId": 19041,
+            "tagNameEn": "Personal Trainer"
+        },
+        {
+            "tagId": 19040,
+            "tagNameEn": "Pedicure"
+        },
+        {
+            "tagId": 19043,
+            "tagNameEn": "Plunge Pool"
+        },
+        {
+            "tagId": 19042,
+            "tagNameEn": "Picnic Area"
+        },
+        {
+            "tagId": 19059,
+            "tagNameEn": "Russian"
+        },
+        {
+            "tagId": 19056,
+            "tagNameEn": "Raquetball Off-site"
+        },
+        {
+            "tagId": 19055,
+            "tagNameEn": "Raquetball"
+        },
+        {
+            "tagId": 19058,
+            "tagNameEn": "Romanian"
+        },
+        {
+            "tagId": 19057,
+            "tagNameEn": "Radio"
+        },
+        {
+            "tagId": 19052,
+            "tagNameEn": "Paid Private Parking Nearby"
+        },
+        {
+            "tagId": 19051,
+            "tagNameEn": "Paid Private Parking On-site"
+        },
+        {
+            "tagId": 19054,
+            "tagNameEn": "Paid Public Parking On-site"
+        },
+        {
+            "tagId": 19053,
+            "tagNameEn": "Paid Public Parking Nearby"
+        },
+        {
+            "tagId": 19050,
+            "tagNameEn": "Private Check-in / Check-out"
+        },
+        {
+            "tagId": 19027,
+            "tagNameEn": "Neck Massage"
+        },
+        {
+            "tagId": 21589,
+            "tagNameEn": "Wedding Ceremonies"
+        },
+        {
+            "tagId": 19026,
+            "tagNameEn": "Mountain View"
+        },
+        {
+            "tagId": 21588,
+            "tagNameEn": "Summer"
+        },
+        {
+            "tagId": 20257,
+            "tagNameEn": "White Water Rafting "
+        },
+        {
+            "tagId": 19029,
+            "tagNameEn": "Newspaper"
+        },
+        {
+            "tagId": 21587,
+            "tagNameEn": "Spring"
+        },
+        {
+            "tagId": 20256,
+            "tagNameEn": "Water Transfers "
+        },
+        {
+            "tagId": 19028,
+            "tagNameEn": "Nepali"
+        },
+        {
+            "tagId": 21586,
+            "tagNameEn": "Island Packages"
+        },
+        {
+            "tagId": 20255,
+            "tagNameEn": "Water Tours"
+        },
+        {
+            "tagId": 19023,
+            "tagNameEn": "Massage Chair"
+        },
+        {
+            "tagId": 21585,
+            "tagNameEn": "Independence Day"
+        },
+        {
+            "tagId": 20254,
+            "tagNameEn": "Water Equipment Rentals"
+        },
+        {
+            "tagId": 19022,
+            "tagNameEn": "Massage"
+        },
+        {
+            "tagId": 21584,
+            "tagNameEn": "Holidays"
+        },
+        {
+            "tagId": 20253,
+            "tagNameEn": "Volunteer Tours "
+        },
+        {
+            "tagId": 19025,
+            "tagNameEn": "Mosquito Net"
+        },
+        {
+            "tagId": 21583,
+            "tagNameEn": "Lunar New Year"
+        },
+        {
+            "tagId": 20252,
+            "tagNameEn": "Underground Tours "
+        },
+        {
+            "tagId": 19024,
+            "tagNameEn": "Mini Golf"
+        },
+        {
+            "tagId": 21582,
+            "tagNameEn": "Boxing Day"
+        },
+        {
+            "tagId": 20251,
+            "tagNameEn": "Tuk Tuk Tours "
+        },
+        {
+            "tagId": 19021,
+            "tagNameEn": "Manicure"
+        },
+        {
+            "tagId": 19020,
+            "tagNameEn": "Malay"
+        },
+        {
+            "tagId": 21581,
+            "tagNameEn": "Autumn / Fall"
+        },
+        {
+            "tagId": 20250,
+            "tagNameEn": "Trolley Tours "
+        },
+        {
+            "tagId": 21580,
+            "tagNameEn": "Australia Day"
+        },
+        {
+            "tagId": 19038,
+            "tagNameEn": "Parking Garage"
+        },
+        {
+            "tagId": 19037,
+            "tagNameEn": "Oven"
+        },
+        {
+            "tagId": 21599,
+            "tagNameEn": "Australian Rules Football"
+        },
+        {
+            "tagId": 21598,
+            "tagNameEn": "Art Galleries"
+        },
+        {
+            "tagId": 19039,
+            "tagNameEn": "Patio"
+        },
+        {
+            "tagId": 21597,
+            "tagNameEn": "Archery"
+        },
+        {
+            "tagId": 19034,
+            "tagNameEn": "Outdoor Dining Area"
+        },
+        {
+            "tagId": 21596,
+            "tagNameEn": "Aquariums"
+        },
+        {
+            "tagId": 19033,
+            "tagNameEn": "Open-air Bath"
+        },
+        {
+            "tagId": 21595,
+            "tagNameEn": "American Football"
+        },
+        {
+            "tagId": 19036,
+            "tagNameEn": "Outdoor Furniture"
+        },
+        {
+            "tagId": 19035,
+            "tagNameEn": "Outdoor Fireplace"
+        },
+        {
+            "tagId": 21593,
+            "tagNameEn": "Weddings & Celebrations"
+        },
+        {
+            "tagId": 19030,
+            "tagNameEn": "Nightclub / DJ"
+        },
+        {
+            "tagId": 19032,
+            "tagNameEn": "On-Demand Movies"
+        },
+        {
+            "tagId": 19031,
+            "tagNameEn": "Norwegian"
+        },
+        {
+            "tagId": 21592,
+            "tagNameEn": "Seasonal"
+        },
+        {
+            "tagId": 21591,
+            "tagNameEn": "Thanksgiving"
+        },
+        {
+            "tagId": 21590,
+            "tagNameEn": "Winter"
+        },
+        {
+            "tagId": 19005,
+            "tagNameEn": "Japanese"
+        },
+        {
+            "tagId": 21567,
+            "tagNameEn": "Food Tours"
+        },
+        {
+            "tagId": 20236,
+            "tagNameEn": "Pedicab Tours "
+        },
+        {
+            "tagId": 19004,
+            "tagNameEn": "Italian"
+        },
+        {
+            "tagId": 20235,
+            "tagNameEn": "Parasailing "
+        },
+        {
+            "tagId": 19007,
+            "tagNameEn": "Khmer"
+        },
+        {
+            "tagId": 20234,
+            "tagNameEn": "Paragliding "
+        },
+        {
+            "tagId": 19006,
+            "tagNameEn": "Karaoke"
+        },
+        {
+            "tagId": 21564,
+            "tagNameEn": "Donut Walking Tour"
+        },
+        {
+            "tagId": 20233,
+            "tagNameEn": "Painting Classes "
+        },
+        {
+            "tagId": 19001,
+            "tagNameEn": "iPod Docking Station"
+        },
+        {
+            "tagId": 21563,
+            "tagNameEn": "Desserts & Sweets"
+        },
+        {
+            "tagId": 20232,
+            "tagNameEn": "Paintball "
+        },
+        {
+            "tagId": 19000,
+            "tagNameEn": "Interconnected room(s) available"
+        },
+        {
+            "tagId": 21562,
+            "tagNameEn": "Dessert Tours"
+        },
+        {
+            "tagId": 20231,
+            "tagNameEn": "Other Outdoor Activities "
+        },
+        {
+            "tagId": 19003,
+            "tagNameEn": "Ironing Service"
+        },
+        {
+            "tagId": 21561,
+            "tagNameEn": "Coffee Farm Tour"
+        },
+        {
+            "tagId": 20230,
+            "tagNameEn": "Opera Performances"
+        },
+        {
+            "tagId": 19002,
+            "tagNameEn": "Iron"
+        },
+        {
+            "tagId": 21560,
+            "tagNameEn": "Coffee & Tea"
+        },
+        {
+            "tagId": 20239,
+            "tagNameEn": "Sake Tasting"
+        },
+        {
+            "tagId": 21569,
+            "tagNameEn": "Farmers Markets"
+        },
+        {
+            "tagId": 20238,
+            "tagNameEn": "Private Drivers "
+        },
+        {
+            "tagId": 20237,
+            "tagNameEn": "Pottery Classes "
+        },
+        {
+            "tagId": 19009,
+            "tagNameEn": "Kid-Friendly Buffet"
+        },
+        {
+            "tagId": 19008,
+            "tagNameEn": "Kids' Meals"
+        },
+        {
+            "tagId": 19016,
+            "tagNameEn": "Light Therapy"
+        },
+        {
+            "tagId": 21578,
+            "tagNameEn": "Lunch"
+        },
+        {
+            "tagId": 20247,
+            "tagNameEn": "Tennis "
+        },
+        {
+            "tagId": 19015,
+            "tagNameEn": "Latvian"
+        },
+        {
+            "tagId": 21577,
+            "tagNameEn": "Brunch"
+        },
+        {
+            "tagId": 20246,
+            "tagNameEn": "Surfing Lessons "
+        },
+        {
+            "tagId": 19018,
+            "tagNameEn": "Macedonian"
+        },
+        {
+            "tagId": 21576,
+            "tagNameEn": "Breakfast"
+        },
+        {
+            "tagId": 20245,
+            "tagNameEn": "Street Food Tours "
+        },
+        {
+            "tagId": 19017,
+            "tagNameEn": "Lithuanian"
+        },
+        {
+            "tagId": 21575,
+            "tagNameEn": "Wine, Beer & Spirits"
+        },
+        {
+            "tagId": 20244,
+            "tagNameEn": "Sports Lessons "
+        },
+        {
+            "tagId": 19012,
+            "tagNameEn": "Korean"
+        },
+        {
+            "tagId": 21574,
+            "tagNameEn": "Wine Tours"
+        },
+        {
+            "tagId": 20243,
+            "tagNameEn": "Sporting Event Tickets & Passes "
+        },
+        {
+            "tagId": 19011,
+            "tagNameEn": "Kitchenware"
+        },
+        {
+            "tagId": 21573,
+            "tagNameEn": "Taco Tours"
+        },
+        {
+            "tagId": 20242,
+            "tagNameEn": "Spanish Lessons "
+        },
+        {
+            "tagId": 19014,
+            "tagNameEn": "Laptop Safe"
+        },
+        {
+            "tagId": 21572,
+            "tagNameEn": "Sake Brewery Tour"
+        },
+        {
+            "tagId": 20241,
+            "tagNameEn": "Sightseeing Passes "
+        },
+        {
+            "tagId": 19013,
+            "tagNameEn": "Landmark View"
+        },
+        {
+            "tagId": 21571,
+            "tagNameEn": "Restaurants"
+        },
+        {
+            "tagId": 20240,
+            "tagNameEn": "Sidecar Tours "
+        },
+        {
+            "tagId": 19010,
+            "tagNameEn": "Kids' Outdoor Play Equipment"
+        },
+        {
+            "tagId": 20249,
+            "tagNameEn": "Trikke Tours "
+        },
+        {
+            "tagId": 21579,
+            "tagNameEn": "Dinner"
+        },
+        {
+            "tagId": 20248,
+            "tagNameEn": "Transportation Services"
+        },
+        {
+            "tagId": 21570,
+            "tagNameEn": "Pastry Tours"
+        },
+        {
+            "tagId": 19019,
+            "tagNameEn": "Makeup Services"
+        },
+        {
+            "tagId": 11776,
+            "tagNameEn": "Bars & Pubs"
+        },
+        {
+            "tagId": 18930,
+            "tagNameEn": "Clothes Rack"
+        },
+        {
+            "tagId": 9623,
+            "tagNameEn": "Laundry Service"
+        },
+        {
+            "tagId": 13243,
+            "tagNameEn": "Luaus"
+        },
+        {
+            "tagId": 9624,
+            "tagNameEn": "Romantic"
+        },
+        {
+            "tagId": 18939,
+            "tagNameEn": "Danish"
+        },
+        {
+            "tagId": 18935,
+            "tagNameEn": "Couples Massage"
+        },
+        {
+            "tagId": 13246,
+            "tagNameEn": "Plays"
+        },
+        {
+            "tagId": 18936,
+            "tagNameEn": "Croatian"
+        },
+        {
+            "tagId": 18937,
+            "tagNameEn": "Currency Exchange"
+        },
+        {
+            "tagId": 13244,
+            "tagNameEn": "Musicals"
+        },
+        {
+            "tagId": 18938,
+            "tagNameEn": "Czech"
+        },
+        {
+            "tagId": 13245,
+            "tagNameEn": "Opera"
+        },
+        {
+            "tagId": 18931,
+            "tagNameEn": "Coffee Shop"
+        },
+        {
+            "tagId": 18932,
+            "tagNameEn": "Coffee / Tea Maker"
+        },
+        {
+            "tagId": 18933,
+            "tagNameEn": "Complimentary Tea"
+        },
+        {
+            "tagId": 18934,
+            "tagNameEn": "Convenience Store"
+        },
+        {
+            "tagId": 13250,
+            "tagNameEn": "Light & Sound Shows"
+        },
+        {
+            "tagId": 18940,
+            "tagNameEn": "Darts"
+        },
+        {
+            "tagId": 18941,
+            "tagNameEn": "Desk"
+        },
+        {
+            "tagId": 18946,
+            "tagNameEn": "Dutch"
+        },
+        {
+            "tagId": 18948,
+            "tagNameEn": "Electric Blanket"
+        },
+        {
+            "tagId": 18949,
+            "tagNameEn": "Electric Kettle"
+        },
+        {
+            "tagId": 18942,
+            "tagNameEn": "Dining Area"
+        },
+        {
+            "tagId": 13019,
+            "tagNameEn": "Hop-On Hop-Off Tours"
+        },
+        {
+            "tagId": 18943,
+            "tagNameEn": "Dishwasher"
+        },
+        {
+            "tagId": 18944,
+            "tagNameEn": "Diving"
+        },
+        {
+            "tagId": 9629,
+            "tagNameEn": "Boutique"
+        },
+        {
+            "tagId": 18945,
+            "tagNameEn": "Doorperson"
+        },
+        {
+            "tagId": 13018,
+            "tagNameEn": "Bike Tours"
+        },
+        {
+            "tagId": 11281,
+            "tagNameEn": "Breakfast Buffet"
+        },
+        {
+            "tagId": 11280,
+            "tagNameEn": "Marina View"
+        },
+        {
+            "tagId": 13220,
+            "tagNameEn": "Waterskiing"
+        },
+        {
+            "tagId": 11283,
+            "tagNameEn": "Mountain View"
+        },
+        {
+            "tagId": 13221,
+            "tagNameEn": "White Water Rafting"
+        },
+        {
+            "tagId": 11282,
+            "tagNameEn": "Poolside Bar"
+        },
+        {
+            "tagId": 11285,
+            "tagNameEn": "Indoor pool"
+        },
+        {
+            "tagId": 11284,
+            "tagNameEn": "Private Balcony"
+        },
+        {
+            "tagId": 22170,
+            "tagNameEn": "Viator Experience Award 2023"
+        },
+        {
+            "tagId": 18917,
+            "tagNameEn": "Burmese"
+        },
+        {
+            "tagId": 18918,
+            "tagNameEn": "Cable / Satellite TV"
+        },
+        {
+            "tagId": 18919,
+            "tagNameEn": "Canoeing"
+        },
+        {
+            "tagId": 18913,
+            "tagNameEn": "Bowling Off-site"
+        },
+        {
+            "tagId": 11287,
+            "tagNameEn": "Butler Service"
+        },
+        {
+            "tagId": 18914,
+            "tagNameEn": "Breakfast in the Room"
+        },
+        {
+            "tagId": 11286,
+            "tagNameEn": "Great View"
+        },
+        {
+            "tagId": 18915,
+            "tagNameEn": "Bridal Suite"
+        },
+        {
+            "tagId": 13222,
+            "tagNameEn": "Windsurfing"
+        },
+        {
+            "tagId": 11289,
+            "tagNameEn": "Infinity Pool"
+        },
+        {
+            "tagId": 18916,
+            "tagNameEn": "Bulgarian"
+        },
+        {
+            "tagId": 11288,
+            "tagNameEn": "Kids pool"
+        },
+        {
+            "tagId": 18910,
+            "tagNameEn": "Bosnian"
+        },
+        {
+            "tagId": 18911,
+            "tagNameEn": "Bottled Water"
+        },
+        {
+            "tagId": 18912,
+            "tagNameEn": "Bowling"
+        },
+        {
+            "tagId": 11290,
+            "tagNameEn": "Adult pool"
+        },
+        {
+            "tagId": 9650,
+            "tagNameEn": "Luxury"
+        },
+        {
+            "tagId": 11291,
+            "tagNameEn": "Outdoor pool"
+        },
+        {
+            "tagId": 5297,
+            "tagNameEn": "Quiet"
+        },
+        {
+            "tagId": 9656,
+            "tagNameEn": "Concierge"
+        },
+        {
+            "tagId": 9657,
+            "tagNameEn": "Banquet Room"
+        },
+        {
+            "tagId": 9654,
+            "tagNameEn": "Mid-range"
+        },
+        {
+            "tagId": 22189,
+            "tagNameEn": "Boat Tours"
+        },
+        {
+            "tagId": 18928,
+            "tagNameEn": "Chinese"
+        },
+        {
+            "tagId": 22183,
+            "tagNameEn": "Violates Animal Welfare Guidelines"
+        },
+        {
+            "tagId": 18929,
+            "tagNameEn": "Clothes Dryer"
+        },
+        {
+            "tagId": 18924,
+            "tagNameEn": "24-Hour Check-in"
+        },
+        {
+            "tagId": 18925,
+            "tagNameEn": "Express Check-in / Check-out"
+        },
+        {
+            "tagId": 18926,
+            "tagNameEn": "Children's Television Networks"
+        },
+        {
+            "tagId": 18927,
+            "tagNameEn": "Children's Playground"
+        },
+        {
+            "tagId": 18920,
+            "tagNameEn": "Canoeing Off-site"
+        },
+        {
+            "tagId": 18921,
+            "tagNameEn": "Car Hire"
+        },
+        {
+            "tagId": 18922,
+            "tagNameEn": "Catalan"
+        },
+        {
+            "tagId": 18923,
+            "tagNameEn": "Chapel / Shrine"
+        },
+        {
+            "tagId": 9663,
+            "tagNameEn": "Accessible rooms"
+        },
+        {
+            "tagId": 9664,
+            "tagNameEn": "Microwave"
+        },
+        {
+            "tagId": 9661,
+            "tagNameEn": "Self-Serve Laundry"
+        },
+        {
+            "tagId": 9662,
+            "tagNameEn": "Smoking rooms available"
+        },
+        {
+            "tagId": 11261,
+            "tagNameEn": "Swimup Bar"
+        },
+        {
+            "tagId": 9667,
+            "tagNameEn": "Conference Facilities"
+        },
+        {
+            "tagId": 11260,
+            "tagNameEn": "City View"
+        },
+        {
+            "tagId": 9668,
+            "tagNameEn": "Babysitting"
+        },
+        {
+            "tagId": 11263,
+            "tagNameEn": "Harbor View"
+        },
+        {
+            "tagId": 9665,
+            "tagNameEn": "Refrigerator in room"
+        },
+        {
+            "tagId": 11262,
+            "tagNameEn": "Family Resort"
+        },
+        {
+            "tagId": 9666,
+            "tagNameEn": "Minibar"
+        },
+        {
+            "tagId": 9660,
+            "tagNameEn": "Multilingual Staff"
+        },
+        {
+            "tagId": 12119,
+            "tagNameEn": "Facilities for Disabled Guests"
+        },
+        {
+            "tagId": 13208,
+            "tagNameEn": "Kitesurfing"
+        },
+        {
+            "tagId": 13209,
+            "tagNameEn": "Parasailing"
+        },
+        {
+            "tagId": 13202,
+            "tagNameEn": "Surfing Lessons"
+        },
+        {
+            "tagId": 11265,
+            "tagNameEn": "Residential Neighborhood"
+        },
+        {
+            "tagId": 13203,
+            "tagNameEn": "Dune Bashing"
+        },
+        {
+            "tagId": 11264,
+            "tagNameEn": "Gulf View"
+        },
+        {
+            "tagId": 12111,
+            "tagNameEn": "Breakfast Available"
+        },
+        {
+            "tagId": 13200,
+            "tagNameEn": "Ski Lessons"
+        },
+        {
+            "tagId": 11267,
+            "tagNameEn": "Rooftop Pool"
+        },
+        {
+            "tagId": 9658,
+            "tagNameEn": "Air conditioning"
+        },
+        {
+            "tagId": 13201,
+            "tagNameEn": "Snowboard Lessons"
+        },
+        {
+            "tagId": 11266,
+            "tagNameEn": "Centrally Located"
+        },
+        {
+            "tagId": 9659,
+            "tagNameEn": "Family Rooms"
+        },
+        {
+            "tagId": 13206,
+            "tagNameEn": "Float Trips"
+        },
+        {
+            "tagId": 11269,
+            "tagNameEn": "Flatscreen TV"
+        },
+        {
+            "tagId": 12116,
+            "tagNameEn": "Parking"
+        },
+        {
+            "tagId": 13207,
+            "tagNameEn": "Jetskiing"
+        },
+        {
+            "tagId": 11268,
+            "tagNameEn": "Heated pool"
+        },
+        {
+            "tagId": 13204,
+            "tagNameEn": "Hummer Tours"
+        },
+        {
+            "tagId": 12118,
+            "tagNameEn": "Free Shuttle or Taxi Services"
+        },
+        {
+            "tagId": 13205,
+            "tagNameEn": "Canoeing"
+        },
+        {
+            "tagId": 12117,
+            "tagNameEn": "Free airport transportation"
+        },
+        {
+            "tagId": 11270,
+            "tagNameEn": "Lake View"
+        },
+        {
+            "tagId": 21079,
+            "tagNameEn": "Beach Clubs"
+        },
+        {
+            "tagId": 11272,
+            "tagNameEn": "River View"
+        },
+        {
+            "tagId": 13210,
+            "tagNameEn": "Scuba"
+        },
+        {
+            "tagId": 11271,
+            "tagNameEn": "Art Deco Style"
+        },
+        {
+            "tagId": 11274,
+            "tagNameEn": "Lazy River"
+        },
+        {
+            "tagId": 12121,
+            "tagNameEn": "Kids Club"
+        },
+        {
+            "tagId": 11273,
+            "tagNameEn": "Historic Hotel"
+        },
+        {
+            "tagId": 12120,
+            "tagNameEn": "Housekeeping"
+        },
+        {
+            "tagId": 9670,
+            "tagNameEn": "Non-smoking hotel"
+        },
+        {
+            "tagId": 22169,
+            "tagNameEn": "Viator Experience Award 2022"
+        },
+        {
+            "tagId": 13219,
+            "tagNameEn": "Wakesurfing"
+        },
+        {
+            "tagId": 18906,
+            "tagNameEn": "Board Games / Puzzles"
+        },
+        {
+            "tagId": 18907,
+            "tagNameEn": "Boating"
+        },
+        {
+            "tagId": 18908,
+            "tagNameEn": "Body Wrap"
+        },
+        {
+            "tagId": 18909,
+            "tagNameEn": "Books, DVDs, Music for Children"
+        },
+        {
+            "tagId": 22164,
+            "tagNameEn": "Involves Poverty Stricken Communities"
+        },
+        {
+            "tagId": 18902,
+            "tagNameEn": "Bicycle Tours"
+        },
+        {
+            "tagId": 13213,
+            "tagNameEn": "Russian Lessons"
+        },
+        {
+            "tagId": 11276,
+            "tagNameEn": "Water Park"
+        },
+        {
+            "tagId": 18903,
+            "tagNameEn": "Bicycles Available"
+        },
+        {
+            "tagId": 21074,
+            "tagNameEn": "Unique Experiences"
+        },
+        {
+            "tagId": 13214,
+            "tagNameEn": "Spanish Lessons"
+        },
+        {
+            "tagId": 11275,
+            "tagNameEn": "Rooftop Terrace"
+        },
+        {
+            "tagId": 12122,
+            "tagNameEn": "Kids Stay Free"
+        },
+        {
+            "tagId": 18904,
+            "tagNameEn": "Billiards"
+        },
+        {
+            "tagId": 13211,
+            "tagNameEn": "Snorkeling"
+        },
+        {
+            "tagId": 11278,
+            "tagNameEn": "Park View"
+        },
+        {
+            "tagId": 9669,
+            "tagNameEn": "Green"
+        },
+        {
+            "tagId": 18905,
+            "tagNameEn": "Blackout Curtains"
+        },
+        {
+            "tagId": 13212,
+            "tagNameEn": "Standup Paddleboarding"
+        },
+        {
+            "tagId": 11277,
+            "tagNameEn": "Bay View"
+        },
+        {
+            "tagId": 13217,
+            "tagNameEn": "Tubing"
+        },
+        {
+            "tagId": 13218,
+            "tagNameEn": "Wakeboarding"
+        },
+        {
+            "tagId": 11279,
+            "tagNameEn": "Lagoon View"
+        },
+        {
+            "tagId": 18900,
+            "tagNameEn": "Bicycle Rental"
+        },
+        {
+            "tagId": 13215,
+            "tagNameEn": "Swim with Dolphins"
+        },
+        {
+            "tagId": 18901,
+            "tagNameEn": "Bidet"
+        },
+        {
+            "tagId": 13216,
+            "tagNameEn": "Swim with Sharks"
+        },
+        {
+            "tagId": 22143,
+            "tagNameEn": "Best Conversion"
+        },
+        {
+            "tagId": 22144,
+            "tagNameEn": "Involves Animals"
+        },
+        {
+            "tagId": 11258,
+            "tagNameEn": "Sea View"
+        },
+        {
+            "tagId": 11257,
+            "tagNameEn": "Rooftop Bar"
+        },
+        {
+            "tagId": 11259,
+            "tagNameEn": "Ocean View"
+        },
+        {
+            "tagId": 21707,
+            "tagNameEn": "Breakfast Cruises"
+        },
+        {
+            "tagId": 21949,
+            "tagNameEn": "Face masks required for guides in public areas"
+        },
+        {
+            "tagId": 21948,
+            "tagNameEn": "Face masks required for travelers in public areas"
+        },
+        {
+            "tagId": 21704,
+            "tagNameEn": "Buggy Rentals"
+        },
+        {
+            "tagId": 21946,
+            "tagNameEn": "Good for avoiding crowds"
+        },
+        {
+            "tagId": 21703,
+            "tagNameEn": "All Tours"
+        },
+        {
+            "tagId": 21702,
+            "tagNameEn": "Bike Tours"
+        },
+        {
+            "tagId": 21701,
+            "tagNameEn": "Cruises & Sailing"
+        },
+        {
+            "tagId": 21700,
+            "tagNameEn": "Zumba Dance Shows"
+        },
+        {
+            "tagId": 11902,
+            "tagNameEn": "Hiking Tours"
+        },
+        {
+            "tagId": 11901,
+            "tagNameEn": "Museum Tickets & Passes"
+        },
+        {
+            "tagId": 11904,
+            "tagNameEn": "Winter Sports"
+        },
+        {
+            "tagId": 11903,
+            "tagNameEn": "Nature and Wildlife Tours"
+        },
+        {
+            "tagId": 11905,
+            "tagNameEn": "Shopping Passes & Offers"
+        },
+        {
+            "tagId": 21710,
+            "tagNameEn": "City Attraction Tours"
+        },
+        {
+            "tagId": 21952,
+            "tagNameEn": "Social distancing enforced throughout experience"
+        },
+        {
+            "tagId": 21951,
+            "tagNameEn": "Hand sanitizer available to travelers and staff"
+        },
+        {
+            "tagId": 21950,
+            "tagNameEn": "Face masks provided for travelers"
+        },
+        {
+            "tagId": 21718,
+            "tagNameEn": "Observation Decks"
+        },
+        {
+            "tagId": 11908,
+            "tagNameEn": "Theater Shows"
+        },
+        {
+            "tagId": 21959,
+            "tagNameEn": "Paid stay-at-home policy for staff with symptoms"
+        },
+        {
+            "tagId": 11907,
+            "tagNameEn": "Comedy Shows"
+        },
+        {
+            "tagId": 21716,
+            "tagNameEn": "Mountain Bike Rentals"
+        },
+        {
+            "tagId": 21958,
+            "tagNameEn": "Temperature checks for tour participants upon arrival"
+        },
+        {
+            "tagId": 21715,
+            "tagNameEn": "How to Get Around"
+        },
+        {
+            "tagId": 21957,
+            "tagNameEn": "Regular temperature checks for staff"
+        },
+        {
+            "tagId": 11909,
+            "tagNameEn": "Theme Parks"
+        },
+        {
+            "tagId": 21714,
+            "tagNameEn": "GPS Car Tours"
+        },
+        {
+            "tagId": 21956,
+            "tagNameEn": "Guides required to regularly wash hands"
+        },
+        {
+            "tagId": 21713,
+            "tagNameEn": "E-Bike Tours"
+        },
+        {
+            "tagId": 21955,
+            "tagNameEn": "Transportation vehicles regularly sanitized"
+        },
+        {
+            "tagId": 21712,
+            "tagNameEn": "Coach Tours"
+        },
+        {
+            "tagId": 21954,
+            "tagNameEn": "Gear/equipment sanitized between use"
+        },
+        {
+            "tagId": 21711,
+            "tagNameEn": "Coffee Cruises"
+        },
+        {
+            "tagId": 21953,
+            "tagNameEn": "Regularly sanitized high-traffic areas"
+        },
+        {
+            "tagId": 11911,
+            "tagNameEn": "Mountain Bike Tours"
+        },
+        {
+            "tagId": 11910,
+            "tagNameEn": "Airport Parking"
+        },
+        {
+            "tagId": 11912,
+            "tagNameEn": "Snorkeling"
+        },
+        {
+            "tagId": 11915,
+            "tagNameEn": "Honeymoon Packages"
+        },
+        {
+            "tagId": 11914,
+            "tagNameEn": "Wedding Packages"
+        },
+        {
+            "tagId": 21709,
+            "tagNameEn": "Canal Cruises"
+        },
+        {
+            "tagId": 11917,
+            "tagNameEn": "Family-friendly Shows "
+        },
+        {
+            "tagId": 21708,
+            "tagNameEn": "Cable Car Tours"
+        },
+        {
+            "tagId": 11916,
+            "tagNameEn": "Ferry Services"
+        },
+        {
+            "tagId": 18993,
+            "tagNameEn": "Horseback Riding"
+        },
+        {
+            "tagId": 18994,
+            "tagNameEn": "Hot Spring Bath"
+        },
+        {
+            "tagId": 18995,
+            "tagNameEn": "Hungarian"
+        },
+        {
+            "tagId": 18996,
+            "tagNameEn": "Icelandic"
+        },
+        {
+            "tagId": 18990,
+            "tagNameEn": "Highchairs Available"
+        },
+        {
+            "tagId": 18991,
+            "tagNameEn": "Hiking"
+        },
+        {
+            "tagId": 18992,
+            "tagNameEn": "Hindi"
+        },
+        {
+            "tagId": 21917,
+            "tagNameEn": "Canoeing"
+        },
+        {
+            "tagId": 18997,
+            "tagNameEn": "Indonesian"
+        },
+        {
+            "tagId": 18998,
+            "tagNameEn": "Indoor Play Area for Children"
+        },
+        {
+            "tagId": 18999,
+            "tagNameEn": "Infirmary"
+        },
+        {
+            "tagId": 18971,
+            "tagNameEn": "Complimentary Instant Cofffee"
+        },
+        {
+            "tagId": 13282,
+            "tagNameEn": "Coffee & Tea Tours"
+        },
+        {
+            "tagId": 18972,
+            "tagNameEn": "Complimentary Toiletries"
+        },
+        {
+            "tagId": 13283,
+            "tagNameEn": "Cooking Classes"
+        },
+        {
+            "tagId": 18973,
+            "tagNameEn": "Complimentary Welcome Drink"
+        },
+        {
+            "tagId": 13280,
+            "tagNameEn": "Brewery Tours"
+        },
+        {
+            "tagId": 19821,
+            "tagNameEn": "Elevator"
+        },
+        {
+            "tagId": 18974,
+            "tagNameEn": "Free Wifi in the Business Center"
+        },
+        {
+            "tagId": 13281,
+            "tagNameEn": "Chocolate Tours"
+        },
+        {
+            "tagId": 19820,
+            "tagNameEn": "Large print signage"
+        },
+        {
+            "tagId": 13286,
+            "tagNameEn": "Market Tours"
+        },
+        {
+            "tagId": 13287,
+            "tagNameEn": "Sake Tours"
+        },
+        {
+            "tagId": 13284,
+            "tagNameEn": "Distillery Tours"
+        },
+        {
+            "tagId": 16551,
+            "tagNameEn": "Hidden Gems"
+        },
+        {
+            "tagId": 18970,
+            "tagNameEn": "Free Public Parking Nearby"
+        },
+        {
+            "tagId": 13285,
+            "tagNameEn": "Food Tours"
+        },
+        {
+            "tagId": 18979,
+            "tagNameEn": "Game Room"
+        },
+        {
+            "tagId": 19827,
+            "tagNameEn": "Accessible-height sink"
+        },
+        {
+            "tagId": 19826,
+            "tagNameEn": "Accessible-height toilet"
+        },
+        {
+            "tagId": 16556,
+            "tagNameEn": "Quick Bites"
+        },
+        {
+            "tagId": 13288,
+            "tagNameEn": "Street Food Tours"
+        },
+        {
+            "tagId": 19829,
+            "tagNameEn": "Wide doorway into bathroom"
+        },
+        {
+            "tagId": 13289,
+            "tagNameEn": "Wine Tastings & Tours"
+        },
+        {
+            "tagId": 19828,
+            "tagNameEn": "Fixed grab bars in bathroom"
+        },
+        {
+            "tagId": 18975,
+            "tagNameEn": "Free Wired Internet in the Business Center"
+        },
+        {
+            "tagId": 19823,
+            "tagNameEn": "Elevator with audible signals"
+        },
+        {
+            "tagId": 18976,
+            "tagNameEn": "French"
+        },
+        {
+            "tagId": 19822,
+            "tagNameEn": "Elevator with braille"
+        },
+        {
+            "tagId": 18977,
+            "tagNameEn": "24-Hour Front Desk"
+        },
+        {
+            "tagId": 19825,
+            "tagNameEn": "Area of rescue assistance"
+        },
+        {
+            "tagId": 18978,
+            "tagNameEn": "Full Body Massage"
+        },
+        {
+            "tagId": 19824,
+            "tagNameEn": "Elevator with wide doorway"
+        },
+        {
+            "tagId": 18982,
+            "tagNameEn": "Gift Shop"
+        },
+        {
+            "tagId": 19830,
+            "tagNameEn": "Accessible parking space"
+        },
+        {
+            "tagId": 18983,
+            "tagNameEn": "Greek"
+        },
+        {
+            "tagId": 18984,
+            "tagNameEn": "Hair Dryer"
+        },
+        {
+            "tagId": 19832,
+            "tagNameEn": "Assistive Listening Devices (ALD)"
+        },
+        {
+            "tagId": 18985,
+            "tagNameEn": "Hammam"
+        },
+        {
+            "tagId": 19831,
+            "tagNameEn": "Van accessible parking"
+        },
+        {
+            "tagId": 13298,
+            "tagNameEn": "Kayaking"
+        },
+        {
+            "tagId": 18980,
+            "tagNameEn": "Georgian"
+        },
+        {
+            "tagId": 18981,
+            "tagNameEn": "German"
+        },
+        {
+            "tagId": 21916,
+            "tagNameEn": "Seasonal & Special Occasions"
+        },
+        {
+            "tagId": 21915,
+            "tagNameEn": "Classes & Workshops"
+        },
+        {
+            "tagId": 21914,
+            "tagNameEn": "Travel & Transportation Services"
+        },
+        {
+            "tagId": 21913,
+            "tagNameEn": "Tours, Sightseeing & Cruises"
+        },
+        {
+            "tagId": 21912,
+            "tagNameEn": "Tickets & Passes"
+        },
+        {
+            "tagId": 21911,
+            "tagNameEn": "Food & Drink"
+        },
+        {
+            "tagId": 21910,
+            "tagNameEn": "Art & Culture"
+        },
+        {
+            "tagId": 21909,
+            "tagNameEn": "Outdoor Activities"
+        },
+        {
+            "tagId": 21908,
+            "tagNameEn": "Delivery Only"
+        },
+        {
+            "tagId": 21906,
+            "tagNameEn": "Private Experiences"
+        },
+        {
+            "tagId": 19838,
+            "tagNameEn": "Accessible eating counters"
+        },
+        {
+            "tagId": 16568,
+            "tagNameEn": "Service Animals Allowed"
+        },
+        {
+            "tagId": 19837,
+            "tagNameEn": "Large print menus"
+        },
+        {
+            "tagId": 19839,
+            "tagNameEn": "Adapted menu for intolerances"
+        },
+        {
+            "tagId": 18986,
+            "tagNameEn": "Hand Massage"
+        },
+        {
+            "tagId": 19834,
+            "tagNameEn": "Bidet"
+        },
+        {
+            "tagId": 18987,
+            "tagNameEn": "Happy Hour"
+        },
+        {
+            "tagId": 19833,
+            "tagNameEn": "Member of staff knows sign language"
+        },
+        {
+            "tagId": 18988,
+            "tagNameEn": "Head Massage"
+        },
+        {
+            "tagId": 19836,
+            "tagNameEn": "Braille menu or QR"
+        },
+        {
+            "tagId": 18989,
+            "tagNameEn": "Hebrew"
+        },
+        {
+            "tagId": 19835,
+            "tagNameEn": "Accessible route through dining areas"
+        },
+        {
+            "tagId": 18950,
+            "tagNameEn": "English"
+        },
+        {
+            "tagId": 18951,
+            "tagNameEn": "Entertainment Staff"
+        },
+        {
+            "tagId": 18952,
+            "tagNameEn": "Estonian"
+        },
+        {
+            "tagId": 13022,
+            "tagNameEn": "Pedicab Tours"
+        },
+        {
+            "tagId": 13023,
+            "tagNameEn": "Photography Tours"
+        },
+        {
+            "tagId": 13265,
+            "tagNameEn": "Flamenco"
+        },
+        {
+            "tagId": 13020,
+            "tagNameEn": "Horse Drawn Carriages"
+        },
+        {
+            "tagId": 13021,
+            "tagNameEn": "Motorcycle Tours"
+        },
+        {
+            "tagId": 18957,
+            "tagNameEn": "Farsi"
+        },
+        {
+            "tagId": 13026,
+            "tagNameEn": "Self-guided Tours"
+        },
+        {
+            "tagId": 13027,
+            "tagNameEn": "Sidecar Tours"
+        },
+        {
+            "tagId": 18959,
+            "tagNameEn": "Fence Around Pool"
+        },
+        {
+            "tagId": 13024,
+            "tagNameEn": "Running Tours"
+        },
+        {
+            "tagId": 13025,
+            "tagNameEn": "Segway Tours"
+        },
+        {
+            "tagId": 18953,
+            "tagNameEn": "Evening Entertainment"
+        },
+        {
+            "tagId": 18954,
+            "tagNameEn": "Executive Lounge Access"
+        },
+        {
+            "tagId": 18955,
+            "tagNameEn": "Extra Long Beds"
+        },
+        {
+            "tagId": 13028,
+            "tagNameEn": "Trolley Tours"
+        },
+        {
+            "tagId": 18956,
+            "tagNameEn": "Facial Treatments"
+        },
+        {
+            "tagId": 13029,
+            "tagNameEn": "Tuk Tuk Tours"
+        },
+        {
+            "tagId": 18960,
+            "tagNameEn": "Filipino"
+        },
+        {
+            "tagId": 18961,
+            "tagNameEn": "Finnish"
+        },
+        {
+            "tagId": 13030,
+            "tagNameEn": "Walking Tours"
+        },
+        {
+            "tagId": 18962,
+            "tagNameEn": "Fireplace"
+        },
+        {
+            "tagId": 18963,
+            "tagNameEn": "First Aid Kit"
+        },
+        {
+            "tagId": 19819,
+            "tagNameEn": "Braille signage"
+        },
+        {
+            "tagId": 18968,
+            "tagNameEn": "Foot Massage"
+        },
+        {
+            "tagId": 13279,
+            "tagNameEn": "Bar & Pub Tours"
+        },
+        {
+            "tagId": 16305,
+            "tagNameEn": "Electric vehicle charging station"
+        },
+        {
+            "tagId": 16546,
+            "tagNameEn": "Onsens"
+        },
+        {
+            "tagId": 18969,
+            "tagNameEn": "Free Private Parking Nearby"
+        },
+        {
+            "tagId": 19815,
+            "tagNameEn": "Emotional Support Animals Allowed"
+        },
+        {
+            "tagId": 16304,
+            "tagNameEn": "Sauna"
+        },
+        {
+            "tagId": 16545,
+            "tagNameEn": "All Inclusive"
+        },
+        {
+            "tagId": 19818,
+            "tagNameEn": "Audible emergency system"
+        },
+        {
+            "tagId": 19817,
+            "tagNameEn": "Visual emergency system"
+        },
+        {
+            "tagId": 18964,
+            "tagNameEn": "Fishing"
+        },
+        {
+            "tagId": 19812,
+            "tagNameEn": "Wide entryway"
+        },
+        {
+            "tagId": 18965,
+            "tagNameEn": "Fitness Classes"
+        },
+        {
+            "tagId": 19811,
+            "tagNameEn": "Step-free access into building"
+        },
+        {
+            "tagId": 18966,
+            "tagNameEn": "Fitness / Spa Locker Rooms"
+        },
+        {
+            "tagId": 19814,
+            "tagNameEn": "Fully automatic front door"
+        },
+        {
+            "tagId": 16548,
+            "tagNameEn": "Specialty Food Market"
+        },
+        {
+            "tagId": 18967,
+            "tagNameEn": "Foot Bath"
+        },
+        {
+            "tagId": 19813,
+            "tagNameEn": "Obstruction-free entryway"
+        },
+        {
+            "tagId": 19104,
+            "tagNameEn": "Telephone"
+        },
+        {
+            "tagId": 21424,
+            "tagNameEn": "Bungee Jumping"
+        },
+        {
+            "tagId": 21666,
+            "tagNameEn": "Hard Rock and Metal Concerts"
+        },
+        {
+            "tagId": 19103,
+            "tagNameEn": "Taxi Service"
+        },
+        {
+            "tagId": 21423,
+            "tagNameEn": "Bird Watching"
+        },
+        {
+            "tagId": 21665,
+            "tagNameEn": "Instrumental Concerts"
+        },
+        {
+            "tagId": 19106,
+            "tagNameEn": "Thai"
+        },
+        {
+            "tagId": 21422,
+            "tagNameEn": "Axe Throwing"
+        },
+        {
+            "tagId": 21664,
+            "tagNameEn": "Country and Folk Concerts"
+        },
+        {
+            "tagId": 19105,
+            "tagNameEn": "Tennis Court Off-site"
+        },
+        {
+            "tagId": 21421,
+            "tagNameEn": "ATV Tours"
+        },
+        {
+            "tagId": 21663,
+            "tagNameEn": "Electronic Concerts"
+        },
+        {
+            "tagId": 19100,
+            "tagNameEn": "Swimming Pool Toys"
+        },
+        {
+            "tagId": 21420,
+            "tagNameEn": "Axe Throwing"
+        },
+        {
+            "tagId": 21662,
+            "tagNameEn": "Classical Concerts"
+        },
+        {
+            "tagId": 21661,
+            "tagNameEn": "Blues Concerts"
+        },
+        {
+            "tagId": 19102,
+            "tagNameEn": "Tamil"
+        },
+        {
+            "tagId": 21660,
+            "tagNameEn": "Acoustic Concerts"
+        },
+        {
+            "tagId": 19101,
+            "tagNameEn": "Table Tennis"
+        },
+        {
+            "tagId": 21429,
+            "tagNameEn": "Hang Gliding"
+        },
+        {
+            "tagId": 21428,
+            "tagNameEn": "Glacier Walks"
+        },
+        {
+            "tagId": 21427,
+            "tagNameEn": "Dune Bashing"
+        },
+        {
+            "tagId": 21669,
+            "tagNameEn": "New Age and Spiritual Concerts"
+        },
+        {
+            "tagId": 21426,
+            "tagNameEn": "Caving"
+        },
+        {
+            "tagId": 21668,
+            "tagNameEn": "Latin Concerts"
+        },
+        {
+            "tagId": 21425,
+            "tagNameEn": "Camel Rides"
+        },
+        {
+            "tagId": 21667,
+            "tagNameEn": "K-Pop Concerts"
+        },
+        {
+            "tagId": 12715,
+            "tagNameEn": "Sporting Events"
+        },
+        {
+            "tagId": 12716,
+            "tagNameEn": "Attractions & Museums"
+        },
+        {
+            "tagId": 12713,
+            "tagNameEn": "Food & Drink Festivals"
+        },
+        {
+            "tagId": 12714,
+            "tagNameEn": "Music Festivals"
+        },
+        {
+            "tagId": 12719,
+            "tagNameEn": "Escape Games"
+        },
+        {
+            "tagId": 12717,
+            "tagNameEn": "City Passes"
+        },
+        {
+            "tagId": 12718,
+            "tagNameEn": "Classes"
+        },
+        {
+            "tagId": 12711,
+            "tagNameEn": "Exhibitions"
+        },
+        {
+            "tagId": 19108,
+            "tagNameEn": "Turkish"
+        },
+        {
+            "tagId": 12712,
+            "tagNameEn": "Fireworks"
+        },
+        {
+            "tagId": 19107,
+            "tagNameEn": "Tile / Marble Floor"
+        },
+        {
+            "tagId": 12710,
+            "tagNameEn": "Cultural Events"
+        },
+        {
+            "tagId": 19109,
+            "tagNameEn": "Ukrainian"
+        },
+        {
+            "tagId": 19115,
+            "tagNameEn": "Vietnamese"
+        },
+        {
+            "tagId": 21435,
+            "tagNameEn": "Ice Skating"
+        },
+        {
+            "tagId": 21677,
+            "tagNameEn": "Ballroom Dance Shows"
+        },
+        {
+            "tagId": 19114,
+            "tagNameEn": "Video Game Console"
+        },
+        {
+            "tagId": 21434,
+            "tagNameEn": "Ice Fishing"
+        },
+        {
+            "tagId": 21676,
+            "tagNameEn": "Bachata Dance Shows"
+        },
+        {
+            "tagId": 19117,
+            "tagNameEn": "Wake Up Service / Alarm Clock"
+        },
+        {
+            "tagId": 21433,
+            "tagNameEn": "Husky Dog Tours"
+        },
+        {
+            "tagId": 21675,
+            "tagNameEn": "World Music Concerts"
+        },
+        {
+            "tagId": 19116,
+            "tagNameEn": "VIP Room Facilities"
+        },
+        {
+            "tagId": 21432,
+            "tagNameEn": "Hummer Tours"
+        },
+        {
+            "tagId": 21674,
+            "tagNameEn": "Reggae Concerts"
+        },
+        {
+            "tagId": 19111,
+            "tagNameEn": "Urdu"
+        },
+        {
+            "tagId": 21431,
+            "tagNameEn": "Heli-Skiing"
+        },
+        {
+            "tagId": 21673,
+            "tagNameEn": "Rock Concerts"
+        },
+        {
+            "tagId": 19110,
+            "tagNameEn": "Umbrella"
+        },
+        {
+            "tagId": 21430,
+            "tagNameEn": "Heli-Hiking"
+        },
+        {
+            "tagId": 21672,
+            "tagNameEn": "Rap & Hip-Hop Concerts"
+        },
+        {
+            "tagId": 19113,
+            "tagNameEn": "Vending Machine"
+        },
+        {
+            "tagId": 21671,
+            "tagNameEn": "R&B/Soul Concerts"
+        },
+        {
+            "tagId": 19112,
+            "tagNameEn": "Valet Parking"
+        },
+        {
+            "tagId": 21670,
+            "tagNameEn": "Pop Concerts"
+        },
+        {
+            "tagId": 21439,
+            "tagNameEn": "Nature Walks"
+        },
+        {
+            "tagId": 21438,
+            "tagNameEn": "Indoor Skydiving"
+        },
+        {
+            "tagId": 21679,
+            "tagNameEn": "Bollywood Dance Shows"
+        },
+        {
+            "tagId": 21436,
+            "tagNameEn": "In the Air"
+        },
+        {
+            "tagId": 21678,
+            "tagNameEn": "Belly Dance Shows"
+        },
+        {
+            "tagId": 12726,
+            "tagNameEn": "Shows"
+        },
+        {
+            "tagId": 12727,
+            "tagNameEn": "Spa Services"
+        },
+        {
+            "tagId": 12724,
+            "tagNameEn": "Scavenger Hunts"
+        },
+        {
+            "tagId": 12725,
+            "tagNameEn": "Shopping"
+        },
+        {
+            "tagId": 12729,
+            "tagNameEn": "Theme Parks"
+        },
+        {
+            "tagId": 12722,
+            "tagNameEn": "Outdoor Activities"
+        },
+        {
+            "tagId": 19119,
+            "tagNameEn": "Walking Tours"
+        },
+        {
+            "tagId": 12723,
+            "tagNameEn": "Rentals"
+        },
+        {
+            "tagId": 19118,
+            "tagNameEn": "Walk-in Shower"
+        },
+        {
+            "tagId": 12720,
+            "tagNameEn": "Dining"
+        },
+        {
+            "tagId": 12721,
+            "tagNameEn": "Nightlife"
+        },
+        {
+            "tagId": 21644,
+            "tagNameEn": "Softball"
+        },
+        {
+            "tagId": 21643,
+            "tagNameEn": "Soccer"
+        },
+        {
+            "tagId": 21642,
+            "tagNameEn": "Flight Simulators"
+        },
+        {
+            "tagId": 21641,
+            "tagNameEn": "Shooting"
+        },
+        {
+            "tagId": 21640,
+            "tagNameEn": "Rugby"
+        },
+        {
+            "tagId": 21649,
+            "tagNameEn": "Tennis Events"
+        },
+        {
+            "tagId": 21648,
+            "tagNameEn": "Swordsmanship"
+        },
+        {
+            "tagId": 21647,
+            "tagNameEn": "Sports"
+        },
+        {
+            "tagId": 21646,
+            "tagNameEn": "Surfing Events"
+        },
+        {
+            "tagId": 21645,
+            "tagNameEn": "Special Events"
+        },
+        {
+            "tagId": 5951,
+            "tagNameEn": "Modern"
+        },
+        {
+            "tagId": 21655,
+            "tagNameEn": "Arena Tours"
+        },
+        {
+            "tagId": 21654,
+            "tagNameEn": "Ancient Ruins"
+        },
+        {
+            "tagId": 21653,
+            "tagNameEn": "Wrestling"
+        },
+        {
+            "tagId": 21652,
+            "tagNameEn": "Wineries & Breweries"
+        },
+        {
+            "tagId": 21651,
+            "tagNameEn": "Tournaments"
+        },
+        {
+            "tagId": 21650,
+            "tagNameEn": "Track and Field"
+        },
+        {
+            "tagId": 21419,
+            "tagNameEn": "Bouldering"
+        },
+        {
+            "tagId": 21659,
+            "tagNameEn": "Alternative Concerts"
+        },
+        {
+            "tagId": 21658,
+            "tagNameEn": "Parks"
+        },
+        {
+            "tagId": 21657,
+            "tagNameEn": "Dam Tours"
+        },
+        {
+            "tagId": 21656,
+            "tagNameEn": "Monuments and Memorials"
+        },
+        {
+            "tagId": 12704,
+            "tagNameEn": "Ferries"
+        },
+        {
+            "tagId": 12705,
+            "tagNameEn": "Inter-island Flights"
+        },
+        {
+            "tagId": 12702,
+            "tagNameEn": "Cable Cars"
+        },
+        {
+            "tagId": 12703,
+            "tagNameEn": "Car Services"
+        },
+        {
+            "tagId": 12708,
+            "tagNameEn": "Trains"
+        },
+        {
+            "tagId": 12709,
+            "tagNameEn": "Trams"
+        },
+        {
+            "tagId": 12706,
+            "tagNameEn": "Public Transportation"
+        },
+        {
+            "tagId": 12707,
+            "tagNameEn": "Taxis"
+        },
+        {
+            "tagId": 12700,
+            "tagNameEn": "Volunteer Tours"
+        },
+        {
+            "tagId": 12701,
+            "tagNameEn": "Buses"
+        },
+        {
+            "tagId": 21622,
+            "tagNameEn": "Ice Skating Tickets"
+        },
+        {
+            "tagId": 21621,
+            "tagNameEn": "Ice Parks"
+        },
+        {
+            "tagId": 21620,
+            "tagNameEn": "Horse Racing"
+        },
+        {
+            "tagId": 21860,
+            "tagNameEn": "Small Group"
+        },
+        {
+            "tagId": 21629,
+            "tagNameEn": "National Parks"
+        },
+        {
+            "tagId": 21628,
+            "tagNameEn": "Musicals"
+        },
+        {
+            "tagId": 21627,
+            "tagNameEn": "Motor Sports"
+        },
+        {
+            "tagId": 21626,
+            "tagNameEn": "Martial Arts"
+        },
+        {
+            "tagId": 21625,
+            "tagNameEn": "Luaus"
+        },
+        {
+            "tagId": 21624,
+            "tagNameEn": "Live Concerts"
+        },
+        {
+            "tagId": 21623,
+            "tagNameEn": "Lacrosse"
+        },
+        {
+            "tagId": 21633,
+            "tagNameEn": "Packages & Special Events"
+        },
+        {
+            "tagId": 21632,
+            "tagNameEn": "Olympics"
+        },
+        {
+            "tagId": 21631,
+            "tagNameEn": "Nature Parks"
+        },
+        {
+            "tagId": 21873,
+            "tagNameEn": "Best Seller"
+        },
+        {
+            "tagId": 21630,
+            "tagNameEn": "Natural Attractions"
+        },
+        {
+            "tagId": 21639,
+            "tagNameEn": "Roller Derbies"
+        },
+        {
+            "tagId": 21638,
+            "tagNameEn": "Religious Sites"
+        },
+        {
+            "tagId": 21637,
+            "tagNameEn": "Planetariums"
+        },
+        {
+            "tagId": 21636,
+            "tagNameEn": "Ping Pong"
+        },
+        {
+            "tagId": 21634,
+            "tagNameEn": "Passes"
+        },
+        {
+            "tagId": 21600,
+            "tagNameEn": "Badminton"
+        },
+        {
+            "tagId": 21608,
+            "tagNameEn": "Circus Shows"
+        },
+        {
+            "tagId": 21607,
+            "tagNameEn": "Children's Shows & Concerts"
+        },
+        {
+            "tagId": 21606,
+            "tagNameEn": "Castle Tours"
+        },
+        {
+            "tagId": 21605,
+            "tagNameEn": "Burlesque Shows"
+        },
+        {
+            "tagId": 20757,
+            "tagNameEn": "Likely to Sell Out"
+        },
+        {
+            "tagId": 21604,
+            "tagNameEn": "Boxing"
+        },
+        {
+            "tagId": 21603,
+            "tagNameEn": "Bowling"
+        },
+        {
+            "tagId": 21602,
+            "tagNameEn": "Basketball"
+        },
+        {
+            "tagId": 21601,
+            "tagNameEn": "Baseball Tickets"
+        },
+        {
+            "tagId": 10956,
+            "tagNameEn": "Restricted Access"
+        },
+        {
+            "tagId": 21611,
+            "tagNameEn": "Cycling"
+        },
+        {
+            "tagId": 21610,
+            "tagNameEn": "Crossfit"
+        },
+        {
+            "tagId": 21619,
+            "tagNameEn": "Holidays and Seasonal Packages"
+        },
+        {
+            "tagId": 21618,
+            "tagNameEn": "Hockey"
+        },
+        {
+            "tagId": 21617,
+            "tagNameEn": "Historical Landmarks"
+        },
+        {
+            "tagId": 21859,
+            "tagNameEn": "Best Seller"
+        },
+        {
+            "tagId": 21616,
+            "tagNameEn": "Gymnastics"
+        },
+        {
+            "tagId": 21615,
+            "tagNameEn": "Golf"
+        },
+        {
+            "tagId": 21614,
+            "tagNameEn": "Festivals"
+        },
+        {
+            "tagId": 21613,
+            "tagNameEn": "Fencing"
+        },
+        {
+            "tagId": 21612,
+            "tagNameEn": "Factory Tours"
+        },
+        {
+            "tagId": 21609,
+            "tagNameEn": "Concerts"
+        },
+        {
+            "tagId": 22110,
+            "tagNameEn": "Road Trip"
+        },
+        {
+            "tagId": 22111,
+            "tagNameEn": "Spring Break"
+        },
+        {
+            "tagId": 9909,
+            "tagNameEn": "Dessert"
+        },
+        {
+            "tagId": 9900,
+            "tagNameEn": "Coffee & Tea"
+        },
+        {
+            "tagId": 9901,
+            "tagNameEn": "Bakeries"
+        },
+        {
+            "tagId": 21489,
+            "tagNameEn": "Wine Making Workshops"
+        },
+        {
+            "tagId": 21488,
+            "tagNameEn": "Wellness Classes"
+        },
+        {
+            "tagId": 21487,
+            "tagNameEn": "Pizza Making Classes"
+        },
+        {
+            "tagId": 21486,
+            "tagNameEn": "Pasta Making Classes"
+        },
+        {
+            "tagId": 21485,
+            "tagNameEn": "Paella Making Classes"
+        },
+        {
+            "tagId": 10592,
+            "tagNameEn": "All-Inclusive"
+        },
+        {
+            "tagId": 21484,
+            "tagNameEn": "Olive Oil Tasting"
+        },
+        {
+            "tagId": 10591,
+            "tagNameEn": "Restaurants"
+        },
+        {
+            "tagId": 21483,
+            "tagNameEn": "Mixology Classes"
+        },
+        {
+            "tagId": 21482,
+            "tagNameEn": "Food & Drink Classes"
+        },
+        {
+            "tagId": 11441,
+            "tagNameEn": "Private Beaches"
+        },
+        {
+            "tagId": 21481,
+            "tagNameEn": "Cocktail Tastings"
+        },
+        {
+            "tagId": 21480,
+            "tagNameEn": "Candy Making Classes"
+        },
+        {
+            "tagId": 11442,
+            "tagNameEn": "Private Pools"
+        },
+        {
+            "tagId": 11445,
+            "tagNameEn": "Quirky Hotels"
+        },
+        {
+            "tagId": 22107,
+            "tagNameEn": "Harry Potter Tours"
+        },
+        {
+            "tagId": 22108,
+            "tagNameEn": "Game Of Thrones Tours"
+        },
+        {
+            "tagId": 21499,
+            "tagNameEn": "Japanese Lessons"
+        },
+        {
+            "tagId": 22109,
+            "tagNameEn": "Northern Lights"
+        },
+        {
+            "tagId": 21498,
+            "tagNameEn": "Italian Lessons"
+        },
+        {
+            "tagId": 21497,
+            "tagNameEn": "Hindi Lessons"
+        },
+        {
+            "tagId": 21496,
+            "tagNameEn": "Hebrew Lessons"
+        },
+        {
+            "tagId": 21495,
+            "tagNameEn": "German Lessons"
+        },
+        {
+            "tagId": 21494,
+            "tagNameEn": "French Lessons"
+        },
+        {
+            "tagId": 22100,
+            "tagNameEn": "Budget-Friendly"
+        },
+        {
+            "tagId": 22101,
+            "tagNameEn": "Carnival"
+        },
+        {
+            "tagId": 22102,
+            "tagNameEn": "Mardi Gras"
+        },
+        {
+            "tagId": 22103,
+            "tagNameEn": "Oktoberfest"
+        },
+        {
+            "tagId": 22104,
+            "tagNameEn": "St. Patrick's Day"
+        },
+        {
+            "tagId": 22105,
+            "tagNameEn": "Lantern Festival"
+        },
+        {
+            "tagId": 22106,
+            "tagNameEn": "Cherry Blossom"
+        },
+        {
+            "tagId": 21493,
+            "tagNameEn": "English Lessons"
+        },
+        {
+            "tagId": 21492,
+            "tagNameEn": "Dutch Lessons"
+        },
+        {
+            "tagId": 21491,
+            "tagNameEn": "Danish Lessons"
+        },
+        {
+            "tagId": 21490,
+            "tagNameEn": "Arabic Lessons"
+        },
+        {
+            "tagId": 21468,
+            "tagNameEn": "Wakeboarding"
+        },
+        {
+            "tagId": 21467,
+            "tagNameEn": "Hydrofoil"
+        },
+        {
+            "tagId": 21466,
+            "tagNameEn": "Sea Caving"
+        },
+        {
+            "tagId": 21465,
+            "tagNameEn": "SUPsquatch"
+        },
+        {
+            "tagId": 21464,
+            "tagNameEn": "Swimming"
+        },
+        {
+            "tagId": 12990,
+            "tagNameEn": "Speedboat Rides"
+        },
+        {
+            "tagId": 21463,
+            "tagNameEn": "Kitesurfing"
+        },
+        {
+            "tagId": 21462,
+            "tagNameEn": "Flight Simulator"
+        },
+        {
+            "tagId": 21461,
+            "tagNameEn": "Go Kart"
+        },
+        {
+            "tagId": 21469,
+            "tagNameEn": "Wildlife Encounters"
+        },
+        {
+            "tagId": 12517,
+            "tagNameEn": "Transfers"
+        },
+        {
+            "tagId": 12518,
+            "tagNameEn": "Transportation"
+        },
+        {
+            "tagId": 12519,
+            "tagNameEn": "Tours"
+        },
+        {
+            "tagId": 21460,
+            "tagNameEn": "Laser Tag"
+        },
+        {
+            "tagId": 12991,
+            "tagNameEn": "Submarine Tours"
+        },
+        {
+            "tagId": 21479,
+            "tagNameEn": "Art & Culture Classes"
+        },
+        {
+            "tagId": 21478,
+            "tagNameEn": "Active & Outdoor Classes"
+        },
+        {
+            "tagId": 21477,
+            "tagNameEn": "P\u00e9tanque"
+        },
+        {
+            "tagId": 21476,
+            "tagNameEn": "Majong"
+        },
+        {
+            "tagId": 21475,
+            "tagNameEn": "Snow Tubing"
+        },
+        {
+            "tagId": 21474,
+            "tagNameEn": "Skiing"
+        },
+        {
+            "tagId": 21473,
+            "tagNameEn": "Ice Climbing"
+        },
+        {
+            "tagId": 21472,
+            "tagNameEn": "Dog Sledding/Mushing"
+        },
+        {
+            "tagId": 12520,
+            "tagNameEn": "Activities"
+        },
+        {
+            "tagId": 21471,
+            "tagNameEn": "Snowboarding"
+        },
+        {
+            "tagId": 9704,
+            "tagNameEn": "Charming"
+        },
+        {
+            "tagId": 12521,
+            "tagNameEn": "Events"
+        },
+        {
+            "tagId": 21470,
+            "tagNameEn": "Wildlife Watching"
+        },
+        {
+            "tagId": 9705,
+            "tagNameEn": "Classic"
+        },
+        {
+            "tagId": 9703,
+            "tagNameEn": "City Center"
+        },
+        {
+            "tagId": 10589,
+            "tagNameEn": "Safe"
+        },
+        {
+            "tagId": 9706,
+            "tagNameEn": "Quaint"
+        },
+        {
+            "tagId": 19126,
+            "tagNameEn": "Whirlpool Bathtub"
+        },
+        {
+            "tagId": 21446,
+            "tagNameEn": "Scavenger Hunts"
+        },
+        {
+            "tagId": 21688,
+            "tagNameEn": "Jive Dance Shows"
+        },
+        {
+            "tagId": 19125,
+            "tagNameEn": "Waxing Services"
+        },
+        {
+            "tagId": 21445,
+            "tagNameEn": "Sandboarding"
+        },
+        {
+            "tagId": 21687,
+            "tagNameEn": "Foxtrot Dance Shows"
+        },
+        {
+            "tagId": 19128,
+            "tagNameEn": "Wine / Champagne"
+        },
+        {
+            "tagId": 21444,
+            "tagNameEn": "Pack Animal Tours"
+        },
+        {
+            "tagId": 21686,
+            "tagNameEn": "Hip-Hop Dance Shows"
+        },
+        {
+            "tagId": 19127,
+            "tagNameEn": "Windsurfing"
+        },
+        {
+            "tagId": 21443,
+            "tagNameEn": "Outback Tours"
+        },
+        {
+            "tagId": 21685,
+            "tagNameEn": "Cha Cha Dance Shows"
+        },
+        {
+            "tagId": 19122,
+            "tagNameEn": "Water Park Off-site"
+        },
+        {
+            "tagId": 21442,
+            "tagNameEn": "On the Water"
+        },
+        {
+            "tagId": 21684,
+            "tagNameEn": "Disco Dance Shows"
+        },
+        {
+            "tagId": 19121,
+            "tagNameEn": "Washing Machine"
+        },
+        {
+            "tagId": 21441,
+            "tagNameEn": "On the Ground Equipment Rentals"
+        },
+        {
+            "tagId": 21683,
+            "tagNameEn": "Dance Shows"
+        },
+        {
+            "tagId": 19124,
+            "tagNameEn": "Water Sport Equipment Rentals"
+        },
+        {
+            "tagId": 21440,
+            "tagNameEn": "On the Ground"
+        },
+        {
+            "tagId": 21682,
+            "tagNameEn": "Break Dance Shows"
+        },
+        {
+            "tagId": 19123,
+            "tagNameEn": "Waterslide"
+        },
+        {
+            "tagId": 21681,
+            "tagNameEn": "Capoeira Dance Shows"
+        },
+        {
+            "tagId": 19120,
+            "tagNameEn": "Wardrobe / Closet"
+        },
+        {
+            "tagId": 21449,
+            "tagNameEn": "Sledding"
+        },
+        {
+            "tagId": 21448,
+            "tagNameEn": "Skydiving"
+        },
+        {
+            "tagId": 21447,
+            "tagNameEn": "Shooting Ranges"
+        },
+        {
+            "tagId": 21689,
+            "tagNameEn": "Kizomba Dance Shows"
+        },
+        {
+            "tagId": 12979,
+            "tagNameEn": "Catamaran Cruises"
+        },
+        {
+            "tagId": 11889,
+            "tagNameEn": "Day Trips"
+        },
+        {
+            "tagId": 11888,
+            "tagNameEn": "Sailing"
+        },
+        {
+            "tagId": 12977,
+            "tagNameEn": "Breakfast Cruises"
+        },
+        {
+            "tagId": 12978,
+            "tagNameEn": "Brunch Cruises"
+        },
+        {
+            "tagId": 21680,
+            "tagNameEn": "Bhangra Dance Shows"
+        },
+        {
+            "tagId": 12730,
+            "tagNameEn": "Water Parks"
+        },
+        {
+            "tagId": 12972,
+            "tagNameEn": "Balloon Rides"
+        },
+        {
+            "tagId": 12733,
+            "tagNameEn": "Wedding Packages"
+        },
+        {
+            "tagId": 12975,
+            "tagNameEn": "Seaplane Tours"
+        },
+        {
+            "tagId": 11885,
+            "tagNameEn": "Day Cruises"
+        },
+        {
+            "tagId": 12976,
+            "tagNameEn": "Airboat Tours"
+        },
+        {
+            "tagId": 19129,
+            "tagNameEn": "Photo Copier / Fax In Business Center"
+        },
+        {
+            "tagId": 12731,
+            "tagNameEn": "Weddings & Proposals"
+        },
+        {
+            "tagId": 12973,
+            "tagNameEn": "Biplane Tours"
+        },
+        {
+            "tagId": 11887,
+            "tagNameEn": "Night Cruises"
+        },
+        {
+            "tagId": 12732,
+            "tagNameEn": "Proposals"
+        },
+        {
+            "tagId": 12974,
+            "tagNameEn": "Helicopter Rides"
+        },
+        {
+            "tagId": 21457,
+            "tagNameEn": "Zorbing"
+        },
+        {
+            "tagId": 21456,
+            "tagNameEn": "Zoos & Wildlife Parks"
+        },
+        {
+            "tagId": 21455,
+            "tagNameEn": "Windsurfing"
+        },
+        {
+            "tagId": 21697,
+            "tagNameEn": "Tap Dance Shows"
+        },
+        {
+            "tagId": 21454,
+            "tagNameEn": "Dolphin Watching"
+        },
+        {
+            "tagId": 21696,
+            "tagNameEn": "Tango Dance Shows"
+        },
+        {
+            "tagId": 19133,
+            "tagNameEn": "Zulu"
+        },
+        {
+            "tagId": 21453,
+            "tagNameEn": "Waterskiing"
+        },
+        {
+            "tagId": 21695,
+            "tagNameEn": "Sufi Whirling Shows"
+        },
+        {
+            "tagId": 19132,
+            "tagNameEn": "Yoga Room"
+        },
+        {
+            "tagId": 21452,
+            "tagNameEn": "VR Experiences"
+        },
+        {
+            "tagId": 21694,
+            "tagNameEn": "Samba Dance Shows"
+        },
+        {
+            "tagId": 21451,
+            "tagNameEn": "Snowshoeing"
+        },
+        {
+            "tagId": 21693,
+            "tagNameEn": "Salsa Dance Shows"
+        },
+        {
+            "tagId": 11890,
+            "tagNameEn": "Dining Experiences"
+        },
+        {
+            "tagId": 21450,
+            "tagNameEn": "Snowmobiling"
+        },
+        {
+            "tagId": 21692,
+            "tagNameEn": "Rumba Dance Shows"
+        },
+        {
+            "tagId": 19131,
+            "tagNameEn": "Yoga Classes"
+        },
+        {
+            "tagId": 19130,
+            "tagNameEn": "Xhosa"
+        },
+        {
+            "tagId": 21459,
+            "tagNameEn": "Mini Golf"
+        },
+        {
+            "tagId": 21458,
+            "tagNameEn": "Freediving"
+        },
+        {
+            "tagId": 11899,
+            "tagNameEn": "Attraction Tickets"
+        },
+        {
+            "tagId": 12988,
+            "tagNameEn": "Sailing Trips"
+        },
+        {
+            "tagId": 12989,
+            "tagNameEn": "Sightseeing Cruises"
+        },
+        {
+            "tagId": 6216,
+            "tagNameEn": "Family-friendly"
+        },
+        {
+            "tagId": 12982,
+            "tagNameEn": "Dinner Cruises"
+        },
+        {
+            "tagId": 21691,
+            "tagNameEn": "Merengue Dance Shows"
+        },
+        {
+            "tagId": 11892,
+            "tagNameEn": "Christmas"
+        },
+        {
+            "tagId": 12983,
+            "tagNameEn": "Dolphin & Whale Watching"
+        },
+        {
+            "tagId": 21690,
+            "tagNameEn": "Polka Dance Shows"
+        },
+        {
+            "tagId": 11891,
+            "tagNameEn": "Wine Tastings"
+        },
+        {
+            "tagId": 12980,
+            "tagNameEn": "Coffee Cruises"
+        },
+        {
+            "tagId": 11894,
+            "tagNameEn": "Mother's Day"
+        },
+        {
+            "tagId": 6217,
+            "tagNameEn": "Pool"
+        },
+        {
+            "tagId": 12981,
+            "tagNameEn": "Dhow Cruises"
+        },
+        {
+            "tagId": 11893,
+            "tagNameEn": "Halloween"
+        },
+        {
+            "tagId": 12986,
+            "tagNameEn": "Gondola Rides"
+        },
+        {
+            "tagId": 11896,
+            "tagNameEn": "New Years "
+        },
+        {
+            "tagId": 12987,
+            "tagNameEn": "Lunch Cruises"
+        },
+        {
+            "tagId": 11895,
+            "tagNameEn": "National Holidays"
+        },
+        {
+            "tagId": 12984,
+            "tagNameEn": "Duck Tours"
+        },
+        {
+            "tagId": 11898,
+            "tagNameEn": "Valentine's Day Events"
+        },
+        {
+            "tagId": 12985,
+            "tagNameEn": "Glass Bottom Boat Tours"
+        },
+        {
+            "tagId": 13121,
+            "tagNameEn": "Afternoon Tea"
+        },
+        {
+            "tagId": 12031,
+            "tagNameEn": "Art Tours"
+        },
+        {
+            "tagId": 6233,
+            "tagNameEn": "Trendy"
+        },
+        {
+            "tagId": 13122,
+            "tagNameEn": "Breakfast"
+        },
+        {
+            "tagId": 12030,
+            "tagNameEn": "Movie Tours"
+        },
+        {
+            "tagId": 12033,
+            "tagNameEn": "Pub Tours"
+        },
+        {
+            "tagId": 13120,
+            "tagNameEn": "Winemaking Workshops"
+        },
+        {
+            "tagId": 12032,
+            "tagNameEn": "Rail Tours"
+        },
+        {
+            "tagId": 13125,
+            "tagNameEn": "Discount Dining Cards"
+        },
+        {
+            "tagId": 12035,
+            "tagNameEn": "4WD Tours"
+        },
+        {
+            "tagId": 6226,
+            "tagNameEn": "Best Value"
+        },
+        {
+            "tagId": 13126,
+            "tagNameEn": "4WD, ATV & Off-road tours"
+        },
+        {
+            "tagId": 12034,
+            "tagNameEn": "Cooking Classes"
+        },
+        {
+            "tagId": 13123,
+            "tagNameEn": "Lunch"
+        },
+        {
+            "tagId": 12037,
+            "tagNameEn": "Golf Tours & Tee Times"
+        },
+        {
+            "tagId": 13124,
+            "tagNameEn": "Dinner"
+        },
+        {
+            "tagId": 12036,
+            "tagNameEn": "Fishing Charters"
+        },
+        {
+            "tagId": 13129,
+            "tagNameEn": "Fishing"
+        },
+        {
+            "tagId": 12039,
+            "tagNameEn": "Shopping Tours"
+        },
+        {
+            "tagId": 12038,
+            "tagNameEn": "Safaris"
+        },
+        {
+            "tagId": 13127,
+            "tagNameEn": "Camping"
+        },
+        {
+            "tagId": 13128,
+            "tagNameEn": "Climbing"
+        },
+        {
+            "tagId": 12040,
+            "tagNameEn": "Sporting Events"
+        },
+        {
+            "tagId": 13132,
+            "tagNameEn": "Horseback Riding"
+        },
+        {
+            "tagId": 12042,
+            "tagNameEn": "Segway Tours"
+        },
+        {
+            "tagId": 13133,
+            "tagNameEn": "Lift Tickets"
+        },
+        {
+            "tagId": 12041,
+            "tagNameEn": "Self-guided Tours"
+        },
+        {
+            "tagId": 13130,
+            "tagNameEn": "Hiking"
+        },
+        {
+            "tagId": 12044,
+            "tagNameEn": "Airport & Hotel Transfers"
+        },
+        {
+            "tagId": 13131,
+            "tagNameEn": "Golf"
+        },
+        {
+            "tagId": 12043,
+            "tagNameEn": "Water Parks"
+        },
+        {
+            "tagId": 22083,
+            "tagNameEn": "Likely To Sell Out"
+        },
+        {
+            "tagId": 13136,
+            "tagNameEn": "Paintball"
+        },
+        {
+            "tagId": 12046,
+            "tagNameEn": "Walking Tours"
+        },
+        {
+            "tagId": 13137,
+            "tagNameEn": "Paragliding"
+        },
+        {
+            "tagId": 13134,
+            "tagNameEn": "Minigolf"
+        },
+        {
+            "tagId": 12048,
+            "tagNameEn": "Surfing Lessons"
+        },
+        {
+            "tagId": 13135,
+            "tagNameEn": "Obstacle Courses"
+        },
+        {
+            "tagId": 12047,
+            "tagNameEn": "Kayaking Tours"
+        },
+        {
+            "tagId": 12049,
+            "tagNameEn": "Submarine Tours"
+        },
+        {
+            "tagId": 13138,
+            "tagNameEn": "Shooting Ranges"
+        },
+        {
+            "tagId": 13139,
+            "tagNameEn": "Skydiving"
+        },
+        {
+            "tagId": 12011,
+            "tagNameEn": "Audio Guides"
+        },
+        {
+            "tagId": 12010,
+            "tagNameEn": "Vespa Rentals"
+        },
+        {
+            "tagId": 13109,
+            "tagNameEn": "Museums"
+        },
+        {
+            "tagId": 13103,
+            "tagNameEn": "Cruise Packages"
+        },
+        {
+            "tagId": 12013,
+            "tagNameEn": "Architecture Tours"
+        },
+        {
+            "tagId": 13104,
+            "tagNameEn": "Rail Packages"
+        },
+        {
+            "tagId": 12012,
+            "tagNameEn": "Basilica Tours"
+        },
+        {
+            "tagId": 12015,
+            "tagNameEn": "Christian Tours"
+        },
+        {
+            "tagId": 12014,
+            "tagNameEn": "Famous Places In Rome"
+        },
+        {
+            "tagId": 13107,
+            "tagNameEn": "Aquariums"
+        },
+        {
+            "tagId": 12017,
+            "tagNameEn": "Colosseum Underground Tours"
+        },
+        {
+            "tagId": 13108,
+            "tagNameEn": "Castles"
+        },
+        {
+            "tagId": 12016,
+            "tagNameEn": "Jewish Tours"
+        },
+        {
+            "tagId": 13105,
+            "tagNameEn": "Safari Packages"
+        },
+        {
+            "tagId": 13106,
+            "tagNameEn": "Tour Packages"
+        },
+        {
+            "tagId": 12018,
+            "tagNameEn": "Ancient Rome Tours"
+        },
+        {
+            "tagId": 13110,
+            "tagNameEn": "Observation Decks"
+        },
+        {
+            "tagId": 12020,
+            "tagNameEn": "Tubing"
+        },
+        {
+            "tagId": 13111,
+            "tagNameEn": "Zoos"
+        },
+        {
+            "tagId": 12021,
+            "tagNameEn": "Scuba Diving"
+        },
+        {
+            "tagId": 13114,
+            "tagNameEn": "Glassblowing Classes"
+        },
+        {
+            "tagId": 13115,
+            "tagNameEn": "Language Lessons"
+        },
+        {
+            "tagId": 13112,
+            "tagNameEn": "Cooking Classes"
+        },
+        {
+            "tagId": 12026,
+            "tagNameEn": "Helicopter Tours"
+        },
+        {
+            "tagId": 13113,
+            "tagNameEn": "Dance Lessons"
+        },
+        {
+            "tagId": 12025,
+            "tagNameEn": "Air Tours"
+        },
+        {
+            "tagId": 13118,
+            "tagNameEn": "Sports Workshops"
+        },
+        {
+            "tagId": 12028,
+            "tagNameEn": "Cultural Tours"
+        },
+        {
+            "tagId": 13119,
+            "tagNameEn": "Yoga Classes"
+        },
+        {
+            "tagId": 12027,
+            "tagNameEn": "Hot Air Balloon Rides"
+        },
+        {
+            "tagId": 13116,
+            "tagNameEn": "Painting Classes"
+        },
+        {
+            "tagId": 13117,
+            "tagNameEn": "Pottery Classes"
+        },
+        {
+            "tagId": 12029,
+            "tagNameEn": "Historical Tours"
+        },
+        {
+            "tagId": 5184,
+            "tagNameEn": "Budget"
+        },
+        {
+            "tagId": 12000,
+            "tagNameEn": "Rome To Assisi"
+        },
+        {
+            "tagId": 22046,
+            "tagNameEn": "Adventure Tours"
+        },
+        {
+            "tagId": 12009,
+            "tagNameEn": "Bike Rentals"
+        },
+        {
+            "tagId": 12002,
+            "tagNameEn": "Rome To Orvieto"
+        },
+        {
+            "tagId": 12001,
+            "tagNameEn": "Rome To Amalfi"
+        },
+        {
+            "tagId": 12003,
+            "tagNameEn": "Rome To Pompeii"
+        },
+        {
+            "tagId": 6296,
+            "tagNameEn": "Business"
+        },
+        {
+            "tagId": 12692,
+            "tagNameEn": "City Tours"
+        },
+        {
+            "tagId": 19089,
+            "tagNameEn": "Squash Off-site"
+        },
+        {
+            "tagId": 12693,
+            "tagNameEn": "Day Trips"
+        },
+        {
+            "tagId": 19088,
+            "tagNameEn": "Squash"
+        },
+        {
+            "tagId": 12690,
+            "tagNameEn": "Air Tours"
+        },
+        {
+            "tagId": 12691,
+            "tagNameEn": "Boat Tours"
+        },
+        {
+            "tagId": 19085,
+            "tagNameEn": "Soundproof Rooms"
+        },
+        {
+            "tagId": 19084,
+            "tagNameEn": "Solarium"
+        },
+        {
+            "tagId": 19087,
+            "tagNameEn": "Special Diet Menus"
+        },
+        {
+            "tagId": 19086,
+            "tagNameEn": "Spanish"
+        },
+        {
+            "tagId": 19081,
+            "tagNameEn": "Snorkeling"
+        },
+        {
+            "tagId": 19080,
+            "tagNameEn": "Snack Bar"
+        },
+        {
+            "tagId": 19083,
+            "tagNameEn": "Sofa Bed"
+        },
+        {
+            "tagId": 19082,
+            "tagNameEn": "Sofa"
+        },
+        {
+            "tagId": 19090,
+            "tagNameEn": "Steam Room"
+        },
+        {
+            "tagId": 12696,
+            "tagNameEn": "Package Tours"
+        },
+        {
+            "tagId": 12697,
+            "tagNameEn": "Shopping Tours"
+        },
+        {
+            "tagId": 12694,
+            "tagNameEn": "Food &\u00a0Drink Tours"
+        },
+        {
+            "tagId": 12695,
+            "tagNameEn": "Factory Tours"
+        },
+        {
+            "tagId": 12698,
+            "tagNameEn": "Shore Excursions"
+        },
+        {
+            "tagId": 12699,
+            "tagNameEn": "Ski & Snowboard Tours"
+        },
+        {
+            "tagId": 19099,
+            "tagNameEn": "Swedish"
+        },
+        {
+            "tagId": 19096,
+            "tagNameEn": "Sun Terrace"
+        },
+        {
+            "tagId": 19095,
+            "tagNameEn": "Sun Loungers / Beach Chairs"
+        },
+        {
+            "tagId": 19098,
+            "tagNameEn": "Swahili"
+        },
+        {
+            "tagId": 19097,
+            "tagNameEn": "Sun Umbrellas"
+        },
+        {
+            "tagId": 19092,
+            "tagNameEn": "Street Parking"
+        },
+        {
+            "tagId": 19091,
+            "tagNameEn": "Stovetop"
+        },
+        {
+            "tagId": 19094,
+            "tagNameEn": "Sun Deck"
+        },
+        {
+            "tagId": 19093,
+            "tagNameEn": "Strollers"
+        },
+        {
+            "tagId": 18894,
+            "tagNameEn": "Azerbaijani"
+        },
+        {
+            "tagId": 18895,
+            "tagNameEn": "Badminton"
+        },
+        {
+            "tagId": 18896,
+            "tagNameEn": "Baggage Storage"
+        },
+        {
+            "tagId": 18897,
+            "tagNameEn": "Bath / Shower"
+        },
+        {
+            "tagId": 18890,
+            "tagNameEn": "Arabic"
+        },
+        {
+            "tagId": 18891,
+            "tagNameEn": "Archery"
+        },
+        {
+            "tagId": 18892,
+            "tagNameEn": "Archery Off-site"
+        },
+        {
+            "tagId": 18893,
+            "tagNameEn": "ATM On Site"
+        },
+        {
+            "tagId": 18898,
+            "tagNameEn": "Bathrobes"
+        },
+        {
+            "tagId": 18899,
+            "tagNameEn": "BBQ Facilities"
+        },
+        {
+            "tagId": 13183,
+            "tagNameEn": "Classical Music"
+        },
+        {
+            "tagId": 13184,
+            "tagNameEn": "Comedy"
+        },
+        {
+            "tagId": 13181,
+            "tagNameEn": "Cabaret"
+        },
+        {
+            "tagId": 13182,
+            "tagNameEn": "Cirque du Soleil"
+        },
+        {
+            "tagId": 13185,
+            "tagNameEn": "Dinner Theater"
+        },
+        {
+            "tagId": 13180,
+            "tagNameEn": "Ballet"
+        },
+        {
+            "tagId": 18883,
+            "tagNameEn": "Additional Bathroom"
+        },
+        {
+            "tagId": 13194,
+            "tagNameEn": "English Lessons"
+        },
+        {
+            "tagId": 18884,
+            "tagNameEn": "Adults Only"
+        },
+        {
+            "tagId": 13195,
+            "tagNameEn": "French Lessons"
+        },
+        {
+            "tagId": 18885,
+            "tagNameEn": "Aerobics"
+        },
+        {
+            "tagId": 18886,
+            "tagNameEn": "Aerobics Off-site"
+        },
+        {
+            "tagId": 13193,
+            "tagNameEn": "Chinese Lessons"
+        },
+        {
+            "tagId": 13198,
+            "tagNameEn": "Japanese Lessons"
+        },
+        {
+            "tagId": 13199,
+            "tagNameEn": "Korean Lessons"
+        },
+        {
+            "tagId": 13196,
+            "tagNameEn": "German Lessons"
+        },
+        {
+            "tagId": 13197,
+            "tagNameEn": "Italian Lessons"
+        },
+        {
+            "tagId": 18887,
+            "tagNameEn": "Afrikaans"
+        },
+        {
+            "tagId": 18888,
+            "tagNameEn": "Air Purifier"
+        },
+        {
+            "tagId": 18889,
+            "tagNameEn": "Allergy-free Room"
+        },
+        {
+            "tagId": 12071,
+            "tagNameEn": "Gondola Cruises"
+        },
+        {
+            "tagId": 13162,
+            "tagNameEn": "Boats"
+        },
+        {
+            "tagId": 12070,
+            "tagNameEn": "Cabaret"
+        },
+        {
+            "tagId": 12073,
+            "tagNameEn": "Coffee & Tea Tours"
+        },
+        {
+            "tagId": 12072,
+            "tagNameEn": "Running Tours"
+        },
+        {
+            "tagId": 12075,
+            "tagNameEn": "City Tours"
+        },
+        {
+            "tagId": 12074,
+            "tagNameEn": "Skip the line Tickets"
+        },
+        {
+            "tagId": 13163,
+            "tagNameEn": "Gear"
+        },
+        {
+            "tagId": 12077,
+            "tagNameEn": "Archaeology Tours"
+        },
+        {
+            "tagId": 13164,
+            "tagNameEn": "Scooters"
+        },
+        {
+            "tagId": 12076,
+            "tagNameEn": "Motorcycle Tours"
+        },
+        {
+            "tagId": 12079,
+            "tagNameEn": "Hammams & Turkish Baths"
+        },
+        {
+            "tagId": 12078,
+            "tagNameEn": "Spas"
+        },
+        {
+            "tagId": 9157,
+            "tagNameEn": "Shuttle Bus Service"
+        },
+        {
+            "tagId": 12082,
+            "tagNameEn": "Arab Baths"
+        },
+        {
+            "tagId": 9158,
+            "tagNameEn": "Ski-In / Ski-Out"
+        },
+        {
+            "tagId": 12081,
+            "tagNameEn": "Roman Baths"
+        },
+        {
+            "tagId": 9155,
+            "tagNameEn": "Kids Activities"
+        },
+        {
+            "tagId": 12084,
+            "tagNameEn": "Disney\u00ae Parks"
+        },
+        {
+            "tagId": 9156,
+            "tagNameEn": "Beachfront"
+        },
+        {
+            "tagId": 12083,
+            "tagNameEn": "Multi-day Cruises"
+        },
+        {
+            "tagId": 9154,
+            "tagNameEn": "Internet"
+        },
+        {
+            "tagId": 12080,
+            "tagNameEn": "Thermal Spas & Hot Springs"
+        },
+        {
+            "tagId": 9168,
+            "tagNameEn": "Kitchenette"
+        },
+        {
+            "tagId": 13140,
+            "tagNameEn": "Sledding"
+        },
+        {
+            "tagId": 9169,
+            "tagNameEn": "Spa"
+        },
+        {
+            "tagId": 9166,
+            "tagNameEn": "Bar/Lounge"
+        },
+        {
+            "tagId": 12051,
+            "tagNameEn": "Duck Boat Tours"
+        },
+        {
+            "tagId": 9167,
+            "tagNameEn": "Pets Allowed"
+        },
+        {
+            "tagId": 12050,
+            "tagNameEn": "Private Tours"
+        },
+        {
+            "tagId": 13143,
+            "tagNameEn": "Ziplines"
+        },
+        {
+            "tagId": 12053,
+            "tagNameEn": "Culinary Tours"
+        },
+        {
+            "tagId": 12052,
+            "tagNameEn": "Whale Watching"
+        },
+        {
+            "tagId": 13141,
+            "tagNameEn": "Tennis"
+        },
+        {
+            "tagId": 13142,
+            "tagNameEn": "Water Sports"
+        },
+        {
+            "tagId": 12054,
+            "tagNameEn": "Nightlife"
+        },
+        {
+            "tagId": 9160,
+            "tagNameEn": "Suites"
+        },
+        {
+            "tagId": 22099,
+            "tagNameEn": "Top Rated"
+        },
+        {
+            "tagId": 9161,
+            "tagNameEn": "Room service"
+        },
+        {
+            "tagId": 9164,
+            "tagNameEn": "Wheelchair access"
+        },
+        {
+            "tagId": 9165,
+            "tagNameEn": "Restaurant"
+        },
+        {
+            "tagId": 9162,
+            "tagNameEn": "Free Internet"
+        },
+        {
+            "tagId": 9163,
+            "tagNameEn": "Free parking"
+        },
+        {
+            "tagId": 22097,
+            "tagNameEn": "Viator Experience Awards"
+        },
+        {
+            "tagId": 22098,
+            "tagNameEn": "Best Seller"
+        },
+        {
+            "tagId": 12057,
+            "tagNameEn": "Night Tours"
+        },
+        {
+            "tagId": 12056,
+            "tagNameEn": "Ports of Call Tours"
+        },
+        {
+            "tagId": 12059,
+            "tagNameEn": "Bus Services"
+        },
+        {
+            "tagId": 12058,
+            "tagNameEn": "Hop on Hop Off Buses"
+        },
+        {
+            "tagId": 9179,
+            "tagNameEn": "Breakfast included"
+        },
+        {
+            "tagId": 12060,
+            "tagNameEn": "Rail Services"
+        },
+        {
+            "tagId": 9177,
+            "tagNameEn": "Paid Wifi"
+        },
+        {
+            "tagId": 12062,
+            "tagNameEn": "Jet Ski Rentals"
+        },
+        {
+            "tagId": 9178,
+            "tagNameEn": "Paid Internet"
+        },
+        {
+            "tagId": 12061,
+            "tagNameEn": "Shark Diving"
+        },
+        {
+            "tagId": 12064,
+            "tagNameEn": "Rafting"
+        },
+        {
+            "tagId": 12066,
+            "tagNameEn": "Ghost Tours"
+        },
+        {
+            "tagId": 12065,
+            "tagNameEn": "Swim with Dolphins"
+        },
+        {
+            "tagId": 9171,
+            "tagNameEn": "Casino"
+        },
+        {
+            "tagId": 9170,
+            "tagNameEn": "Airport transportation"
+        },
+        {
+            "tagId": 9176,
+            "tagNameEn": "Free Wifi"
+        },
+        {
+            "tagId": 9173,
+            "tagNameEn": "Wifi"
+        },
+        {
+            "tagId": 9174,
+            "tagNameEn": "Public Wifi"
+        },
+        {
+            "tagId": 12068,
+            "tagNameEn": "Vespa, Scooter & Moped Tours"
+        },
+        {
+            "tagId": 12067,
+            "tagNameEn": "Eco Tours"
+        },
+        {
+            "tagId": 12069,
+            "tagNameEn": "Cirque du Soleil Shows"
+        }
+    ]
+}
