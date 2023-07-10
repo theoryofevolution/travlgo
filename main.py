@@ -98,7 +98,7 @@ def gpt_formatting(extracted_values, start_date, end_date):
     difference = start_date - end_date
     days_spent = difference.days
 
-    openai.api_key = st.secrets["API_KEY_VIATOR"]
+    openai.api_key = st.secrets["API_KEY_OPENAI"]
     prompt = f"""Generate a travel itinerary for {days_spent} days using the data that you have been given. In between each activity
     you are allowed to include some information about their travel location, or anything else that is interesting to do on the way to their next place. {json.dumps(extracted_values)} 
     Use the activities above and include ALL of the activities into the itinerary. DO NOT REPEAT ANY EVENTS. Please place the product code next to the title of the activity.
