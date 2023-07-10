@@ -121,7 +121,7 @@ def gpt_formatting(extracted_values, start_date, end_date):
     response = openai.Completion.create(
         engine="text-davinci-003",
         prompt=prompt,
-        max_tokens=500,
+        max_tokens=810,
         temperature=0.7,
         n=1,
         stop=None,
