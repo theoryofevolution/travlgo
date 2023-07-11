@@ -7,6 +7,19 @@ import streamlit as st
 API_KEY = st.secrets["API_KEY_VIATOR"]
 url = 'https://api.sandbox.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
+
+def check_availability(product_code):
+    url = f"https://api.viator.com/partner/availability/schedules/{product_code}"
+    headers = {
+        "exp-api-key": '3d28194b-f857-4334-930f-36540f9bf313',
+        "Accept": "application/json;version=2.0"
+    }
+    
+
+    response = requests.get(url, headers=headers)
+    availability_data = response.json()
+    return availability_data
+
 def viator_post_request(destination:str, start_date, end_date, user_tags:list, event_number:int):
     activities_data = []
     custom_data = []
@@ -40,7 +53,7 @@ def viator_post_request(destination:str, start_date, end_date, user_tags:list, e
             "endDate": str(end_date),
             "includeAutomaticTranslations": True,
             "confirmationType": "INSTANT",
-            "durationInMinutes": {"from": 20, "to": 540},
+            "durationInMinutes": {"from": 20, "to": 1080},
             "rating": {"from": 3, "to": 5}
         },
         "sorting": {"sort": "TRAVELER_RATING", "order": "DESCENDING"},
@@ -92,41 +105,11 @@ def viator_post_request(destination:str, start_date, end_date, user_tags:list, e
 
     return extracted_values
 
-def gpt_formatting(extracted_values, start_date, end_date):
-    difference = start_date - end_date
-    days_spent = difference.days
+# Example usage:
 
-    openai.api_key = st.secrets["API_KEY_OPENAI"]
-    prompt = f"""Generate a travel itinerary for {days_spent} days using the data that you have been given. In between each activity
-    you are allowed to include some information about their travel location, or anything else that is interesting to do on the way to their next place. {json.dumps(extracted_values)} 
-    Use the activities above and include ALL of the activities into the itinerary. DO NOT REPEAT ANY EVENTS. Please place the product code next to the title of the activity.
-    Format:
-    Day 1:
-        Morning Activity:
-            [RECOMMENDATION]
-        Afternoon Activity:
-            [RECOMMENDATION]
-        Evening Activity:
-            [RECOMMENDATION]
-    Day 2:
-        Morning Activity:
-            [RECOMMENDATION]
-        Afternoon Activity:
-            [RECOMMENDATION]
-        Evening Activity:
-            [RECOMMENDATION]
-    END OF FORMAT
-    """
+product_code = "62330P2"
+availability = check_availability(product_code)
+print(availability)
 
-    response = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=prompt,
-        max_tokens=810,
-        temperature=0.7,
-        n=1,
-        stop=None,
-    )
-
-    generated_itinerary = response.choices[0].text.strip()
-
-    return generated_itinerary
+def itinerary_creation(extracted_values, start_date, end_date):
+    pass
