@@ -1,6 +1,5 @@
 import streamlit as st
 import tag_lib
-
 import json
 import requests
 import extractor
@@ -121,7 +120,7 @@ def gpt_formatting(extracted_values, start_date, end_date):
     """
 
     response = openai.Completion.create(
-        engine="text-davinci-003",
+        engine="gpt-3.5-turbo",
         prompt=prompt,
         max_tokens=810,
         temperature=0.7,

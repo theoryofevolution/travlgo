@@ -2,7 +2,6 @@ import requests
 import json
 
 url = "https://api.sandbox.viator.com/partner/products/tags"
-api_key = '3d28194b-f857-4334-930f-36540f9bf313'
 headers = {
     "Accept": "application/json;version=2.0",
     "exp-api-key": api_key

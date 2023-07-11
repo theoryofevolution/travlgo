@@ -2,7 +2,6 @@ import json
 import requests
 # API endpoint and credentials
 url = "https://api.sandbox.viator.com/partner/products/search"
-api_key = '3d28194b-f857-4334-930f-36540f9bf313'
 
 # Request headers
 headers = {

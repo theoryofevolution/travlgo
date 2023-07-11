@@ -1,7 +1,6 @@
 import requests
 import json
 
-API_KEY = '3d28194b-f857-4334-930f-36540f9bf313'
 all_events_url = 'https://api.sandbox.viator.com/partner/products/search'
 availability_url = 'https://api.sandbox.viator.com/partner/availability/schedules/bulk'
 product_header = {
