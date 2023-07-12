@@ -1,20 +1,19 @@
 import requests
 import json
+import streamlit as st
 
 all_events_url = 'https://api.sandbox.viator.com/partner/products/search'
-availability_url = 'https://api.sandbox.viator.com/partner/availability/schedules/bulk'
 product_header = {
-    "exp-api-key": API_KEY,
+    "exp-api-key": "3d28194b-f857-4334-930f-36540f9bf313",
     "Accept-Language": "en",
     "Accept": "application/json;version=2.0"
     }
 
 
-def location_event_data(destinationId:int, tags:list, start_date:str, end_date:str):
+def location_event_data(destinationId:int, start_date:str, end_date:str):
     payload = {
     "filtering": {
         "destination": destinationId,
-        "tags": tags,
         "lowestPrice": 5,
         "highestPrice": 500,
         "startDate": start_date,
@@ -31,14 +30,10 @@ def location_event_data(destinationId:int, tags:list, start_date:str, end_date:s
     product_response = requests.post(all_events_url, headers=product_header, data=payload)
     product_response = product_response.json()
 
-    i=0
-    product_codes = []
-    for product in product_response:
-        product_codes.append(product[i]['productCode'])
+    with open('product_response.json', 'w') as f:
+        json.dump(product_response, f, indent=4)
 
-    payload_confirm = {
-        "productCodes": product_codes
-    }
+location_event_data('3092', "2023-09-08", "2023-09-08")
 
     
     

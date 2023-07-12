@@ -8,18 +8,6 @@ API_KEY = st.secrets["API_KEY_VIATOR"]
 url = 'https://api.sandbox.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
 
-def check_availability(product_code):
-    url = f"https://api.viator.com/partner/availability/schedules/{product_code}"
-    headers = {
-        "exp-api-key": '3d28194b-f857-4334-930f-36540f9bf313',
-        "Accept": "application/json;version=2.0"
-    }
-    
-
-    response = requests.get(url, headers=headers)
-    availability_data = response.json()
-    return availability_data
-
 def viator_post_request(destination:str, start_date, end_date, user_tags:list, event_number:int):
     activities_data = []
     custom_data = []
@@ -102,14 +90,13 @@ def viator_post_request(destination:str, start_date, end_date, user_tags:list, e
             matched[custom['productCode']] = custom
     
     extracted_values = extractor.extract_product_info(matched)
+    with open("extracted.json", "w") as file:
+        json.dump(extracted_values, file, indent=4)
 
     return extracted_values
 
-# Example usage:
+print(viator_post_request('Paris', "2023-08-09", "2023-08-17", ["Excellent Quality"], 50))
 
-product_code = "62330P2"
-availability = check_availability(product_code)
-print(availability)
 
 def itinerary_creation(extracted_values, start_date, end_date):
     pass
