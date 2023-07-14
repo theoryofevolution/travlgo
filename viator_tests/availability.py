@@ -1,12 +1,12 @@
 import requests
 from datetime import datetime, timedelta
 import json
-
+import time
 # Set the API key
 api_key = "3d28194b-f857-4334-930f-36540f9bf313"
 
 # Set product code
-product_code = "100972P3"
+product_code = "126585P2"
 
 # Set the base URL for the API
 url = f"https://api.sandbox.viator.com/partner/availability/schedules/{product_code}"
@@ -38,50 +38,41 @@ headers_2 = {
 # Send the GET request
 response = requests.get(url, headers=headers)
 data = response.json()
-
 with open('availability.json', 'w') as f:
         json.dump(data, f, indent=4)
 
-response = requests.get(url_2, headers=headers_2)
-data = response.json()
+def get_dates_in_between(start_date, end_date):
+    # Create a list to store the dates
+    dates_list = []
 
-with open('info.json', 'w') as f:
-        json.dump(data, f, indent=4)
+    # Generate dates in between start and end dates
+    current_date = start_date
+    while current_date <= end_date:
+        dates_list.append(current_date.strftime("%Y-%m-%d"))
+        current_date += timedelta(days=1)
+    return dates_list
 
-"""
-# Check if the request was successful
-if response.status_code == 200:
-    # Extract the availability and pricing data from the response
-    data = response.json()
+def find_all_value_indices(json_data, search_value, path=''):
+    indices = []
 
-    # Iterate over bookable items
-    for bookable_item in data["bookableItems"]:
-        # Iterate over seasons
-        for season in bookable_item["seasons"]:
-            season_start_date = datetime.strptime(season["startDate"], "%Y-%m-%d")
-            
-            # Check if the season falls within the specified date range
-            if start_datetime <= season_start_date <= end_datetime:
-                # Iterate over operating hours
-                for operating_hour in season["operatingHours"]:
-                    day_of_week = operating_hour["dayOfWeek"]
-                    opening_time = datetime.strptime(operating_hour["operatingHours"][0]["opensAt"], "%H:%M:%S").time()
-                    closing_time = datetime.strptime(operating_hour["operatingHours"][0]["closesAt"], "%H:%M:%S").time()
+    if isinstance(json_data, list):
+        for index, item in enumerate(json_data):
+            indices.extend(find_all_value_indices(item, search_value, path + f'[{index}]'))
+    elif isinstance(json_data, dict):
+        for key, value in json_data.items():
+            if value == search_value:
+                indices.append(path + f'.{key}')
+            indices.extend(find_all_value_indices(value, search_value, path + f'.{key}'))
 
-                    # Iterate over dates within the season
-                    current_date = season_start_date
-                    while current_date <= end_datetime:
-                        # Check if the date is not in the unavailable dates
-                        if all(unavailable_date["date"] != current_date.strftime("%Y-%m-%d") for unavailable_date in season["unavailableDates"]):
-                            available_start_time = datetime.combine(current_date, opening_time)
-                            available_end_time = datetime.combine(current_date, closing_time)
+    return indices
 
-                            # Print the available time slot
-                            print(f"Available on {day_of_week} - {current_date.strftime('%Y-%m-%d')}: {available_start_time.strftime('%H:%M:%S')} - {available_end_time.strftime('%H:%M:%S')}")
-
-                        # Move to the next date
-                        current_date += timedelta(days=1)
-else:
-    # Request was not successful, print the error message
-    print(f"Error: {response.status_code} - {response.text}")
-"""
+dates = get_dates_in_between(start_datetime, end_datetime)
+for search_value in dates:
+    value_indices = find_all_value_indices(data, search_value)
+    print("\n")
+    if value_indices:
+        print(f"The value '{search_value}' was found at the following index/key paths:")
+        for index in value_indices:
+            print(index)
+    else:
+        print(f"The value '{search_value}' was not found in the JSON data.")
