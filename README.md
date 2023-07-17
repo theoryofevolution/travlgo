@@ -1,1 +1,2 @@
-# travlgo
+# Travlgo
+## Travel based itinerary generator
