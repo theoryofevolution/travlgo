@@ -29,5 +29,3 @@ if submitted:
         extracted_values = integrations.viator_post_request(destination=destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=10)
         itinerary = integrations.itinerary_creation(extracted_values, start_date, end_date)
         st.text(itinerary)
-        for values in extracted_values:
-            st.write(values['productUrl'])

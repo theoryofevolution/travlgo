@@ -1,23 +1,26 @@
 import json
+import availability 
+from datetime import datetime, time
 
-def extract_product_info(data):
+def extract_product_info(data, start_date, end_date):
     product_info = []
-    
+    start_datetime = datetime.strptime(start_date, "%Y-%m-%d")
+    end_datetime = datetime.strptime(end_date, "%Y-%m-%d")
     for product in data.values():
-        print(product)
-        length_type = None
         product_code = product['productCode']
         title = product['title']
         description = product['description']
         product_url = product['productUrl']
-        duration = product['duration'].values()
-        print(duration)
-        """
-        if duration['fixedDurationInMinutes'] > 240:
+        duration = list(product['duration'].values())[-1]
+        pricing_summary = product['pricing']['summary']
+        from_price = pricing_summary['fromPrice']
+        if 'reviews' in product:
+            rating = list(product['reviews'].values())[2]
+        if duration > 240:
             length_type = 'Full Day'
-        elif 180 < duration['fixedDurationInMinutes'] <= 240:
+        elif 180 < duration <= 240:
             length_type = 'Half Day'
-        elif duration['fixedDurationInMinutes'] <= 180:
+        elif duration <= 180:
             length_type = 'Part Day'
         image_url = None
         for image in product['images']:
@@ -27,7 +30,8 @@ def extract_product_info(data):
                     break
             if image_url:
                 break
-        
+
+        dates, times = availability.available(start_datetime, end_datetime, product_code)
         product_info.append({
             'productCode': product_code,
             'title': title,
@@ -35,8 +39,10 @@ def extract_product_info(data):
             'productUrl': product_url,
             'imageUrl': image_url,
             'duration': duration,
-            'lengthType': length_type
+            'lengthType': length_type,
+            'rating': rating,
+            'price': from_price,
+            'availableOnDate': dates,
+            'availableTimes': times
         })
-    
     return product_info
-    """

@@ -2,13 +2,15 @@ import json
 import requests
 import extractor
 import openai
-import datetime
+from datetime import datetime, timedelta
 import streamlit as st
+import availability
 API_KEY = st.secrets["API_KEY_VIATOR"]
+openai.api_key = st.secrets["API_KEY_OPENAI"]
 url = 'https://api.sandbox.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
 
-def viator_post_request(destination:str, start_date, end_date, user_tags:list, event_number:int):
+def itinerary_creation(destination:str, start_date, end_date, user_tags:list, event_number:int):
     activities_data = []
     custom_data = []
     with open('destinations.json') as file:
@@ -51,8 +53,6 @@ def viator_post_request(destination:str, start_date, end_date, user_tags:list, e
     response = requests.post(url, headers=header, json=payload)
     activities = response.json()
     activities_data.append(activities['products'])
-    with open('normal.json', 'w') as f:
-        json.dump(activities_data, f, indent=4)
 
     custom_payload = {
     "filtering": {
@@ -75,9 +75,6 @@ def viator_post_request(destination:str, start_date, end_date, user_tags:list, e
     custom_activities = response_custom.json()
     custom_data.append(custom_activities['products'])
 
-    with open('custom.json', 'w') as f:
-        json.dump(custom_data, f, indent=4)
-
     matched = {}
 
     for data in activities_data[0]:
@@ -89,14 +86,48 @@ def viator_post_request(destination:str, start_date, end_date, user_tags:list, e
         elif matched[custom['productCode']] != custom:
             matched[custom['productCode']] = custom
     
-    extracted_values = extractor.extract_product_info(matched)
+    extracted_values = extractor.extract_product_info(matched, start_date, end_date)
     with open("extracted.json", "w") as file:
         json.dump(extracted_values, file, indent=4)
+    date_range = []
 
-    return extracted_values
+    start_date = datetime.strptime(start_date, "%Y-%m-%d") + timedelta(days=1)
+    end_date = datetime.strptime(end_date, "%Y-%m-%d")
 
-print(viator_post_request('Paris', "2023-08-09", "2023-08-17", ["Excellent Quality"], 50))
+    current_date = start_date
 
+    day_itinerary={}
 
-def itinerary_creation(extracted_values, start_date, end_date):
-    pass
+    while current_date < end_date:
+        date_range.append(current_date)
+        current_date += timedelta(days=1)
+
+    content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each morning.
+                Ensure that each morning is different. Suggest where they could eat food and what they could do to start each morning.
+                 Do not tell them to visit any tourist attractions as that would be for the afternoon. RETURN AS PYTHON LIST"""
+    example = f"""['Thing to do', 'Thing to do'...]"""
+    morning = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
+    print(morning['choices'][0]['message']['content'])
+    
+    #content = f"""For each day in the list: {date_range} pick an event from this data {extracted_values}.
+    #                Ensure that each event is different. RETURN PRODUCTCODES AS A LIST IN THIS FORMAT []"""
+    #example = """EXAMPLE: ['44598P8', '6353P18', '40925P1', '6353P14', '129335P2', '6353LOUVRE', '40925P3', '6353P22', '398994P1', '343759P2', '7842P4']"""
+    #afternoon = openai.ChatCompletion.create(
+    #    model="gpt-4",
+    #    messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
+    #print(afternoon['choices'][0]['message']['content'])
+
+    #content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each evening.
+    #            Ensure that each evening is different. Suggest where they could eat food and what they could do to start each evening.
+    #             Do not tell them to visit any tourist attractions as that would be for the afternoon. RETURN AS PYTHON LIST"""
+    #
+    evening = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
+    print(evening['choices'][0]['message']['content'])
+    print(extracted_values[0:len(date_range)])
+    return morning['choices'][0]['message']['content'], evening['choices'][0]['message']['content']
+
+print(itinerary_creation('Paris', "2023-08-09", "2023-08-13", ["Excellent Quality"], 16))

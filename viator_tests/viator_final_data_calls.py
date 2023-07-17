@@ -4,7 +4,7 @@ import streamlit as st
 
 all_events_url = 'https://api.sandbox.viator.com/partner/products/search'
 product_header = {
-    "exp-api-key": "3d28194b-f857-4334-930f-36540f9bf313",
+    "exp-api-key": "",
     "Accept-Language": "en",
     "Accept": "application/json;version=2.0"
     }
