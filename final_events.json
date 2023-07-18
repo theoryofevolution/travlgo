@@ -1,0 +1,72 @@
+{
+    "productCode": "348598P1",
+    "bookableItems": [
+        {
+            "productOptionCode": "TG1",
+            "seasons": [
+                {
+                    "startDate": "2022-05-13",
+                    "pricingRecords": [
+                        {
+                            "daysOfWeek": [
+                                "MONDAY",
+                                "TUESDAY",
+                                "WEDNESDAY",
+                                "THURSDAY",
+                                "FRIDAY",
+                                "SATURDAY",
+                                "SUNDAY"
+                            ],
+                            "timedEntries": [
+                                {
+                                    "startTime": "14:30",
+                                    "unavailableDates": [
+                                        {
+                                            "date": "2023-07-16",
+                                            "reason": "SOLD_OUT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "startTime": "14:00",
+                                    "unavailableDates": [
+                                        {
+                                            "date": "2023-07-16",
+                                            "reason": "SOLD_OUT"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "pricingDetails": [
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "ageBand": "INFANT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 0.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 1,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 39.0
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "currency": "EUR",
+    "summary": {
+        "fromPrice": 39.0
+    }
+}

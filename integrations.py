@@ -9,6 +9,18 @@ API_KEY = st.secrets["API_KEY_VIATOR"]
 openai.api_key = st.secrets["API_KEY_OPENAI"]
 url = 'https://api.sandbox.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
+def remove_json_object(json_data, product_code):
+    return [item for item in json_data if item['productCode'] != product_code]
+
+def date_to_day_of_week(date_str):
+    date_format = "%Y-%m-%d"  # Format of the input date string
+    date_obj = datetime.strptime(date_str, date_format)
+    day_of_week = date_obj.strftime("%A")  # %A gives the full weekday name
+    return day_of_week
+
+# Function to convert time string to datetime object
+def parse_time(time_str):
+    return datetime.strptime(time_str, "%H:%M")
 
 def itinerary_creation(destination:str, start_date, end_date, user_tags:list, event_number:int):
     activities_data = []
@@ -85,10 +97,8 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
             matched[custom['productCode']] = custom
         elif matched[custom['productCode']] != custom:
             matched[custom['productCode']] = custom
-    
+
     extracted_values = extractor.extract_product_info(matched, start_date, end_date)
-    with open("extracted.json", "w") as file:
-        json.dump(extracted_values, file, indent=4)
     date_range = []
 
     start_date = datetime.strptime(start_date, "%Y-%m-%d") + timedelta(days=1)
@@ -99,35 +109,88 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     day_itinerary={}
 
     while current_date < end_date:
-        date_range.append(current_date)
+        date_range.append(datetime.strftime(current_date, "%Y-%m-%d"))
         current_date += timedelta(days=1)
-
-    content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each morning.
-                Ensure that each morning is different. Suggest where they could eat food and what they could do to start each morning.
-                 Do not tell them to visit any tourist attractions as that would be for the afternoon. RETURN AS PYTHON LIST"""
-    example = f"""['Thing to do', 'Thing to do'...]"""
-    morning = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
-    print(morning['choices'][0]['message']['content'])
     
-    #content = f"""For each day in the list: {date_range} pick an event from this data {extracted_values}.
-    #                Ensure that each event is different. RETURN PRODUCTCODES AS A LIST IN THIS FORMAT []"""
-    #example = """EXAMPLE: ['44598P8', '6353P18', '40925P1', '6353P14', '129335P2', '6353LOUVRE', '40925P3', '6353P22', '398994P1', '343759P2', '7842P4']"""
-    #afternoon = openai.ChatCompletion.create(
+    #for event in extracted_values:
+    #    content = f"""Given the event data: {event} rate it from 0.00 to 5.00 based on how good it is for a family. Only return the single number. DO NOT CONTAIN ANY WORDS IN YOUR RESPONSE"""
+    #    example = f"""4.9"""
+    #    rating = openai.ChatCompletion.create(
+    #        model="gpt-3.5-turbo",
+    #        messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
+    #    print(event)
+    #    print('RATING: ', rating['choices'][0]['message']['content'])
+    #    event['GPT-RATING'] = rating['choices'][0]['message']['content']
+
+    #extracted_values.sort(key=lambda x: x['GPT-RATING'])
+    with open("extracted.json", "w") as file:
+        json.dump(extracted_values, file, indent=4)
+    #content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each morning.
+    #            Ensure that each morning is different. Suggest where they could eat food and what they could do to start each morning.
+    #             Do not tell them to visit any tourist attractions as that would be for the afternoon. RETURN AS PYTHON LIST"""
+    #example = f"""['Thing to do', 'Thing to do'...]"""
+    #morning = openai.ChatCompletion.create(
     #    model="gpt-4",
     #    messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
-    #print(afternoon['choices'][0]['message']['content'])
+    #print(morning['choices'][0]['message']['content'])
+    """
+    final_events = []
+    for date in date_range:
+        sort_events = []
+        for event in extracted_values:
+            if date in event['availableOnDate']:
+                sort_events.append(event)
+        sort_events.sort(key=lambda x: x['GPT-RATING'], reverse=True)
+        if sort_events == []:
+            break
+        else:
+            extracted_values = remove_json_object(extracted_values, sort_events[0]['productCode'])
+            final_events.append(sort_events[0])
+    """
+    """
+    with open("final_events.json", "w") as file:
+        json.dump(final_events, file, indent=4)
+    """
+    with open('final_events.json', 'r') as file:
+        final_events = json.load(file)
+    i=0
+    
+    for date in date_range:
+        available_times = []
+        day_of_week = date_to_day_of_week(date)
+        print(day_of_week)
+        # Get the available times for the given day of the week
+        for days in final_events[i]['availableTimes']:
+            if day_of_week.upper() in days['daysOfWeek']:
+                print(days['startTime'])
+            else:
+                continue
+            i+=1
+        """
+        # Calculate the time difference between each available time and 12 PM (noon)
+        noon_time = datetime.strptime("12:00", "%H:%M")
+        time_diff = [abs(noon_time - time) for time in available_times_dt]
+        # Find the index of the time with the smallest time difference
+        closest_time_index = time_diff.index(min(time_diff))
+        # Get the closest time to 12 PM
+        closest_time = available_times[closest_time_index]
+        
+
+        print("Closest time to 12 PM on", day_of_week, "is:", closest_time)
+        """
+
 
     #content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each evening.
     #            Ensure that each evening is different. Suggest where they could eat food and what they could do to start each evening.
     #             Do not tell them to visit any tourist attractions as that would be for the afternoon. RETURN AS PYTHON LIST"""
     #
+    """
     evening = openai.ChatCompletion.create(
         model="gpt-4",
         messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
     print(evening['choices'][0]['message']['content'])
     print(extracted_values[0:len(date_range)])
     return morning['choices'][0]['message']['content'], evening['choices'][0]['message']['content']
+    """
 
-print(itinerary_creation('Paris', "2023-08-09", "2023-08-13", ["Excellent Quality"], 16))
+print(itinerary_creation('Paris', "2023-08-09", "2023-08-14", ["Excellent Quality"], 8))
