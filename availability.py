@@ -65,9 +65,8 @@ def extract_available_times(product_code: str, target_date: str):
     print(available_times)
     return available_times
 
-data = open("availability.json","r").read()
-date = "2023-07-31"
-available_times = extract_available_times('6353P14', date)
+date = "2023-08-31"
+available_times = extract_available_times('44598P8', date)
 
 from typing import Dict, List, Union, Optional, Tuple
 
