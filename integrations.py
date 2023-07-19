@@ -182,3 +182,22 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     """
 
 print(itinerary_creation('Paris', "2023-08-09", "2023-08-14", ["Excellent Quality"], 20))
+
+def create_calendar(start_date, end_date):
+    date_range = []
+
+    start_date = datetime.strptime(start_date, "%Y-%m-%d") + timedelta(days=1)
+    end_date = datetime.strptime(end_date, "%Y-%m-%d")
+
+    current_date = start_date
+
+    while current_date < end_date:
+        date_range.append(datetime.strftime(current_date, "%Y-%m-%d"))
+        current_date += timedelta(days=1)
+    calendar = [[None for _ in range((len(date_range)))]]
+    return calendar
+
+
+def plan_events(data, calendar):
+    data = sorted(data, key=lambda x: (-x['GPT_RANK'], min(min(x['available date time'].values()))))  # Sort events based on highest rank and earliest availability
+    

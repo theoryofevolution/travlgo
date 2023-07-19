@@ -73,71 +73,11 @@ def extract_available_times(product_code: str, target_date: str):
 
 from typing import Dict, List, Union, Optional, Tuple
 
-def create_sample_data():
-    events = [
-        {
-            'productCode': 'P01',
-            'name': 'Event 1',
-            'description': 'This is event 1',
-            'GPT_RANK': 2,
-            'available date time': {'2023-08-13': ['10:00', '13:00'], '2023-08-14': ['13:00', '16:00']},
-            'event duration': 2  # Event duration in hours
-        },
-        {
-            'productCode': 'P02',
-            'name': 'Event 2',
-            'description': 'This is event 2',
-            'GPT_RANK': 3,
-            'available date time': {'2023-08-15': ['14:00', '17:00'], '2023-08-16': ['10:00', '13:00']},
-            'event duration': 2  # Event duration in hours
-        },
-        {
-            'productCode': 'P03',
-            'name': 'Event 3',
-            'description': 'This is event 3',
-            'GPT_RANK': 1,
-            'available date time': {'2023-08-17': ['12:00', '15:00'], '2023-08-18': ['15:00', '18:00']},
-            'event duration': 2  # Event duration in hours
-        },
-        {
-            'productCode': 'P04',
-            'name': 'Event 4',
-            'description': 'This is event 4',
-            'GPT_RANK': 4,
-            'available date time': {'2023-08-19': ['16:00', '19:00'], '2023-08-20': ['11:00', '14:00']},
-            'event duration': 2  # Event duration in hours
-        }
-    ]
-
-    # Create an empty calendar
-    calendar = [[None for _ in range(8)] for _ in range(14)]  # 14 hours from 8AM to 9PM, for 8 days
-
-    return events, calendar
+def create_calendar(start_date, end_date):
+    get_dates_in_between(start_date, end_date)
+    calendar = [[None for _ in range((len(get_dates_in_between)))]]
+    return calendar
 
 
 def plan_events(events: List[Dict[str, Union[str, int, Dict[str, List[str]]]]], calendar: List[List[Optional[str]]]) -> None:
     events = sorted(events, key=lambda x: (-x['GPT_RANK'], min(min(x['available date time'].values()))))  # Sort events based on highest rank and earliest availability
-
-    for date_idx, date in enumerate(calendar[0]):
-        for event_index, event in enumerate(events):
-            if date in event['available date time']:
-                for start_time in event['available date time'][date]:
-                    start_hour, start_minute = map(int, start_time.split(':'))
-                    end_hour = start_hour + event['event duration']
-
-                    # Check if the time slot is available
-                    if all(x is None for x in calendar[8 + start_hour - 2: 9 + end_hour + 2]):
-                        # Block off event time and travel time
-                        for i in range(start_hour - 2, end_hour + 2):
-                            calendar[i][date_idx] = event['name'] if start_hour <= i < end_hour else 'Travel'
-
-                        print(f"Date: {date}")
-                        print(f"Event Start Time: {start_time}")
-                        print(f"Event End Time: {end_hour}:{start_minute}")
-                        print(f"Travel Time: 2 hours before and after the event")
-                        print(f"Event Name and Code: {event['name']} ({event['productCode']})")
-                        print('\n')
-
-                        del events[event_index]  # Remove the event from the list
-
-                        break  # Break the inner loop once an event is scheduled for a date
