@@ -47,7 +47,7 @@ def extract_available_times(product_code: str, target_date: str):
     target_day_of_week = target_date_obj.strftime("%A").upper()
     available_times = []
     unavailable_days = []
-
+    potential_times = []
     # Go through all bookable items
     for bookable_item in data['bookableItems']:
         for season in bookable_item['seasons']:
@@ -56,17 +56,20 @@ def extract_available_times(product_code: str, target_date: str):
             if start_date <= target_date_obj <= end_date:
                 for records in season['pricingRecords']:
                     if target_day_of_week in records['daysOfWeek']:
-                        for unavailable_dates in records['timedEntries']:
-                            for dates in unavailable_dates['unavailableDates']:
-                                unavailable_days.append(dates['date'])
-                            if target_date not in unavailable_days:
-                                available_times.append({target_date:[unavailable_dates['startTime']]})
-                                available_times = unique(available_times)
-    print(available_times)
-    return available_times
-
-date = "2023-08-31"
-available_times = extract_available_times('44598P8', date)
+                        if 'timedEntries' in records:
+                            for unavailable_dates in records['timedEntries']:
+                                for dates in unavailable_dates['unavailableDates']:
+                                    unavailable_days.append(dates['date'])
+                                if target_date not in unavailable_days:
+                                    potential_times.append(unavailable_dates['startTime'])
+                                    potential_times = list(set(potential_times))
+                        else:
+                            return None
+    available_times.append({target_date:potential_times})
+    if available_times[0][target_date] == []:
+        return None
+    else:
+        return available_times
 
 from typing import Dict, List, Union, Optional, Tuple
 
@@ -111,7 +114,6 @@ def create_sample_data():
 
     return events, calendar
 
-events, calendar = create_sample_data()
 
 def plan_events(events: List[Dict[str, Union[str, int, Dict[str, List[str]]]]], calendar: List[List[Optional[str]]]) -> None:
     events = sorted(events, key=lambda x: (-x['GPT_RANK'], min(min(x['available date time'].values()))))  # Sort events based on highest rank and earliest availability

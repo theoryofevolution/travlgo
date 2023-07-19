@@ -112,17 +112,17 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
         date_range.append(datetime.strftime(current_date, "%Y-%m-%d"))
         current_date += timedelta(days=1)
     
-    #for event in extracted_values:
-    #    content = f"""Given the event data: {event} rate it from 0.00 to 5.00 based on how good it is for a family. Only return the single number. DO NOT CONTAIN ANY WORDS IN YOUR RESPONSE"""
-    #    example = f"""4.9"""
-    #    rating = openai.ChatCompletion.create(
-    #        model="gpt-3.5-turbo",
-    #        messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
-    #    print(event)
-    #    print('RATING: ', rating['choices'][0]['message']['content'])
-    #    event['GPT-RATING'] = rating['choices'][0]['message']['content']
+    for event in extracted_values:
+        content = f"""Given the event data: {event} rate it from 0.00 to 5.00 based on how good it is for a family. Only return the single number. DO NOT CONTAIN ANY WORDS IN YOUR RESPONSE"""
+        example = f"""4.9"""
+        rating = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
+        print(event)
+        print('RATING: ', rating['choices'][0]['message']['content'])
+        event['GPT-RATING'] = rating['choices'][0]['message']['content']
 
-    #extracted_values.sort(key=lambda x: x['GPT-RATING'])
+    extracted_values.sort(key=lambda x: x['GPT-RATING'])
     with open("extracted.json", "w") as file:
         json.dump(extracted_values, file, indent=4)
     #content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each morning.
@@ -154,19 +154,7 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     with open('final_events.json', 'r') as file:
         final_events = json.load(file)
     i=0
-    
-    for date in date_range:
-        available_times = []
-        day_of_week = date_to_day_of_week(date)
-        print(day_of_week)
-        # Get the available times for the given day of the week
-        for days in final_events[i]['availableTimes']:
-            if day_of_week.upper() in days['daysOfWeek']:
-                print(days['startTime'])
-            else:
-                continue
-            i+=1
-        """
+    """
         # Calculate the time difference between each available time and 12 PM (noon)
         noon_time = datetime.strptime("12:00", "%H:%M")
         time_diff = [abs(noon_time - time) for time in available_times_dt]
@@ -193,4 +181,4 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     return morning['choices'][0]['message']['content'], evening['choices'][0]['message']['content']
     """
 
-print(itinerary_creation('Paris', "2023-08-09", "2023-08-14", ["Excellent Quality"], 8))
+print(itinerary_creation('Paris', "2023-08-09", "2023-08-14", ["Excellent Quality"], 20))
