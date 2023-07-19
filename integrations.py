@@ -113,16 +113,15 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
         current_date += timedelta(days=1)
     
     for event in extracted_values:
-        content = f"""Given the event data: {event} rate it from 0.00 to 5.00 based on how good it is for a family. Only return the single number. DO NOT CONTAIN ANY WORDS IN YOUR RESPONSE"""
-        example = f"""4.9"""
+        content = f"""Given the event data: {event} rate it from 0.00 to 5.00 based on how good it is for a family. Only return the single number as a float. Do not apologize, or contain any words in your reponse."""
+        example = "4.9"
         rating = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
         print(event)
         print('RATING: ', rating['choices'][0]['message']['content'])
-        event['GPT-RATING'] = rating['choices'][0]['message']['content']
+        event['GPT_RATING'] = rating['choices'][0]['message']['content']
 
-    extracted_values.sort(key=lambda x: x['GPT-RATING'])
     with open("extracted.json", "w") as file:
         json.dump(extracted_values, file, indent=4)
     #content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each morning.
@@ -153,20 +152,6 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     """
     with open('final_events.json', 'r') as file:
         final_events = json.load(file)
-    i=0
-    """
-        # Calculate the time difference between each available time and 12 PM (noon)
-        noon_time = datetime.strptime("12:00", "%H:%M")
-        time_diff = [abs(noon_time - time) for time in available_times_dt]
-        # Find the index of the time with the smallest time difference
-        closest_time_index = time_diff.index(min(time_diff))
-        # Get the closest time to 12 PM
-        closest_time = available_times[closest_time_index]
-        
-
-        print("Closest time to 12 PM on", day_of_week, "is:", closest_time)
-        """
-
 
     #content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each evening.
     #            Ensure that each evening is different. Suggest where they could eat food and what they could do to start each evening.
@@ -181,7 +166,7 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     return morning['choices'][0]['message']['content'], evening['choices'][0]['message']['content']
     """
 
-print(itinerary_creation('Paris', "2023-08-09", "2023-08-14", ["Excellent Quality"], 20))
+#print(itinerary_creation('Paris', "2023-08-09", "2023-08-14", ["Excellent Quality"], 20))
 
 def create_calendar(start_date, end_date):
     date_range = []
@@ -194,10 +179,26 @@ def create_calendar(start_date, end_date):
     while current_date < end_date:
         date_range.append(datetime.strftime(current_date, "%Y-%m-%d"))
         current_date += timedelta(days=1)
-    calendar = [[None for _ in range((len(date_range)))]]
+
+    calendar = [[] for _ in range((len(date_range)))]
     return calendar
 
 
-def plan_events(data, calendar):
-    data = sorted(data, key=lambda x: (-x['GPT_RANK'], min(min(x['available date time'].values()))))  # Sort events based on highest rank and earliest availability
-    
+def plan_events(data):
+    for index, rating in enumerate(data):
+        if rating['GPT_RATING'] == '':
+            print(index)
+            del data[index]
+        else:
+            rating['GPT_RATING'] = float(rating['GPT_RATING'])
+    with open("extracted.json", "w") as file:
+        json.dump(data, file, indent=4)
+    data = sorted(data, key=lambda x: x["GPT_RATING"], reverse=True)  # Sort events based on highest rank and earliest availability
+    return data
+
+print(create_calendar("2023-08-09", "2023-08-14"))
+
+with open('extracted.json', 'r') as file:
+        available_events = json.load(file)
+
+plan_events(available_events)
