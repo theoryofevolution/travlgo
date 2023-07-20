@@ -14,6 +14,13 @@ with open('english_tags.json') as file:
         tags_data = json.load(file)
 
 
+st.set_page_config(
+    page_title="travlgo",
+    page_icon="travlgo.png",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
 st.sidebar.image("travlgo.png", use_column_width=True)
 
 st.title('Welcome to travlgo!')
