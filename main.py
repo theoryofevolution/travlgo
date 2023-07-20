@@ -6,11 +6,8 @@ import openai
 import datetime
 import tag_lib
 import base64
-import webbrowser
 import integrations
 
-def redirect(link):
-    webbrowser.open(link)
 
 with open('english_tags.json') as file:
         tags_data = json.load(file)
@@ -72,7 +69,15 @@ with st.form("my_form"):
                         st.write(activity['description'])
                         st.write("Starts at ", activity['startTime'])
                         st.write("Ends at: ", activity['endTime'])
-                        st.button("Book this activity!", on_click=activity['productUrl'])
+                        st.write(f'''
+                            <a target="_self" href="{activity["productUrl"]}">
+                                <button>
+                                    Please login via Google
+                                </button>
+                            </a>
+                            ''',
+                            unsafe_allow_html=True
+                        )
             st.balloons()
 
             
