@@ -138,6 +138,8 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     }
     response = requests.post(url, headers=header, json=payload)
     activities = response.json()
+    with open("activities.json", "w") as file:
+        json.dump(activities, file, indent=4)
     activities_data.append(activities['products'])
 
     custom_payload = {
