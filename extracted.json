@@ -1,396 +1,72 @@
 [
     {
-        "productCode": "89977P1",
-        "title": "Sangenjaya Back Alleys Private Food and Drink Tour",
-        "description": "\u2022Private, fully inclusive and customizable experience.\n\u2022Explore the narrow lantern lit back alleys of funky Sangenjaya, a central neighbourhood not often visited by tourists. \n\u2022 Try traditional foods such as kushikatsu, charcoal grilled meat, sashimi and much more.\n\u2022 Cook your own okonomiyaki or monjayaki in a local institution.\n\u2022 Visit three off the beaten track izakayas specially selected by your guide. \n\u2022 Meet the locals in a tiny but raucous kushikatsu standing bar.\n\u2022 Try unusual Japanese drinks such as Hoppy, shochu and sake.\n\u2022 Experience Tokyo's real nightlife away from the tourist crowds.\n\u2022 Eat and drink what you like.\n\u2022 Flexible start times.\n",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Tokyo-Food-Tour-Sangenjaya-Back-Allies-Izakaya-Experience/d334-89977P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/95/4e/ee.jpg",
-        "duration": 240,
-        "lengthType": "Half Day",
+        "productCode": "74127P3",
+        "title": "Hidden Stairways of San Francisco",
+        "description": "Please note: this walk is not at all strenuous. Obviously there's some stairs but this is done at a leisurely pace and suitable for almost everyone.\n\nThis breathtaking 2 mile walking tour of San Francisco's hidden stairways is the #1 rated Airbnb Experience in the Bay Area. See gorgeous mosaic tiled steps and hear the stories behind them, then take in stunning 360\u00b0 views of the Golden Gate Bridge, Golden Gate Park and downtown San Francisco. You'll also discover beautiful neighborhoods and gardens that tourists rarely see...you might even go home with a succulent!\nI'll provide commentary, context and some history along the way.\n\nGenerally SF is dry May-October. There can be fog in the summertime, mostly in the morning. Temps rarely above 70F (21C) or below 50F (10C). Rain may cancel.\n\nInstagram account to see more photos: @hiddenstairssf #hiddenstairssf\n\nMessage me if you have questions!",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/Hidden-Stairways-of-San-Francisco/d651-74127P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/ab/90/a8.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 221.17,
+        "price": 33.0,
         "availableOnDate": [
-            "Nothing Found",
             {
-                "2023-07-23": [
-                    "18:30"
+                "2023-07-22": [
+                    "13:00"
                 ]
-            }
-        ],
-        "GPT_RATING": 4.3
-    },
-    {
-        "productCode": "216288P1",
-        "title": "Tokyo Countryside Tours ",
-        "description": "This a private tour. . Experience the local foods with the sights of the countryside combined. So near to Tokyo but it is another world. The green moss has hidden the countryside from the city. The fauna are waiting to greet you. The wild deer, boar monkey and sometimes bear. The views are stunning. The people are very friendly. Come with me to the mountains. We will tour through rural Japan. A place with deep history going back thousands of years. All seasons show their magic in their full colors here. Escape from the tourist traps and go to where many Japanese go to get away from it all. A place frozen in time. A place magical in its beauty. A place where you can relax away from the hustle and bustle.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Tokyo-Countryside-Tours/d334-216288P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/a5/0a/08.jpg",
-        "duration": 540,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 295.09,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "85659P1",
-        "title": "Ramen Tasting - Mini Bowl Ramen Tour",
-        "description": "Join Tokyo's first ever Ramen Tasting Tour! \n\nThe variety of ramen you'll experience is only possible because all ramen are served in mini bowls, which are are 1/4th to the size of full ramen. \n\nYou'll taste 6\u00a0wildly different types of delicious ramen at 3 award-winning ramen shops. You even get to choose the 6 ramen from 11 types, via fun, customizable menus. Each ramen boasts\u00a0unique flavors - whether a light, salt-based chicken ramen, or a creamy pork bone ramen. \n\nFurthermore, you'll learn all about ramen during the 3 hours\u00a0- its history and future, how it's prepared, and how to eat it like a true local. \n\n* The tour starts in Shibuya and ends in Ebisu (or Shinjuku, depending on the day).\n* All ramen broths contain chicken, pork, and fish. For vegans or vegetarians, please book our Vegan / Vegetarian Ramen Tasting Tour.\n* The tour involves a good amount of walking (approximately 3 kilometers, or 1.86 miles) and isn't recommended for people with a low level of fitness. ",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Ramen-Tasting-Mini-Bowl-Ramen-Tour/d334-85659P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/2c/39/a3.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 125.41,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "22178P34",
-        "title": "Half-day Kawaii Tour in Harajuku",
-        "description": "Enjoy a half-day Muslim-Friendly tour in \u201cHarajuku\u201d, a spot popular not only in Japan, but also to young people from all over the world. A tour guide who is very familiar with the Harajuku area will be showing you around the best \u201ckawaii\u201d (cute) spots that most tourists don\u2019t know about. \n\nBaggage storage and free Wifi will be provided on this tour.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Half-day-Muslim-Friendly-Kawaii-Tour-in-Harajuku/d334-22178P34?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/ba/4b/42.jpg",
-        "duration": 240,
-        "lengthType": "Half Day",
-        "rating": 5.0,
-        "price": 103.28,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "182987P1",
-        "title": "Comprehensive SAMURAI course at a real dojo(Iai\u30fbGekken\u30fbTest cutting\uff09",
-        "description": "The experiences I provide are not a form of entertainment or performance. \nSome experiences do not offer a true Samurai experience because foreign visitors are not familiar with Japanese culture. I believe this should not be the case and teach authentic Japanese swordsmanship and spirit.\n\nFor those who wish to have a proper experience, or want to study authentic kenjutsu, please come join one of my lessons. \n\nThe Toyama school of swordsmanship was originally taught by the old Japanese army and was the last Kenjutsu to be used in actual combat.\nSo,Toyama school was developed by combining the specialties of various sword schools. \n\n\u3010attention\u3011\nIf you would like to use this experience for interviews or various social networking sites, please let us know in advance. If you are informed on the day of the event, it will cause inconvenience to other guests. We will reserve the room for a private party (an additional charter fee will be charged), so please be sure to let us know.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/%E6%9C%AC%E7%89%A9%E3%81%AE%E9%81%93%E5%A0%B4%E3%81%A6%E5%89%A3%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%B3%E3%82%B9-%E5%B1%85%E5%90%88-%E6%92%83%E5%89%A3-%E8%A9%A6%E3%81%97%E6%96%AC%E3%82%8A/d334-182987P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/2a/e6/b5.jpg",
-        "duration": 90,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 184.43,
-        "availableOnDate": [
-            "Nothing Found",
+            },
             {
                 "2023-07-23": [
-                    "10:00"
+                    "13:00"
                 ]
             }
         ]
     },
     {
-        "productCode": "39185P2",
-        "title": "Private Ginza Architecture Walking Tour",
-        "description": "This is a three hour architecture walking tour in Ginza by a nationally licensed tour guide. As this is a private walking tour adjustable to guest's interests and knowledge of architecture, it will be an enjoyable experience for you\u00a0even if you are not a professional in architecture. You will get to visit buildings with both traditional and\u00a0contemporary\u00a0architecture in the Ginza area including sites which are\u00a0difficult to go to on your own. At the end of the tour, you will be a Ginza professional with numbers of artistic photos on your camera!",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Private-Walking-Tour-of-Ginza-Architecture/d334-39185P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/71/48/bb.jpg",
-        "duration": 180,
+        "productCode": "322630P1",
+        "title": "Take a Walk with a Storyteller! The Surreal San Francisco Tour.",
+        "description": "- Explore the city with San Francisco's most hilarious, imaginative and EXCITING storyteller!\n\n- Enjoy original FOLKLORE and FAIRYTALES told by Clyde Always: a professional storyteller, published poet and decade-long resident of the City by the Bay. Hear about witches & wisemen, hobos & hipster-emperors. Bring your imagination!\n\n- Get to know these three famous neighborhoods: the Mission, the Castro and the Duboce Triangle. \n\n- Get insider knowledge of the best eateries, parks, shops and more. See beautiful street-art, landmarks and architecture. Experience the City like a local.\n\n- BEWARE! Some of the information presented will be highly UNBELIEVABLE. Have fun sorting the fact from the fiction.\n\n-A 2.2 mile (3.5 km) walk with no hills. One public restroom along the way.\n\n- Please note: this tour is NOT for the whole family. Script includes profanity and you might see a nudist or two.\n\n- Guaranteed to entertain, enliven and uplift. An experience you'll always remember. \n\n",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/The-Real-San-Francisco-Walking-Tour/d651-322630P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/65/e6/bc.jpg",
+        "duration": 120,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 118.04,
+        "price": 32.0,
         "availableOnDate": [
-            "Nothing Found",
+            {
+                "2023-07-22": [
+                    "10:00",
+                    "14:00"
+                ]
+            },
             "Nothing Found"
         ]
     },
     {
-        "productCode": "203632P3",
-        "title": "Private Customizable Walking Tour of Tokyo",
-        "description": "Private Customized Walking Tours combine Tokyo\u2019s must-see sights with hidden gems. Morning, afternoon and evening start times available. Choose your tour length; 4 to 8 hours. \n\nOur ethos is \u2018like-a-local\u2019. This is a culturally immersive walking tour, meaning that you will travel around Tokyo on foot and using the excellent public transport system\u2026.like a local! Throughout the tour you will learn about Japan\u2019s culture, customs, history and local way of life. Feeling hungry? We\u2019ll get you eating like a local too! Your tour is flexible and will be paced to your speed and requirements. Specialist topics of interests can all be covered; architecture, religion, politics, street art, general history, WW2 history, food, instagramable highlights, pop/movie/anime culture. \n\nIdeal for people with limited time, or those who want a comprehensive overview of Tokyo prior to exploring further on their own. Simply indicate your interests and enjoy an itinerary specific to you.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Private-Customizable-Walking-Tour-of-Tokyo/d334-203632P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/93/63/7d.jpg",
+        "productCode": "134682P2",
+        "title": "Classic Sidecar Tour of San Francisco",
+        "description": "We offer you a unique way of touring that few have experience, seeing the world with the distinctive twist of Sidecar. \n\nEveryone love sidecar, so be prepare to trade smiles and waves with complete strangers.\n\nWhen you take a tour in a tour bus you take pictures of people, but when you tour a classic sidecar motorcycle, people take pictures of you.",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/Rides-by-me/d651-134682P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/73/d3/24.jpg",
         "duration": 480,
         "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 202.18,
+        "price": 240.0,
         "availableOnDate": [
             "Nothing Found",
-            {
-                "2023-07-23": [
-                    "08:30",
-                    "16:00",
-                    "14:00",
-                    "10:00",
-                    "12:00",
-                    "11:30",
-                    "16:30",
-                    "10:30",
-                    "09:30",
-                    "12:30",
-                    "15:30",
-                    "15:00",
-                    "13:00",
-                    "17:00",
-                    "13:30",
-                    "09:00",
-                    "11:00",
-                    "14:30"
-                ]
-            }
+            "Nothing Found"
         ]
     },
     {
-        "productCode": "63670P16",
-        "title": "Harajuku Kawaii Fashion & Pop-culture Tour",
-        "description": "\u25cfGet insights into Harajuku pop-culture and fashion from your guide!\n\nFirstly, we'll head to a shopping street filled with Harajuku pop culture. Here, you can enjoy not only shopping, but also fancy sweets like crepes, pancakes, and cotton candy. Our guide takes you several fancy spots of Takeshita street based on your interests and preference.\n\n\u25cfVisit the cutting-edge photo spot after walking through the Takeshita street\n\nAfter strolling Takeshita street, we'll take you a new photogenic spot of Harajuku where we can take dramatic photos. You will get to experience one of the most advanced technological photogenic spot in Japan!\n\n\u25cfCook Okonomiyaki or Monja-yaki ourselves for lunch\n\nAt last, we even get deeper and explore around the Ura Harajuku area. \"Ura\" means backstreets in Japanese, so you'll get to know more varieties of Harajuku attractions.\nThere is a Okonomiyaki and monja-yaki restaurant where many Japanese local artists use it as their exhibition.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Harajuku-Kawaii-Fashion-and-Pop-culture-Tour/d334-63670P16?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/81/b5/64.jpg",
+        "productCode": "64535P2",
+        "title": "San Francisco Sunset Photography Tour",
+        "description": "Capture treasured memories and photographs from a San Francisco Photo Tour with Doc Miles. Sunrise and Sunset tours take photographers to locations that provide the best perspectives to capture amazing photographs of Bay Area icons and scenery. Locations along the tours take the photographer to places that are not on any tour bus, but provide extraordinary views of the city and its landmarks.",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Sunset-Photography-Tour/d651-64535P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/88/ce/f7.jpg",
         "duration": 180,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 77.46,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "22178P28",
-        "title": "Full Day Hiking Tour at Mt.Takao including Hot Spring",
-        "description": "Mt. Takao is the most popular climbing spot in the Kanto area, located about 50 kilometers west of the city center. It is a wonderful mountain, designated as Michelin three star spot along with Mt. Fuji in 2007, and it\u2019s a national park where you can leisurely enjoy mountain hiking even on a day trip. The mountain has been especially important to Japanese since 744, when Emperor Shomu commanded the creation of Yakushiji, a famous temple, and thereby encouraged followers to come to the mountain. Known as one of Tokyo's best outlooks, the view from the observation deck is of a big panorama overlooking the Kanto Plain, with skyscrapers in the distance. Leave the hustle and bustle of the city for a rejuvinating day where you'll connect with nature in a spiritual setting.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Full-Day-Hike-Tour-at-Mr-Takao-including-Hot-Spring-in-Tokyo/d334-22178P28?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/9d/5c/51.jpg",
-        "duration": 330,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 125.41,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "09:00"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "09:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "42573P4",
-        "title": "Tokyo The Izakaya tour ",
-        "description": "Enjoy various food and drinks in 3 selected Izakayas plus dessert in Ebisu, foodie area for local people. Please come with empty stomach! \n\nTour schedule: \u00a05:00pm - around 8:00pm \n\n\u203bPlease contact us if the tour isn't available on your preferred date\n\nMeeting place: \u00a0In front of Shake Shack Ebisu \n",
-        "productUrl": "https://www.viator.com/tours/Tokyo/The-Izakaya-tour/d334-42573P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/dd/4a/48.jpg",
-        "duration": 190,
-        "lengthType": "Half Day",
-        "rating": 5.0,
-        "price": 160.0,
-        "availableOnDate": [
-            "Nothing Found",
-            {
-                "2023-07-23": [
-                    "17:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "407792P2",
-        "title": "DAIKOKU PA Tokyo Drift CAR MEET",
-        "description": "With Gaijin Tuned, you will be fully immersed in Japanese car culture. In addition to visiting various car meeting points, not just visiting Daikoku Parking futo. Let's visit the biggest automotive shop in Japan, we can interact with Japanese drivers and have the experience of getting into the car you've always dreamed of. We will also visit the most beautiful spots in Tokyo such as: Tokyo tower, Tokyo Skytree, Raibow Bridge, Shinjuku, akihabara and Shibuya. So this tour is not just for car enthusiasts but also for your friend who is not really into cars but wants to know more about Tokyo.I can pick up you and drop off you at hotel.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/DAIKOKU-JDM-CULTURE-CAR-MEET-Tokyo-Tour/d334-407792P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/7f/97/24.jpg",
-        "duration": 360,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 147.55,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "18:00",
-                    "10:00"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "18:00",
-                    "10:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "203632P2",
-        "title": "Private Tokyo Food Tour - A Journey Through Time Through Food",
-        "description": "This 5.5 hours tour takes you on a journey through time, through food! Spanning three geographical districts of Tokyo and three periods of time this food tour covers the foundation of Japanese food and cooking (the Edo period), the most popular present-day foods in Japan and finishes in the future with some fusion twists on traditional flavours. Visit Nihonbashi, Ginza / Tokyo Station and Akihabara. Enjoy 14 Japanese food tastings. Come hungry! This is a private tour and only the people that you personally invite will be in attendance. Hotel pick-up is available - an extra hour is added to the tour to cover the travel time. ",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Private-Tokyo-Food-Tour-A-Journey-Through-Time-Through-Food/d334-203632P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/66/33/06.jpg",
-        "duration": 330,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 327.75,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "224692P3",
-        "title": "Tokyo private transfer for Narita Airport (NRT) - Toyota HIACE 9 seats ",
-        "description": "We are a professional transportation company, our drivers are all well trained, have good driving skills and service awareness.\n\nWe offer 7*24 customer service with English, Chinese and Japanese.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Tokyo-Narita-airport-transfer-Toyota-Hiace-Longer-and-higher-version-9-seats/d334-224692P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/00/25/25.jpg",
-        "duration": 90,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 280.34,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "151281P8",
-        "title": "\u6771\u4eac\u4e0b\u753a\u81ea\u8ee2\u8eca\u30c4\u30a2\u30fc\uff08\u30b7\u30e7\u30fc\u30c8\u30b3\u30fc\u30b9\uff09Guided cycle tour (short) in the central Tokyo",
-        "description": "You\u2019ve probably heard of Shibuya Crossing, but are you familiar with the backstreets of Tokyo?\n\nDuring this bike tour, you\u2019ll explore central Tokyo, coasting down hidden alleyways, and get insights into the local life in Tokyo.\n\nOn this Tokyo bike tour, you\u2019ll find yourself among the labyrinthine pathways of Tokyo with a local guide, and try traditional Japanese foods which cannot be found in the typical restaurants. These tiny mom-and-pop restaurants and street stalls serve up local ingredients with big flavors, to fuel your journey!\n\nFrom the end of March to the beginning of April, we usually cycle under Sakura, cherry blossom, trees. It must be unforgetable memory for you.\n\nThe Tour includes several stops, and it will introduce off-the-beaten-path shopping streets and street foods.\n\nDuring the Tour, you\u2019ll see a new side of Tokyo, riding around unique old-time shopping arcades and visiting. On our tours, we are passionate about showing you the lesser-known parts of central Tokyo.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Guided-cycle-tour-short-on-the-backstreets-of-the-central-Tokyo/d334-151281P8?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/7a/a8/1b.jpg",
-        "duration": 150,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 51.64,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "09:30"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "09:30"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "386727P2",
-        "title": "TOKYO & DAIKOKU PA (Car Enthusiasts Meeting Place) Open Car Tour.",
-        "description": "Ride a guided Lexus IS Convertible for a tour of Tokyo's car enthusiast spots. The experience of riding a convertible car in Tokyo is unimaginable. \n\nWe will drive through the iconic districts of Shibuya, Rainbow Bridge, Tatsumi PA, Wangan Highway, Daikoku PA, the famous parking lot has tuned cars.\n\nWhenever you wish, we will stop to enjoy the city, to photograph it, to understand it and to discover its unusual atmosphere.\n\nDiscovering Tokyo by convertible car is AMAZING ! And the streets of Tokyo are a unique and original way to immerse yourself in it! and also going to the Daikoku PA car meeting will be a lot of fun for car enthusiasts. \n\n* Routes, stop locations and duration are subject to change due to weather, traffic regulations, etc.\n\nOperation Hours:\nMonday, Wednesday, Thursday, Friday and Saturday: 5:00 PM - 9:00 PM\nSunday: 12:00 PM - 4:00 PM\n* Please check in at least 10 minutes prior to tour start time.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Explore-Tokyo-in-style-with-JDM/d334-386727P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/45/9e/c9.jpg",
-        "duration": 240,
-        "lengthType": "Half Day",
-        "rating": 5.0,
-        "price": 184.43,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "92136P76",
-        "title": "Tokyo Japanese Garden Lover's Private Tour with Government-Licensed Guide",
-        "description": "Traditional and historical Japanese gardens are best sites to see Japanese aesthetics. Both artistic landscape gardens with seasonal plants and dry landscape gardens at Zen temples help you get relaxed for meditation. Visiting various styled gardens and experiencing traditional Japanese spirits which are represented in plants, rocks, and total design. \n\nOur government-licensed and experienced multilingual guides will help you efficiently enjoy a one-day private tour of the best Japanese gardens in Tokyo.\n\nSelect gardens from a list in the tour information to create your customized itinerary. In addition to gardens, you may also choose any famous site in Tokyo for a truly memorable experience!\n\nNote*1: Please select your must-see spots from a list in the tour information to create your customized itinerary.\nNote*2: National Government Licensed Guide Interpreter certification is issued by the Japanese government requires a good knowledge and understanding of Japanese culture and history.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Tokyo-Best-Japanese-Gardens-Private-Custom-Tour-with-National-Licensed-Guide/d334-92136P76?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/d1/61/c5.jpg",
-        "duration": 360,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 154.92,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "09:30",
-                    "10:30",
-                    "10:00",
-                    "09:00",
-                    "11:00"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "09:30",
-                    "10:30",
-                    "10:00",
-                    "09:00",
-                    "11:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "31383P61",
-        "title": "Cocktail Connections: Online Happy Hour in Japan",
-        "description": "Join our local expert Lauren for a virtual cocktail session, live from Japan. With 20 years experience in the food and beverage and tourism industries, Lauren will share some fun DIY cocktails and help answer questions you may have about life in Tokyo. She will also share some of our Arigato Japan hidden gems, tips and tricks in the city, and show you how to make your own delicious Japanese-style cocktails and mocktails at home.\n\nWe are experts in culinary tourism! Our local guides are excited to connect will people and share personal stories and knowledge with you, with the comfort of your own homes. This experience is great for locals living in Japan, as well as Japan and Bar fans around the world. \n\nTIME ZONES FOR 21:00 JST (Japan Standard Time) - Sat\n\nNYC - 8:00 EDT\nSYDNEY - 22:00 AEST\nLONDON - 13:00 BST\nCHICAGO - 7:00 CDT\nLOS ANGELES - 5:00 PDT\n\nWe also have time slots for 10AM Wed / 12PM Fri\nPlease let us know if you need help for other time conversions.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Cocktail-Connections-Online-Happy-Hour-in-Japan/d334-31383P61?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/c6/99/7f.jpg",
-        "duration": 60,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 18.0,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "92136P78",
-        "title": "Tokyo Food & Culture Full-Day Private Tour with Government-Licensed Guide",
-        "description": "Enjoy an efficient, one-day tour inside Tokyo\u2019s two famous fish markets, Toyosu and Tsukiji, as well as other local areas, on this food and cultural shopping themed trip accompanied by a government-licensed and experienced multilingual guide!\n\nYour guide will meet you at your hotel to start the day, then take you to visit famous sites such as Toyosu and the outer Tsukiji fish market; Asakusa shopping street, filled with authentic Tokyo street food; and Ueno's Ameyoko and Kappabashi, Japan's kitchenware wonderland.\n\nLet us know what you would like to experience and we will customize a six-hour tour that's best for you!\n\nNote*1: Please select your must-see spots from a list in the tour information to create your customized itinerary.\nNote*2: The National Government Licensed Guide Interpreter certification is issued by the Japanese government requires a good knowledge and understanding of Japanese culture and history.",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Tokyo-Food-and-Culture-Full-day-Private-Shopping-Tour-with-National-Licensed-Guide/d334-92136P78?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/ca/07/8f.jpg",
-        "duration": 360,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 154.92,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "14:00",
-                    "10:00",
-                    "12:00",
-                    "11:30",
-                    "10:30",
-                    "14:30",
-                    "12:30",
-                    "15:00",
-                    "13:30",
-                    "09:00"
-                ]
-            },
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "43605P12",
-        "title": "Tokyo Hidden Izakaya and Sake Small-Group Pub Tour with Local Guide",
-        "description": "Explore Tokyo's fun side and experience hidden Izakaya bars with a local well-known guide during your 2.5-hour pub tour. Izakaya is the term for a Japanese-style pub where people go after work for casual drinking.\u00a0Catch the train (own expense) to some of Tokyo's nicest izakaya pubs and enjoy your evening like a local.\u00a0Your guide will translate the menus and help you to choose tasty food and drinks at each pub (own expense).\u00a0Your\u00a0small-group tour is limited to 12 people, ensuring a personalized experience. Come see and taste Tokyo through the eyes of a true local.",
-        "productUrl": "https://www.viator.com/tours/Kabukicho/Tokyo-Hidden-Izakaya-and-Sake-Pub-tour-with-Locals/d51049-43605P12?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/8f/b5/58.jpg",
-        "duration": 150,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 184.43,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "17:00"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "17:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "245921P1",
-        "title": "Tattoo-friendly open-air Onsen & drink",
-        "description": "This Onsen is a different from other plans, \"natural\" \"open-air\" bath. It is very rare in the center of Tokyo. \nNot huge like a resort Onsen but you can see the real life of Japanese people.\n\nYou can hide the front of your body with a towel except in the bathtub if you need. \nShampoo, conditioner, soap, hair dryer, cotton swab and Wi-Fi are installed and can be used free of charge.\n\nIn addition, drinks are included and you can enjoy the view of the sky tree. Japanese convenience stores are famous for their wide variety of canned cocktails in Japan. However, They are written in Japanese. I will explain the taste and ingredients. Please find your favorite one!\u3000And see the unusual view of Tokyo Sky Tree, which stands upside down!?\n(You may not be able to see it due to rain or wind)\n\n\u203bAlcohol is not allowed under 20\n\u203bNow accepting your desired date and time request",
-        "productUrl": "https://www.viator.com/tours/Tokyo/Tattoo-friendly-open-air-Onsen-and-drink/d334-245921P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/5c/cf/3f.jpg",
-        "duration": 105,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 33.2,
+        "price": 300.0,
         "availableOnDate": [
             "Nothing Found",
             "Nothing Found"

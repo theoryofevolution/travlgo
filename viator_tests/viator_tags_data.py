@@ -1,10 +1,10 @@
 import requests
 import json
-
-url = "https://api.sandbox.viator.com/partner/products/tags"
+import streamlit as st
+url = "https://api.viator.com/partner/products/tags"
 headers = {
     "Accept": "application/json;version=2.0",
-    "exp-api-key": api_key
+    "exp-api-key": st.secrets['API_KEY_VIATOR']
 }
 
 response = requests.get(url, headers=headers)

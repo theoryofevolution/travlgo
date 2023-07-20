@@ -1,19 +1,18 @@
 import streamlit as st
 import json
-import requests
-import extractor
-import openai
-import datetime
 import tag_lib
-import base64
 import integrations
 import availability
+import destinations
 import webbrowser
+from bokeh.models.widgets import Div
 
 
 with open('english_tags.json') as file:
         tags_data = json.load(file)
 
+with open('destinations.json') as file:
+        destination_data = json.load(file)
 
 st.set_page_config(
     page_title="travlgo",
@@ -35,7 +34,7 @@ col1, col2, col3 = st.columns(3)
 
 with st.form("my_form"):
     with col1:
-        initial_destination = st.text_input('**Destination**')
+        initial_destination = st.selectbox('**Destination**', options = destinations.destination_names)
         start_date = st.date_input('**Depart Date**')
         adults = st.number_input('**Number of Adults**', min_value=0)
     with col2:
@@ -70,19 +69,18 @@ with st.form("my_form"):
         with st.spinner('Wait for it...'):
             calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=len(dates)*2)
             st.success('Success!')
-            for index, days in enumerate(calendar):
-                st.header(dates[index])
-                for activity in days:
-                    if "No found event for the day" in activity:
-                        st.write("No event found for the day")
-                    else:
-                        st.subheader(activity['title'])
-                        st.image(activity['imageUrl'])
-                        st.write(activity['description'])
-                        st.write("Starts at ", activity['startTime'])
-                        st.write("Ends at: ", activity['endTime'])
-                        st.button("Book this activity!", on_click=webbrowser.open_new_tab(activity['productUrl']))
-                        st.write("\n\n")
-            st.balloons()
-
+    for index, days in enumerate(calendar):
+        st.header(dates[index])
+        for activity in days:
+            if "No found event for the day" in activity:
+                st.write("No events were found for the day 😢...to make it up, here's a donut 🍩")
+            else:
+                st.subheader(activity['title'])
+                st.image(activity['imageUrl'])
+                st.write(activity['description'])
+                st.write("Starts at ", activity['startTime'])
+                st.write("Ends at: ", activity['endTime'])
+                st.write("\n\n")
+    st.balloons()
+    st.button("Book this activity!", on_click=webbrowser.open_new_tab('google.com'))
             
