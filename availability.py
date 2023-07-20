@@ -32,7 +32,7 @@ def unique(data):
     return unique_data
 
 def extract_available_times(product_code: str, target_date: str):
-    url = f"https://api.sandbox.viator.com/partner/availability/schedules/{product_code}"
+    url = f"https://api.viator.com/partner/availability/schedules/{product_code}"
     headers = {
     "Accept": "application/json;version=2.0",
     "exp-api-key": api_key

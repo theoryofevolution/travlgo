@@ -11,7 +11,7 @@ import ast
 
 API_KEY = st.secrets["API_KEY_VIATOR"]
 openai.api_key = st.secrets["API_KEY_OPENAI"]
-url = 'https://api.sandbox.viator.com/partner/products/search'
+url = 'https://api.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
 
 def parse_list(string):
