@@ -1,31 +1,76 @@
 import streamlit as st
-import tag_lib
 import json
 import requests
 import extractor
 import openai
 import datetime
+import tag_lib
+import base64
+import webbrowser
 import integrations
 
+def redirect(link):
+    webbrowser.open(email_link)
+
+with open('english_tags.json') as file:
+        tags_data = json.load(file)
+
+
+st.sidebar.image("travlgo.png", use_column_width=True)
 
 st.title('Welcome to travlgo!')
+text_header = 'Please enter in the information below for an optimized experience.'
+st.markdown(f'<p style="color:#000000;font-size:20px;border-radius:2%;">{text_header}</p>', unsafe_allow_html=True)
+
 global submitted
+
+col1, col2, col3 = st.columns(3)
+
 with st.form("my_form"):
+    with col1:
+        initial_destination = st.text_input('**Destination**')
+        start_date = st.date_input('**Depart Date**')
+        adults = st.number_input('**Number of Adults**', min_value=0)
+    with col2:
+        optional_destination = st.text_input('**Additional Destination** (optional)', ' ')
+        end_date = st.date_input('**Return Date**')
+        children = st.number_input('**Number of Children**', min_value=0)
+        
 
-    destination = st.text_input('Final Destination:', 'Paris')
-    budget = st.number_input('Budget:', min_value=0, step=10)
-    start_date = st.date_input("Arrival Date:")
-    end_date = st.date_input("Departure Date:")
+    with col3:
+        budget = st.number_input('**Budget**', min_value=0, step=10)
+        time = st.selectbox(
+        '**Time of Arrival**',
+        ('Select below', 'Morning', 'Afternoon', 'Evening'))
+
+        
+    travel_pace = st.select_slider('**Your Travel Intensity**', options = ['Slow', 'Medium', 'Fast'])
+
+    Slider_Cursor = st.markdown(''' <style> div.stSlider > div[data-baseweb="slider"] > div > div > div[role="slider"]{
+        background-color: rgb(14, 38, 74); box-shadow: rgb(14 38 74 / 20%) 0px 0px 0px 0.2rem;} </style>''', unsafe_allow_html = True)
+
+        
+    Slider_Number = st.markdown(''' <style> div.stSlider > div[data-baseweb="slider"] > div > div > div > div
+                                    { color: rgb(14, 38, 74); } </style>''', unsafe_allow_html = True) 
+     
+    
     user_tags = st.multiselect(
-    'Customize your trip', options = tag_lib.snatch_tags)
-    travel_pace = st.select_slider(
-    'Select your travel intensity',
-    options=['Slow', 'Medium', 'Fast'])
+    '**Customize Your Trip**', options = tag_lib.snatch_tags)
     # Every form must have a submit button.
-    submitted = st.form_submit_button("Submit")
+    submitted = st.form_submit_button('Submit')
+    if submitted:
+        with st.spinner('Wait for it...'):
+            calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=20)
+            for days in calendar:
+                for activity in days:
+                    print("activity", activity)
+                    st.subheader(activity['dateSelected'])
+                    st.write(activity['title'])
+                    st.image(activity['imageUrl'])
+                    st.write(activity['description'])
+                    st.write("Starts at ", activity['startTime'])
+                    st.write("Ends at: ", activity['endTime'])
+                    st.button("Book this activity!", on_click=activity['productUrl'])
+            st.balloons()
 
-if submitted:
-    with st.spinner('Wait for it...'):
-        extracted_values = integrations.viator_post_request(destination=destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=10)
-        itinerary = integrations.itinerary_creation(extracted_values, start_date, end_date)
-        st.text(itinerary)
+            

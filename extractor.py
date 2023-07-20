@@ -18,8 +18,8 @@ def get_date_without_time(datetime_string):
 def extract_product_info(data, start_date, end_date):
     try:
         product_info = []
-        start_datetime = datetime.strptime(start_date, "%Y-%m-%d")
-        end_datetime = datetime.strptime(end_date, "%Y-%m-%d")
+        #start_datetime = datetime.strptime(start_date, "%Y-%m-%d")
+        #end_datetime = datetime.strptime(end_date, "%Y-%m-%d")
         for product in data.values():
             product_code = product['productCode']
             title = product['title']
@@ -45,26 +45,23 @@ def extract_product_info(data, start_date, end_date):
                 if image_url:
                     break
 
-            date_range = get_days_between_dates(start_datetime, end_datetime)
+            date_range = get_days_between_dates(start_date, end_date)
             available = []
             for days in date_range:
-                product_availability = availability.extract_available_times(product_code, str(days.date()))
-                if product_availability == None:
-                    continue
-                else:
-                    available.append(product_availability[0])
-                    product_info.append({
-                        'productCode': product_code,
-                        'title': title,
-                        'description': description,
-                        'productUrl': product_url,
-                        'imageUrl': image_url,
-                        'duration': duration,
-                        'lengthType': length_type,
-                        'rating': rating,
-                        'price': from_price,
-                        'availableOnDate': available,
-                    })
+                product_availability = availability.extract_available_times(product_code, str(days) )
+                available.append(product_availability[0])
+            product_info.append({
+                    'productCode': product_code,
+                    'title': title,
+                    'description': description,
+                    'productUrl': product_url,
+                    'imageUrl': image_url,
+                    'duration': duration,
+                    'lengthType': length_type,
+                    'rating': rating,
+                    'price': from_price,
+                    'availableOnDate': available,
+                })
     except:
         pass
     return product_info

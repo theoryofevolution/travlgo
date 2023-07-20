@@ -58,16 +58,18 @@ def extract_available_times(product_code: str, target_date: str):
                     if target_day_of_week in records['daysOfWeek']:
                         if 'timedEntries' in records:
                             for unavailable_dates in records['timedEntries']:
-                                for dates in unavailable_dates['unavailableDates']:
-                                    unavailable_days.append(dates['date'])
-                                if target_date not in unavailable_days:
-                                    potential_times.append(unavailable_dates['startTime'])
-                                    potential_times = list(set(potential_times))
+                                if 'unavailableDates' in unavailable_dates:
+                                    for dates in unavailable_dates['unavailableDates']:
+                                        unavailable_days.append(dates['date'])
+                                    if target_date not in unavailable_days:
+                                        potential_times.append(unavailable_dates['startTime'])
+                                        potential_times = list(set(potential_times))
+                                        print("running")
                         else:
-                            return None
+                            return ['Nothing Found']
     available_times.append({target_date:potential_times})
     if available_times[0][target_date] == []:
-        return None
+        return ['Nothing Found']
     else:
         return available_times
 

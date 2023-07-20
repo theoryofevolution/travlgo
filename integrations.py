@@ -5,10 +5,30 @@ import openai
 from datetime import datetime, timedelta
 import streamlit as st
 import availability
+import re
+import time
+import ast
+
 API_KEY = st.secrets["API_KEY_VIATOR"]
 openai.api_key = st.secrets["API_KEY_OPENAI"]
 url = 'https://api.sandbox.viator.com/partner/products/search'
 global destinationId, custom_activities, complete_activities_data, tag_ids
+
+def parse_list(string):
+  """Parses a string into a Python list.
+
+  Args:
+    string: The string to parse.
+
+  Returns:
+    A Python list.
+  """
+
+  list_items = []
+  for item in string.splitlines():
+    list_items.append(item)
+  return list_items
+
 def remove_json_object(json_data, product_code):
     return [item for item in json_data if item['productCode'] != product_code]
 
@@ -21,6 +41,60 @@ def date_to_day_of_week(date_str):
 # Function to convert time string to datetime object
 def parse_time(time_str):
     return datetime.strptime(time_str, "%H:%M")
+
+def create_calendar(date_range):
+    print("Date Range", date_range)
+    calendar = [[] for _ in range((len(date_range)))]
+    return calendar, date_range
+
+
+def plan_events(data, date_range, calendar):
+    data = sorted(data, key=lambda x: x["GPT_RATING"] if "GPT_RATING" in x else 0, reverse=True)  # Sort events based on highest rank and earliest availability
+    for index_1, date in enumerate(date_range):
+        print(type(date))
+        events_for_the_day = []
+        for event in data:
+            for availability in event["availableOnDate"]:
+                if str(date) in availability:
+                    time_objs = [datetime.strptime(time_str, "%H:%M") for time_str in availability[date]]
+                    startTime = min(time_objs)
+                    event['startTime'] = str(startTime.strftime("%H:%M"))
+                    event['dateSelected'] = date
+                    event['endTime'] = (startTime + timedelta(minutes=event['duration'])).strftime('%H:%M')
+                    events_for_the_day.append(event)
+        events_for_the_day = sorted(events_for_the_day, key=lambda x: x["GPT_RATING"] if "GPT_RATING" in x else 0, reverse=True)
+        if events_for_the_day == []:
+            calendar[index_1].append('No found event for the day')
+        else:
+            calendar[index_1].append(events_for_the_day[0])
+            print("events", events_for_the_day)
+            del data[data.index(events_for_the_day[0])]
+            del events_for_the_day[events_for_the_day.index(events_for_the_day[0])]
+            second_event_possibilities = []
+            for events in events_for_the_day:
+                for time in events['availableOnDate']:
+                    if date in time:
+                        for times in time[date]:
+                            time_1 = datetime.strptime(calendar[index_1][0]['endTime'], "%H:%M") + timedelta(minutes=60)
+                            time_2 = datetime.strptime(times, "%H:%M")
+                            if time_1 < time_2:
+                                events['startTime'] = times
+                                events['endTime'] = (time_2 + timedelta(minutes=events['duration'])).strftime('%H:%M')
+                                second_event_possibilities.append(events)
+                            else:
+                                continue
+            try:
+                second_event_possibilities = sorted(second_event_possibilities, key=lambda x: x["GPT_RATING"] if "GPT_RATING" in x else 0, reverse=True)
+                print("Second Event for the Day", second_event_possibilities)
+                calendar[index_1].append(second_event_possibilities[0])
+                del data[data.index(second_event_possibilities[0])]
+            except:
+                pass
+    with open("calendar.json", "w") as file:
+        json.dump(calendar, file, indent=4)
+    print("Calendar",calendar)
+    print("done")
+    return calendar
 
 def itinerary_creation(destination:str, start_date, end_date, user_tags:list, event_number:int):
     activities_data = []
@@ -59,7 +133,7 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
             "rating": {"from": 3, "to": 5}
         },
         "sorting": {"sort": "TRAVELER_RATING", "order": "DESCENDING"},
-        "pagination": {"start": 1, "count": int(event_number/2)},
+        "pagination": {"start": 1, "count": event_number},
         "currency": "USD"
     }
     response = requests.post(url, headers=header, json=payload)
@@ -80,13 +154,13 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
             "rating": {"from": 3, "to": 5}
         },
         "sorting": {"sort": "TRAVELER_RATING", "order": "DESCENDING"},
-        "pagination": {"start": 1, "count": int(event_number/2)},
+        "pagination": {"start": 1, "count": event_number},
         "currency": "USD"
     }
     response_custom = requests.post(url, headers=header, json=custom_payload)
     custom_activities = response_custom.json()
     custom_data.append(custom_activities['products'])
-
+    print("test")
     matched = {}
 
     for data in activities_data[0]:
@@ -99,106 +173,43 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
             matched[custom['productCode']] = custom
 
     extracted_values = extractor.extract_product_info(matched, start_date, end_date)
+    with open("extracted.json", "w") as file:
+        json.dump(extracted_values, file, indent=4)
+    print(extracted_values)
+    print("test extracted")
     date_range = []
 
-    start_date = datetime.strptime(start_date, "%Y-%m-%d") + timedelta(days=1)
-    end_date = datetime.strptime(end_date, "%Y-%m-%d")
+    #start_date = datetime.strptime(start_date, "%Y-%m-%d") + timedelta(days=1)
+    #end_date = datetime.strptime(end_date, "%Y-%m-%d")
 
-    current_date = start_date
+    current_date = start_date + timedelta(days=1)
 
     day_itinerary={}
 
     while current_date < end_date:
         date_range.append(datetime.strftime(current_date, "%Y-%m-%d"))
         current_date += timedelta(days=1)
-    
-    for event in extracted_values:
-        content = f"""Given the event data: {event} rate it from 0.00 to 5.00 based on how good it is for a family. Only return the single number as a float. Do not apologize, or contain any words in your reponse."""
-        example = "4.9"
-        rating = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
-            messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
-        print(event)
-        print('RATING: ', rating['choices'][0]['message']['content'])
-        event['GPT_RATING'] = rating['choices'][0]['message']['content']
-
+    print("test")
+    try:
+        for event in extracted_values:
+            content = f"""Given the event description: {event['description']} rate it from 0.00 to 5.00 based on how good it is for a family. Only return the single number as a float. Do not apologize, or contain any words in your reponse."""
+            example = "4.9"
+            rating = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
+            print(rating)
+            try:
+                event['GPT_RATING'] = float(re.findall(r'\d+(?:\.\d+)?', rating['choices'][0]['message']['content'])[0])
+            except:
+                pass
+            time.sleep(1)
+            print("test")
+    except:
+        pass
     with open("extracted.json", "w") as file:
         json.dump(extracted_values, file, indent=4)
-    #content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each morning.
-    #            Ensure that each morning is different. Suggest where they could eat food and what they could do to start each morning.
-    #             Do not tell them to visit any tourist attractions as that would be for the afternoon. RETURN AS PYTHON LIST"""
-    #example = f"""['Thing to do', 'Thing to do'...]"""
-    #morning = openai.ChatCompletion.create(
-    #    model="gpt-4",
-    #    messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
-    #print(morning['choices'][0]['message']['content'])
-    """
-    final_events = []
-    for date in date_range:
-        sort_events = []
-        for event in extracted_values:
-            if date in event['availableOnDate']:
-                sort_events.append(event)
-        sort_events.sort(key=lambda x: x['GPT-RATING'], reverse=True)
-        if sort_events == []:
-            break
-        else:
-            extracted_values = remove_json_object(extracted_values, sort_events[0]['productCode'])
-            final_events.append(sort_events[0])
-    """
-    """
-    with open("final_events.json", "w") as file:
-        json.dump(final_events, file, indent=4)
-    """
-    with open('final_events.json', 'r') as file:
-        final_events = json.load(file)
-
-    #content = f"""Across all the dates in the list {date_range} at {destination}, tell the user what to do each evening.
-    #            Ensure that each evening is different. Suggest where they could eat food and what they could do to start each evening.
-    #             Do not tell them to visit any tourist attractions as that would be for the afternoon. RETURN AS PYTHON LIST"""
-    #
-    """
-    evening = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages = [{"role": "system", "content": content}, {"role": "assistant", "content": example}])
-    print(evening['choices'][0]['message']['content'])
-    print(extracted_values[0:len(date_range)])
-    return morning['choices'][0]['message']['content'], evening['choices'][0]['message']['content']
-    """
-
-#print(itinerary_creation('Paris', "2023-08-09", "2023-08-14", ["Excellent Quality"], 20))
-
-def create_calendar(start_date, end_date):
-    date_range = []
-
-    start_date = datetime.strptime(start_date, "%Y-%m-%d") + timedelta(days=1)
-    end_date = datetime.strptime(end_date, "%Y-%m-%d")
-
-    current_date = start_date
-
-    while current_date < end_date:
-        date_range.append(datetime.strftime(current_date, "%Y-%m-%d"))
-        current_date += timedelta(days=1)
-
-    calendar = [[] for _ in range((len(date_range)))]
+    print("creating calendar")
+    calendar, date_range = create_calendar(date_range)
+    calendar = plan_events(extracted_values, date_range, calendar)
+    print(calendar)
     return calendar
-
-
-def plan_events(data):
-    for index, rating in enumerate(data):
-        if rating['GPT_RATING'] == '':
-            print(index)
-            del data[index]
-        else:
-            rating['GPT_RATING'] = float(rating['GPT_RATING'])
-    with open("extracted.json", "w") as file:
-        json.dump(data, file, indent=4)
-    data = sorted(data, key=lambda x: x["GPT_RATING"], reverse=True)  # Sort events based on highest rank and earliest availability
-    return data
-
-print(create_calendar("2023-08-09", "2023-08-14"))
-
-with open('extracted.json', 'r') as file:
-        available_events = json.load(file)
-
-plan_events(available_events)
