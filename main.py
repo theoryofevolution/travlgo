@@ -7,6 +7,7 @@ import datetime
 import tag_lib
 import base64
 import integrations
+import availability
 
 
 with open('english_tags.json') as file:
@@ -56,14 +57,15 @@ with st.form("my_form"):
     # Every form must have a submit button.
     submitted = st.form_submit_button('Submit')
     if submitted:
+        dates = availability.get_dates_in_between(start_date, end_date)
         with st.spinner('Wait for it...'):
             calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=20)
-            for days in calendar:
+            for index, days in enumerate(calendar):
+                st.subheader(dates[index])
                 for activity in days:
                     if "No found event for the day" in activity:
                         st.write("No event found for the day")
                     else:
-                        st.subheader(activity['dateSelected'])
                         st.write(activity['title'])
                         st.image(activity['imageUrl'])
                         st.write(activity['description'])
@@ -72,7 +74,7 @@ with st.form("my_form"):
                         st.write(f'''
                             <a target="_self" href="{activity["productUrl"]}">
                                 <button>
-                                    Please login via Google
+                                    Book this event!
                                 </button>
                             </a>
                             ''',
