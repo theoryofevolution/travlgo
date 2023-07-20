@@ -17,7 +17,7 @@ with open('english_tags.json') as file:
 st.set_page_config(
     page_title="travlgo",
     page_icon="travlgo.png",
-    layout="wide",
+    layout="centered",
     initial_sidebar_state="expanded",
 )
 
