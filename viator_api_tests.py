@@ -1,15 +1,15 @@
 import requests
 import json
-
-all_events_url = 'https://api.sandbox.viator.com/partner/products/search'
+import streamlit as st
+all_events_url = 'https://api.viator.com/partner/products/search'
 product_header = {
-    "exp-api-key": API_KEY,
+    "exp-api-key": st.secrets['API_KEY_VIATOR'],
     "Accept-Language": "en",
     "Accept": "application/json;version=2.0"
     }
 availability_header = {
     "Accept": "application/json;version=2.0",
-    "exp-api-key": API_KEY
+    "exp-api-key": st.secrets['API_KEY_VIATOR']
     }
 
 payload = {
@@ -43,5 +43,5 @@ print(product_codes)
 confirm_response = requests.get(url=f'https://api.sandbox.viator.com/partner/availability/schedules/6471MUSEUM', headers=availability_header)
 confirm_response = confirm_response.json()
 
-with open('availability.json', 'w') as f:
-    json.dump(confirm_response, f, indent=4)
+with open('product_response.json', 'w') as f:
+    json.dump(product_response, f, indent=4)
