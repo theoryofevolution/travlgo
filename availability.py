@@ -64,7 +64,6 @@ def extract_available_times(product_code: str, target_date: str):
                                     if target_date not in unavailable_days:
                                         potential_times.append(unavailable_dates['startTime'])
                                         potential_times = list(set(potential_times))
-                                        print("running")
                         else:
                             return ['Nothing Found']
     available_times.append({target_date:potential_times})

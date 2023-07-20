@@ -1,18 +1,16 @@
 import streamlit as st
 import json
-import requests
-import extractor
-import openai
-import datetime
 import tag_lib
-import base64
 import integrations
 import availability
+import destinations
 
 
 with open('english_tags.json') as file:
         tags_data = json.load(file)
 
+with open('destinations.json') as file:
+        destination_data = json.load(file)
 
 st.set_page_config(
     page_title="travlgo",
@@ -34,7 +32,7 @@ col1, col2, col3 = st.columns(3)
 
 with st.form("my_form"):
     with col1:
-        initial_destination = st.text_input('**Destination**')
+        initial_destination = st.selectbox('**Destination**', options = destinations.destination_names)
         start_date = st.date_input('**Depart Date**')
         adults = st.number_input('**Number of Adults**', min_value=0)
     with col2:
