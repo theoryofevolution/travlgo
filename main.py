@@ -25,9 +25,7 @@ st.sidebar.image("travlgo.png", use_column_width=True)
 
 st.title('Welcome to travlgo!')
 text_header = 'Please enter in the information below for an optimized experience.'
-st.subheader("""For families who love to travel, travlgo is the smart travel assistant that takes away 
-             the hassle and time in trip planning with personalized, 
-             fully curated plans you can book within seconds.""")
+st.subheader('For families who love to travel, travlgo is the smart travel assistant that takes away the hassle and time in trip planning with personalized, fully curated plans you can book within seconds.')
 st.markdown(f'<p style="color:#000000;font-size:20px;border-radius:2%;">{text_header}</p>', unsafe_allow_html=True)
 
 global submitted
