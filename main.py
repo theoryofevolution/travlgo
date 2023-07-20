@@ -8,6 +8,7 @@ import tag_lib
 import base64
 import integrations
 import availability
+import webbrowser
 
 
 with open('english_tags.json') as file:
@@ -67,7 +68,7 @@ with st.form("my_form"):
     if submitted:
         dates = availability.get_dates_in_between(start_date, end_date)
         with st.spinner('Wait for it...'):
-            calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=len(dates)*10)
+            calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=len(dates)*2)
             st.success('Success!')
             for index, days in enumerate(calendar):
                 st.header(dates[index])
@@ -80,15 +81,7 @@ with st.form("my_form"):
                         st.write(activity['description'])
                         st.write("Starts at ", activity['startTime'])
                         st.write("Ends at: ", activity['endTime'])
-                        st.write(f'''
-                            <a target="_self" href="{activity["productUrl"]}">
-                                <button>
-                                    Book this event!
-                                </button>
-                            </a>
-                            ''',
-                            unsafe_allow_html=True
-                        )
+                        st.button("Book this activity!", on_click=webbrowser.open_new_tab(activity['productUrl']))
                         st.write("\n\n")
             st.balloons()
 
