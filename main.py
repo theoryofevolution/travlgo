@@ -60,6 +60,7 @@ with st.form("my_form"):
         dates = availability.get_dates_in_between(start_date, end_date)
         with st.spinner('Wait for it...'):
             calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=20)
+            st.success('Success!', icon="✅")
             for index, days in enumerate(calendar):
                 st.header(dates[index])
                 for activity in days:
