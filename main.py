@@ -10,7 +10,7 @@ import webbrowser
 import integrations
 
 def redirect(link):
-    webbrowser.open(email_link)
+    webbrowser.open(link)
 
 with open('english_tags.json') as file:
         tags_data = json.load(file)
@@ -63,7 +63,7 @@ with st.form("my_form"):
             calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=20)
             for days in calendar:
                 for activity in days:
-                    print("activity", activity)
+                    print(activity)
                     st.subheader(activity['dateSelected'])
                     st.write(activity['title'])
                     st.image(activity['imageUrl'])
