@@ -90,8 +90,6 @@ def plan_events(data, date_range, calendar):
                 del data[data.index(second_event_possibilities[0])]
             except:
                 pass
-    with open("calendar.json", "w") as file:
-        json.dump(calendar, file, indent=4)
     print("Calendar",calendar)
     print("done")
     return calendar
@@ -102,14 +100,15 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     with open('destinations.json') as file:
         destination_data = json.load(file)
     for data in destination_data['data']:
-        if data['destinationName'] == destination:
-            destination_id = data['destinationId']
+        if data['destinationType'] == 'CITY':
+            if data['showUser'] == destination:
+                destination_id = data['destinationId']
     with open('english_tags.json') as file:
         tags_data = json.load(file)
 
 
     tag_ids = []
-    for data in tags_data['tags']:
+    for data in tags_data:
         for tags in user_tags:
             if data['tagNameEn'] == tags:
                 tag_ids.append(data['tagId'])
@@ -138,8 +137,6 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     }
     response = requests.post(url, headers=header, json=payload)
     activities = response.json()
-    with open("activities.json", "w") as file:
-        json.dump(activities, file, indent=4)
     activities_data.append(activities['products'])
 
     custom_payload = {
@@ -162,7 +159,6 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     response_custom = requests.post(url, headers=header, json=custom_payload)
     custom_activities = response_custom.json()
     custom_data.append(custom_activities['products'])
-    print("test")
     matched = {}
 
     for data in activities_data[0]:
@@ -175,10 +171,9 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
             matched[custom['productCode']] = custom
 
     extracted_values = extractor.extract_product_info(matched, start_date, end_date)
-    with open("extracted.json", "w") as file:
-        json.dump(extracted_values, file, indent=4)
-    print(extracted_values)
-    print("test extracted")
+    with open('extracted.json', 'w') as f:
+        json.dump(extracted_values, f, indent=4)
+    print("DOWNLOADING TO JSON")
     date_range = []
 
     #start_date = datetime.strptime(start_date, "%Y-%m-%d") + timedelta(days=1)
@@ -187,7 +182,6 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     current_date = start_date + timedelta(days=1)
 
     day_itinerary={}
-
     while current_date < end_date:
         date_range.append(datetime.strftime(current_date, "%Y-%m-%d"))
         current_date += timedelta(days=1)
@@ -208,8 +202,6 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
             print("test")
     except:
         pass
-    with open("extracted.json", "w") as file:
-        json.dump(extracted_values, file, indent=4)
     print("creating calendar")
     calendar, date_range = create_calendar(date_range)
     calendar = plan_events(extracted_values, date_range, calendar)

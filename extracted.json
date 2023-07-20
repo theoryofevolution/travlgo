@@ -1,313 +1,158 @@
 [
     {
-        "productCode": "74127P3",
-        "title": "Hidden Stairways of San Francisco",
-        "description": "Please note: this walk is not at all strenuous. Obviously there's some stairs but this is done at a leisurely pace and suitable for almost everyone.\n\nThis breathtaking 2 mile walking tour of San Francisco's hidden stairways is the #1 rated Airbnb Experience in the Bay Area. See gorgeous mosaic tiled steps and hear the stories behind them, then take in stunning 360\u00b0 views of the Golden Gate Bridge, Golden Gate Park and downtown San Francisco. You'll also discover beautiful neighborhoods and gardens that tourists rarely see...you might even go home with a succulent!\nI'll provide commentary, context and some history along the way.\n\nGenerally SF is dry May-October. There can be fog in the summertime, mostly in the morning. Temps rarely above 70F (21C) or below 50F (10C). Rain may cancel.\n\nInstagram account to see more photos: @hiddenstairssf #hiddenstairssf\n\nMessage me if you have questions!",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Hidden-Stairways-of-San-Francisco/d651-74127P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/ab/90/a8.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 33.0,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "13:00",
-                    "10:30"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "322630P1",
-        "title": "Take a Walk with a Storyteller! The Surreal San Francisco Tour.",
-        "description": "- Explore the city with San Francisco's most hilarious, imaginative and EXCITING storyteller!\n\n- Enjoy original FOLKLORE and FAIRYTALES told by Clyde Always: a professional storyteller, published poet and decade-long resident of the City by the Bay. Hear about witches & wisemen, hobos & hipster-emperors. Bring your imagination!\n\n- Get to know these three famous neighborhoods: the Mission, the Castro and the Duboce Triangle. \n\n- Get insider knowledge of the best eateries, parks, shops and more. See beautiful street-art, landmarks and architecture. Experience the City like a local.\n\n- BEWARE! Some of the information presented will be highly UNBELIEVABLE. Have fun sorting the fact from the fiction.\n\n-A 2.2 mile (3.5 km) walk with no hills. One public restroom along the way.\n\n- Please note: this tour is NOT for the whole family. Script includes profanity and you might see a nudist or two.\n\n- Guaranteed to entertain, enliven and uplift. An experience you'll always remember. \n\n",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/The-Real-San-Francisco-Walking-Tour/d651-322630P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/65/e6/bc.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 32.0,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "14:00",
-                    "10:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "134682P2",
-        "title": "Classic Sidecar Tour of San Francisco",
-        "description": "We offer you a unique way of touring that few have experience, seeing the world with the distinctive twist of Sidecar. \n\nEveryone love sidecar, so be prepare to trade smiles and waves with complete strangers.\n\nWhen you take a tour in a tour bus you take pictures of people, but when you tour a classic sidecar motorcycle, people take pictures of you.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Rides-by-me/d651-134682P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/73/d3/24.jpg",
+        "productCode": "43028P8",
+        "title": "Trou-aux-Cerfs - Chamarel - Grand Bassin -Private Guided Tour (Min. 2 persons)",
+        "description": "Discover the lush inland parts of Mauritius and take in some majestic scenery. Check out the view from the top of a dormant volcano before breathing in the natural and spiritual beauty of a sacred lake. Next, you will admire the wild rolling landscape of the Black River Gorges National Park. Then head further south-west to capture the various wonders of Chamarel. An introduction to the secrets of rum-making will make this tour complete.\nHighlights of the day :\n\u2022 View point of Trou aux Cerfs, a dormant volcano \u2022 Connect with spirituality and natural beauty of Grand Bassin \u2022 Discover the wonders of the hinterland and wildlife of Mauritius with the Black River Gorges \u2022 Visit of Rhum making Distillery \u2022 Visit of Chamarel Coloured Earth & Waterfall",
+        "productUrl": "https://www.viator.com/tours/Grand-Baie/Trou-aux-Cerfs-Black-River-Gorges-Rhumerie-de-Chamarel-Private-from-Curepipe/d23971-43028P8?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6c/42/18.jpg",
         "duration": 480,
         "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 240.0,
-        "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "64535P2",
-        "title": "San Francisco Sunset Photography Tour",
-        "description": "Capture treasured memories and photographs from a San Francisco Photo Tour with Doc Miles. Sunrise and Sunset tours take photographers to locations that provide the best perspectives to capture amazing photographs of Bay Area icons and scenery. Locations along the tours take the photographer to places that are not on any tour bus, but provide extraordinary views of the city and its landmarks.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Sunset-Photography-Tour/d651-64535P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/88/ce/f7.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 300.0,
-        "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "348030P2",
-        "title": "The Nearly-Private Golden Gate Bridge Tour",
-        "description": "\"How do we get to the Golden Gate Bridge?\"\n\nThis is the most commonly asked question visitors to SF have, and the 2 Hour Golden Gate Bridge tour is the answer!\n\nThis popular tour is designed to provide the complete Golden Gate Bridge experience - you can even walk the length of the Bridge, if desired.\n\nYou'll avoid the crowds that can tie up the vista points, and have a peaceful transit, as we only take a maximum of 5-6 passengers on this tour -it may not be a Private tour, but it might as well be!\n\nAfter nearly a decade of giving other people's tours, Paul, the owner/ guide, started SF Expeditions in order to give *his* tours of the City he grew up in. \n\nComplimentary bottled water included\nComplimentary hotel pick-up/drop-offs can be pre-arranged.* \n\n*Same-day requests may not be possible due to prior tours, so please text/email for fastest response.\n",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Golden-Gate-Bridge-Tour/d651-348030P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/ee/82/64.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 84.99,
-        "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "30758P21",
-        "title": " The Ultimate Napa and Sonoma Wine Tour",
-        "description": "Savor the best of Northern California Wine Country. You\u2019ll delight in sampling wines and gastronomic delights on this full-day tour of Napa and Sonoma. You\u2019ll stop for photos of the iconic Golden Gate Bridge, enjoy breakfast at Oxbow Public Market, enjoy wine tastings in both Napa and Sonoma, where you'll take in the delightful notes of each region, and have free time to explore historic Sonoma Square.\n\nYou\u2019ll have ample time to enjoy as you wish in Sonoma Square. You can choose from countless options for a unique lunchtime experience, such as a self-guided food tour sampling the many cuisines, picking up a bottle of wine for a picnic style lunch, enjoying a sit-down meal at a Michelin star restaurant, or the option to add-on a third wine tasting at one of the many charming tasting rooms in downtown Sonoma.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Sonoma-and-Napa-Wine-Country-Tour-from-San-Francisco/d651-30758P21?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/5a/8d/81.jpg",
-        "duration": 540,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 119.0,
+        "price": 177.87,
         "availableOnDate": [
             {
                 "2023-07-22": [
-                    "08:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "24921P2",
-        "title": "Beginner Surfing in San Francisco (Pacifica Beach)",
-        "description": "Learn to Surf! All rental equipment is included free-of-charge. This clinic was designed with the beginner in mind \u2013 we welcome complete newbies as well as people who have tried surfing on there own for a while and still need help. We will walk you through all the basics to get you started and catching waves!\u00a0Participants will learn about ocean awareness, wave breaks, ocean conditions, safety in and out of the water, wave etiquette, paddling, push up and pop up techniques, as well as riding waves and balancing. All students will start out in shallow areas riding the whitewater until they are comfortable with venturing further out.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Beginner-Surfing-1-Day-Santa-Cruz/d651-24921P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/70/33/f8.jpg",
-        "duration": 150,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 124.0,
-        "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "276666P4",
-        "title": "2 or 3 Hour Private Group San Francisco City Tour Open-air Jeep",
-        "description": "See the San Francisco sights you want to see in an open-air convertible Jeep, at a pace that suits your group. \n\nThis 2-hour exploration includes a photo stop and ride over the Golden Gate Bridge and covers most of the city's must see highlights. Also on the route is a drive down Lombard Street (depending on traffic) Guests can choose to venture out to Golden Gate Park and Ocean Beach OR enjoy additional stops including Chinatown, City Hall, or a enjoy a spectacular bay view from Coit Tower on top of Telegraph Hill.\n\nOur Jeeps fit up to 4 adults and 2 children. The 3rd row seating is perfect for children and teens.\n",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/2-Hour-Private-San-Francisco-City-Tour-by-Convertable-Jeep/d651-276666P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/19/7c/74.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 169.0,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "13:00",
                     "09:00"
                 ]
-            }
+            },
+            "Nothing Found"
         ]
     },
     {
-        "productCode": "240491P12",
-        "title": "Muir Woods Express with Golden Gate Bridge Visit",
-        "description": "This one day excursion gets you two iconic attractions combining Muir Woods visit visit to Golden Gate Bridge. Enjoy a hybrid of light driver narration and informative fort history! Relax with TV narration about Golden Gate Bridge and Alcatraz Escapes!\n\nMuir Woods is a 70+ minute assigned time. After we will experience the Golden Gate Bridge with ample time to see the bridge. This excursion will end at start point.\n\nSome days events may have an assigned morning departure as early as 6:45am or late as 5pm. We reserve the right to choose vehicles for the day. We assign your time of departure!\n\nNOTE: On select dates: Guests will be returned by Sausalito Ferry to Pier 41 Fisherman's Wharf to end this event. We will notify guests and include tickets for this return. On some dates we may have guests take included ferry to start their adventure in Sausalito. \n\nOptions for guests to upgrade to our Road Trip Experience with Driver James. This includes Sausalito time and brunch credit. \n",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Muir-Woods-Express-Road-Trip-By-Deluxe-Comfort-Van/d651-240491P12?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/fa/5e/60.jpg",
+        "productCode": "67217P19",
+        "title": "Ile aux 2 Cocos Full Day on All Inclusive with complimentary activities ",
+        "description": "Savour the island beauty on a day trip. Laze on the beach! Swim in clear waters! Snorkel in the marine park! Participate in inland games! Stroll along the small paths through native woodland! Enjoy our BBQ buffet! Taste our selection of local rums and unlimited drinks! Return Boat Transfers Island Signature Cocktail A Sumptuous Lunch Buffet Unlimited Local Drinks (Still & Sparkling water, Soft Drinks, Fruit juice, Local Beer, House Wine, Local Spirits, Cocktails) Island Activities Homemade Rum Selection I s l a n d A c t i v i t i e s Snorkelling or Glass Bottom Archery Giant Chess Bocce Ball Beach Volley Frisbee Badminton Boot Camp\n\nNote This Trip is available on Every Tuesday ,Thursday and Saturday for any booking \n\n.",
+        "productUrl": "https://www.viator.com/tours/Balaclava/Sightseeing-Tours/d50694-67217P19?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/96/5f/b3.jpg",
+        "duration": 420,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 228.22,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "175658P1",
+        "title": "Scooters and bicycles for rent",
+        "description": "A ride by scooter or bicycle to Mauritius is a way to keep a close with the Mauritian culture.A Mauritius is the most popular means of transport because it is a simple way, and It's also a good idea to go to the beach or even to the market without worrying about parking spaces that are too small for a car. Our bike rides are both informative and relaxing because, thanks to our guide, you will have an understanding of the places you have visited. as well as the opportunity to admire the landscape of the east coast of the island.",
+        "productUrl": "https://www.viator.com/tours/Mauritius/Scooters-and-bicycles-for-rent/d4463-175658P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/bb/1e/18.jpg",
         "duration": 300,
         "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 50.0,
+        "price": 43.9,
         "availableOnDate": [
+            "Nothing Found",
             "Nothing Found"
         ]
     },
     {
-        "productCode": "134227P3",
-        "title": "Private 2 or 3 Hour San Francisco City Tuk Tuk Tour w/ Fun Guide",
-        "description": "See the San Francisco sights you want to see and see them at a pace that suits your group. Your friends and family can cover more ground in an eco-friendly Tuk Tuk than they ever could on foot. Climb San Francisco\u2019s tallest hills in this small but mighty vehicle! Marvel at the sparkling San Francisco Bay and city skyline, and enjoy the sights and smells of Fisherman\u2019s Wharf. Your experienced, entertaining tour guide narrates your 2 or 3 hour excursion, stopping often for Instagram-worthy photos!\n\nYour personal tour guide meets you at the starting location at Umbrella Allley in Fisherman's Wharf. \n\nPrivate tours are perfect for five riders per Tuk Tuk (6 guests are ok with a group that includes children and adults). \n",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Private-Lucky-Tuk-Tuk-3-Hour-Ultimate-San-Francisco-City-Tour/d651-134227P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/95/d8/7c.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
+        "productCode": "228581P2",
+        "title": "Unique Sight Seeing Tours",
+        "description": "This tour offers you to discover and explore the beautiful south west of Mauritius.\n\nTransport will be offered, pick up is included for this trip. I will come to pick you at your location. \nThe starting point is at Flor\u00e9al, where you will visit the ship models factory. \n\nVolcano Trou aux Cerfs \u2013 Mauritius famous crater. From Floreal heading to Curepipe, you will stop on the way to visit the Trou aux Cerfs (a huge natural volcanic crater). \nGrand Bassin -Hindu Temple\n\nAlexandra falls - As part of this tour you will also drive through the Black River Gorges Nature Park, where you will see many endangered species of plants and animals and viewpoint. \n\nVisit of Chamarel Waterfall and Chamarel seven (7) colored earth. The village of Chamarel in southwest Mauritius is home to two natural wonders - the magnificent Chamarel waterfall and the seven colored earth of Chamarel. The seven colored earth is one of the wonders of Mauritius and is considered one of the must places to see.",
+        "productUrl": "https://www.viator.com/tours/Mauritius/Unique-Sight-Seeing-Tours/d4463-228581P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/f5/ba/b7.jpg",
+        "duration": 540,
+        "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 380.0,
+        "price": 197.63,
         "availableOnDate": [
+            "Nothing Found",
             "Nothing Found"
         ]
     },
     {
-        "productCode": "10700P3",
-        "title": "Muir Woods, Sausalito and Tiburon Day Trip from San Francisco",
-        "description": "Cross the Golden Gate to\u00a0Muir Woods, Sausalito, and Tiburon on this 4-hour customizable tour with your own private guide. See why visitors\u00a0from around\u00a0the globe come to\u00a0pay homage in this redwood\u00a0cathedral, where some trees reach up to 250 feet (76 meters). Then choose how much time you'd like to spend in each\u00a0waterfront town with their abundance of boutiques, cafes,\u00a0restaurants. Pricing is per group, based on a maximum of six people.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Muir-Woods-Sausalito-Tiburon-from-San-Francisco/d651-10700P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6a/d3/87.jpg",
-        "duration": 240,
-        "lengthType": "Half Day",
+        "productCode": "43028P17",
+        "title": "Discover the heart of the Capital-Port Louis Private Guided Tour (Min.2 persons)",
+        "description": "From the landing place of indentured Indian immigrants in Mauritius, the UNESCO-listed Aapravasi Ghat to the Central Market for a taste of our street food and a visit of Chinatown, past and present intertwine with history unfolding at every corner.\n",
+        "productUrl": "https://www.viator.com/tours/Grand-Baie/A-walk-back-in-time-Guided-private-tour/d23971-43028P17?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6c/42/08.jpg",
+        "duration": 480,
+        "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 114.0,
+        "price": 108.12,
         "availableOnDate": [
+            "Nothing Found",
             "Nothing Found"
         ]
     },
     {
-        "productCode": "64535P1",
-        "title": "San Francisco Sunrise Photography Tour",
-        "description": "Capture treasured memories and photographs from a San Francisco Photo Tour with Doc Miles. Sunrise and Sunset tours take photographers to locations that provide the best perspectives to capture amazing photographs of Bay Area icons and scenery. Locations along the tours take the photographer to places that are not on any tour bus, but provide extraordinary views of the city and its landmarks.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Sunrise-Photography-Tour/d651-64535P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/88/ce/f5.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
+        "productCode": "67217P40",
+        "title": "Full Day Private Car at La Vallee des Couleurs Nature Park ",
+        "description": "Get to know authentic Mauritian Fusion Cuisine at La Vall\u00e9e des Couleurs through a visit at La Citronelle Restaurant. After strolling around the park, meet Chef Ganessen and his team of cooks and let them surprise you with their exotic dishes.You\u2019re sure to have an adrenaline pumping, heart-pounding adventure in the paradise island of Mauritius. Conquer your fear of heights in a safe way, breath in the fresh air while you\u2019ll walk along the longest suspended bridge in the Indian Ocean, 350 meters of pure joy. What a rewarding experience it is to reach the other end of the bridge. Enjoy the unique panoramic view of the south of the island like nowhere else. Immense yourself in nature and admire the indigenous fauna and flora, mountains, lakes, valleys, waterfalls and Multi-colored Earth \u2013 a fascinating natural wonder.",
+        "productUrl": "https://www.viator.com/tours/Balaclava/Full-Day-Safari-Tour-at-La-Vallee-des-Couleurs-Nature-Park/d50694-67217P40?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/07/f4/f2.jpg",
+        "duration": 360,
+        "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 300.0,
-        "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "3306P17",
-        "title": "Private Guided Golden Gate Bridge to Sausalito Bike Tour",
-        "description": "Enjoy a personalized adventure and explore the city safely, with one of our professional local guides. Enjoy this private and intimate affair. Your private journey can start at any time of your choosing! Enjoy the same bike route as our public Golden Gate Bridge to Sausalito tour. This tour starts from our Tour Center in Fisherman's Wharf, and rides along the San Francisco waterfront, over the Golden Gate Bridge and into Sausalito. The tour will conclude in downtown Sausalito. After your tour you can enjoy a nice lunch in Sausalito, browse the shops, and return back to the city at your leisure with the included ferry ticket. We also offer a Sausalito bike drop for those who wish to leave their bike in Sausalito.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Private-Guided-Golden-Gate-Bridge-to-Sausalito-Bike-Tour-with-return-ferry/d651-3306P17?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/ff/80/fd.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 105.0,
-        "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "6032TALES",
-        "title": "San Francisco Urban Hike: Coit Tower, Lombard Street and North Beach",
-        "description": "Get ready to climb lots of steps and go off the beaten path on this challenging 5-mile walking tour of San Francisco\u2019s Telegraph Hill, Russian Hill and North Beach neighborhoods. Ascend the Filbert Steps for a close-up view of lovely Coit Tower. Walk up the world-famous crooked section of Lombard Street and discover hidden gems like a tiny park with an amazing view of Alcatraz and the church where Marilyn Monroe and Joe DiMaggio had their wedding photos taken.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Urban-Hike-Coit-Tower-Lombard-Street-and-North-Beach/d651-6032TALES?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/71/d3/f7.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 54.0,
+        "price": 125.52,
         "availableOnDate": [
             {
                 "2023-07-22": [
-                    "13:30"
+                    "09:00"
                 ]
-            }
-        ]
-    },
-    {
-        "productCode": "16199P9",
-        "title": "90 minute Daytime Tour aboard Wine Therapy",
-        "description": "Join us for the best views of the Golden Gate Bridge and San Francisco Bay aboard the classic yacht, Wine Therapy! The tour begins at PIER 39 and takes us towards the Golden Gate Bridge, Alcatraz, San Francisco city front, and past many other famous landmarks and attractions. You\u2019ll experience San Francisco from unique vantage points, while having the opportunity to take iconic photos of the world-famous skyline and wildlife along the route. Enjoy personalized treatment interacting with the Captain and Crew. We have an indoor heated cabin with large windows for amazing views. A 360 degree walkway around the boat is perfect for taking photos. Beverages are available for purchase during your tour. We have the largest local wine selection of any boat on the bay!",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Bay-Boat-Tour/d651-16199P9?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/aa/66/c4.jpg",
-        "duration": 90,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 85.0,
-        "availableOnDate": [
+            },
             {
-                "2023-07-22": [
-                    "15:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "276666P2",
-        "title": "3-Hour Private Group San Francisco Open Top Jeep Tour",
-        "description": "See the San Francisco sights you want to see in an open-air convertible Jeep, at a pace that suits your group. Enjoy this 3-hour exploration that includes a photo stop at the Golden Gate Bridge!\n\nThis tour covers most of the city's highlights, including the Golden Gate Bridge. Also on the route is a drive down Lombard Street (depending on traffic) and time in Golden Gate Park or Ocean Beach. Guests can choose additional stops including the Mission District Murals or a enjoy a spectacular bay view from Coit Tower on top of Telegraph Hill.\n\nNOTE: Price is per jeep, NOT per person. Our Jeeps fit up to 4 adults and 2 children. The 3rd row seating is perfect for children and teens.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Private-Group-Jeep-Tour/d651-276666P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/19/9d/89.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 249.0,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "13:00",
+                "2023-07-23": [
                     "09:00"
                 ]
             }
         ]
     },
     {
-        "productCode": "110804P22",
-        "title": "Food, History, and Resistance: A Self-Guided Audio Tour of San Francisco's Japantown",
-        "description": "Explore San Francisco's historic Japantown at your own pace on this self-guided audio tour. Japanese-American local Kristin Eriko Posner will guide you through the neighborhood, sharing little-known stories on how history shaped the food, culture, and landscape of the oldest Japantown in the U.S. This geo-tagged audio tour is best between 10:30am - 3:30pm on Wednesday-Saturdays, when all of the businesses on the tour are open. However, it can be taken at any time, on any day. Most stops are open until 6pm.\n\nThe tour is ready whenever you are and the audio plays automatically at exactly the right time and place using your smartphone's GPS and the VoiceMap mobile app, which also works offline.\n\n",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Japantown-Audio-Tour-by-VoiceMap-Food-History-and-Resistance/d651-110804P22?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/36/a3/a0.jpg",
+        "productCode": "45135P18",
+        "title": "Full Day Guided Tea Route Mauritius: Including Lunch",
+        "description": "Get ready to\u00a0discover the process of tea manufacturing, with a guide you will learn about the harvested tea leaves and the tea factory whilst understanding the different steps of production. You may then continue with a tea tasting in the chalet, 'Le chalet du Domaine de Bois Ch\u00e9ri' overlooking the domaine and 'Le lac des Cygnes du Domaine de Bois Ch\u00e9ri', a truly unmissable experience! The lake is surrounded by the first tea plantations with tea plants of at least 125 years old.\u00a0 \n\nYou will then learn about the process of sugar manufacturing which will be explained by your guide with the opportunity of tasting local rums by the first producer of agricultural rums made of sugarcane juice in Mauritius. A local lunch will be served on the veranda of 'Saint Aubin'\u00a0a colonial house turned into a restaurant with a magnificent garden view. Also part of your visit is 'La Vanille R\u00e9serve des Mascareignes' park with unforgettable walks among rare reptiles and endemic plants.",
+        "productUrl": "https://www.viator.com/tours/Grand-Baie/Full-Day-Guided-Tea-Route-Mauritius-Including-Lunch/d23971-45135P18?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/36/c7/c9.jpg",
+        "duration": 300,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 143.0,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "139861P1",
+        "title": "Discover Scuba Diving Experience",
+        "description": "Blue World Explorer is a new, dynamic and innovating scuba diving service provider which has been set up to let all scuba divers discover the beauty of underwater life all around the paradise Island of Mauritius.\n\nwe offer tailor scuba diving services always taking into account safety and security at sea.\n\nall our dive centers are PADI Certified.\n\nyou can be anywhere in Mauritius and Rodrigues Blue World Explorer is always available to offer our scuba diving and nautical services.",
+        "productUrl": "https://www.viator.com/tours/Mauritius/Discover-Scuba-Diving-Experience/d4463-139861P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/72/0b/3f.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 120.0,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "12:30",
+                    "09:30"
+                ]
+            },
+            {
+                "2023-07-23": [
+                    "12:30",
+                    "09:30"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "204329P12",
+        "title": "Private Airport Transfer Mauritius",
+        "description": "-We provide, good car and amazing driver that will help you to load your luggage till arriving to destination\n\n-Arriving day,driver will wait for you in the arrival hall inside the airport with your name written on a signboard.\n\n-This activity consists of an airport to hotel or apartment transfer or vice versa.\n\n-Transfer will be private ",
+        "productUrl": "https://www.viator.com/tours/Grand-Baie/Private-Airport-Transfer/d23971-204329P12?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/a9/19/d2.jpg",
         "duration": 60,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 6.99,
+        "price": 52.0,
         "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "15142P8",
-        "title": "Private Transfer: Pier 27 Cruise Terminal to San Francisco International Airport",
-        "description": "When it\u2019s time to disembark your cruise ship in San Francisco, end your trip the easy way with this private airport transfer to SFO.\u00a0Meet your driver at the cruise terminal at Pier 27 and\u00a0ensure your arrival at San Francisco International Airport\u00a0in time for your departing flight. Travel one-way in a hybrid, sedan, or SUV, depending on the size of your group (up to 6 passengers; select when booking).",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Private-Transfer-from-Pier-27-Cruise-Terminal-to-San-Francisco-International-Airport/d651-15142P8?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6b/6a/a5.jpg",
-        "duration": 30,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 135.0,
-        "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "16199P10",
-        "title": "90 minute Sunset Tour aboard Wine Therapy",
-        "description": "Enjoy the best sunset on the San Francisco Bay aboard the classic yacht, Wine Therapy! The tour begins at PIER 39 and takes us towards the Golden Gate Bridge, Alcatraz, down the San Francisco city front, and past many other famous landmarks and attractions. You\u2019ll experience a sunset from unique vantage points, while having the opportunity to take iconic photos of the world-famous skyline. Enjoy personalized treatment interacting with the Captain and Crew. We have an indoor heated cabin with large windows for amazing views. A 360 degree walkway around the boat is perfect for taking photos. We have the largest local wine selection of any boat on the bay!",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Bay-Sunset-Tour/d651-16199P10?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/aa/68/e5.jpg",
-        "duration": 90,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 95.0,
-        "availableOnDate": [
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "11262SFO",
-        "title": "San Francisco Indoor Skydiving with 2 Flights & Personalized Certificate",
-        "description": "Feel the thrill of skydiving without jumping out of an airplane. It's true! Head to iFLY San Francisco Bay, a premier indoor skydiving facility powered by a state-of-the-art vertical wind tunnel. After a training session, you'll experience free-fall conditions with the help of an instructor. No experience is necessary, and afterward, you can take home a personalized flight certificate.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Bay-Indoor-Skydiving-Experience/d651-11262SFO?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6a/de/df.jpg",
-        "duration": 75,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 104.99,
-        "availableOnDate": [
+            "Nothing Found",
             "Nothing Found"
         ]
     }
