@@ -61,12 +61,12 @@ with st.form("my_form"):
         with st.spinner('Wait for it...'):
             calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=20)
             for index, days in enumerate(calendar):
-                st.subheader(dates[index])
+                st.header(dates[index])
                 for activity in days:
                     if "No found event for the day" in activity:
                         st.write("No event found for the day")
                     else:
-                        st.write(activity['title'])
+                        st.subheader(activity['title'])
                         st.image(activity['imageUrl'])
                         st.write(activity['description'])
                         st.write("Starts at ", activity['startTime'])
