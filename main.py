@@ -63,14 +63,16 @@ with st.form("my_form"):
             calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=20)
             for days in calendar:
                 for activity in days:
-                    print(activity)
-                    st.subheader(activity['dateSelected'])
-                    st.write(activity['title'])
-                    st.image(activity['imageUrl'])
-                    st.write(activity['description'])
-                    st.write("Starts at ", activity['startTime'])
-                    st.write("Ends at: ", activity['endTime'])
-                    st.button("Book this activity!", on_click=activity['productUrl'])
+                    if "No found event for the day" in activity:
+                        st.write("No event found for the day")
+                    else:
+                        st.subheader(activity['dateSelected'])
+                        st.write(activity['title'])
+                        st.image(activity['imageUrl'])
+                        st.write(activity['description'])
+                        st.write("Starts at ", activity['startTime'])
+                        st.write("Ends at: ", activity['endTime'])
+                        st.button("Book this activity!", on_click=activity['productUrl'])
             st.balloons()
 
             
