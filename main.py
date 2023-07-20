@@ -80,6 +80,7 @@ with st.form("my_form"):
                             ''',
                             unsafe_allow_html=True
                         )
+                        st.write("\n\n")
             st.balloons()
 
             
