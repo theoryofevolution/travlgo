@@ -71,7 +71,7 @@ with st.form("my_form"):
                 st.header(dates[index])
                 for activity in days:
                     if "No found event for the day" in activity:
-                        st.write("No event found for the day")
+                        st.write("No events were found for the day 😢...to make it up, here's a donut 🍩")
                     else:
                         st.subheader(activity['title'])
                         st.image(activity['imageUrl'])
