@@ -1,160 +1,34 @@
 [
     {
-        "productCode": "75738P6",
-        "title": "Underground Brooklyn Walking Brewery Tour",
-        "description": "Visit three world-class breweries on this all-inclusive 3.5 hour craft beer experience through Brooklyn. Ranked as one of the top beer cities in the country, indulge your taste buds as we give you a backstage pass to some of NYC's hippest breweries & neighborhoods. A complimentary snack is included, as well as subway transportation to the breweries.\n",
-        "productUrl": "https://www.viator.com/tours/Brooklyn/UNDERGROUND-BROOKLYN-BREW-TOUR/d22371-75738P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/ab/9b/45.jpg",
-        "duration": 210,
-        "lengthType": "Half Day",
-        "rating": 5.0,
-        "price": 99.0,
-        "availableOnDate": [
-            {
-                "2023-07-23": [
-                    "12:00"
-                ]
-            },
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "365993P2",
-        "title": "The Story of Brooklyn Heights Tour",
-        "description": "In this tour, you will be told from a resident of Brooklyn Heights a compressed and almost storyline version of the four hundred years of Brooklyn. This tour breaks down those four hundred years into four epochs, the colonial era, the suburban era, the fall of Brooklyn Heights, and its rebirth. The tour guide may also point to different restaurants to try out along the way.",
-        "productUrl": "https://www.viator.com/tours/Brooklyn/The-Story-of-Brooklyn-Heights-Tour/d22371-365993P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/86/45/57.jpg",
-        "duration": 90,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 30.0,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "345485P1",
-        "title": "Private Brooklyn Bridge Tour with a Local",
-        "description": "Everyone else comes to the Bridge to take a photo and move on. Not us - we'll understand the huge effort that went in to getting the Bridge built, the lives lost and made, the scandals and celebrations. It's such a beautiful bridge but even better when you understand how it came to be.\n\nIn many ways the story of New York is the story of the Brooklyn Bridge. Almost nothing you see in the City existed before the Bridge - we'll use the Bridge as a way to understand the City that rose around it - the buildings, the other bridges, the transportation system, the people. \n\nAnd then there are all the fun stories that span 140 years. We'll have a jam packed 90 minutes exploring the bridge, the city, and their history.",
-        "productUrl": "https://www.viator.com/tours/Brooklyn/Life-and-death-on-the-Brooklyn-Bridge-with-a-local/d22371-345485P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/98/d6/72.jpg",
+        "productCode": "74127P3",
+        "title": "Hidden Stairways of San Francisco",
+        "description": "Please note: this walk is not at all strenuous. Obviously there's some stairs but this is done at a leisurely pace and suitable for almost everyone.\n\nThis breathtaking 2 mile walking tour of San Francisco's hidden stairways is the #1 rated Airbnb Experience in the Bay Area. See gorgeous mosaic tiled steps and hear the stories behind them, then take in stunning 360\u00b0 views of the Golden Gate Bridge, Golden Gate Park and downtown San Francisco. You'll also discover beautiful neighborhoods and gardens that tourists rarely see...you might even go home with a succulent!\nI'll provide commentary, context and some history along the way.\n\nGenerally SF is dry May-October. There can be fog in the summertime, mostly in the morning. Temps rarely above 70F (21C) or below 50F (10C). Rain may cancel.\n\nInstagram account to see more photos: @hiddenstairssf #hiddenstairssf\n\nMessage me if you have questions!",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/Hidden-Stairways-of-San-Francisco/d651-74127P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/ab/90/a8.jpg",
         "duration": 120,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 17.5,
+        "price": 33.0,
         "availableOnDate": [
             {
                 "2023-07-23": [
-                    "10:30"
-                ]
-            },
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "8501P25",
-        "title": "Brooklyn Heights, Brooklyn Bridge, and DUMBO Food Tour",
-        "description": "Explore and learn about this historic and lively borough with a guided walk through some of the best of Brooklyn: Brooklyn Heights, Brooklyn Promenade + Park and DUMBO. This tour offers spectacular vistas of the Statue of Liberty, the Manhattan skyline and the majestic Brooklyn Bridge.\n\nAnd the best part is we will see it all while enjoying popular local food: Juliana\u2019s pizza (same owner, same pizza next door to Grimaldi\u2019s pizza), Jaques Torres Chocolate, One Girl Cookie and more! \n\nKnow that you are making a difference by simply choosing our tours; we offer guests a way to give back to the community, by engaging with our social impact partners. By adding a social impact partner to each food tour, we've created a unique experience for you and assure that every tour we run is having a direct positive impact on the community we'll be exploring. \n\nThis tour is Vegetarian friendly. Gluten Free & Vegan currently unavailable for this tour. ",
-        "productUrl": "https://www.viator.com/tours/Brooklyn/Brooklyn-Heights-Brooklyn-Bridge-and-DUMBO-Food-Tour/d22371-8501P25?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/7c/4d/d1.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 78.0,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "297529P1",
-        "title": "Rockaway Beach Bus in New York City",
-        "description": "Support a rebuilding scene and join us for an epic day at the beach! \n\nRockaway Beach is an old New York institution on the rise after surviving the devastating effects of Hurricane Sandy. We\u2019re teaming up with some of the best brands on the NYC Summer scene to get Manhattan & Brooklyn out to Rockaway, Riis Park & Fort Tilden for a summer of fun with the best NYC beach experience in the game\u2026 \n\nRent a board and get a surf lesson. Bar hop or keep it mellow and just hang on the beach, no matter what you\u2019re into The OvR Rockaway Beach Bus has you covered!",
-        "productUrl": "https://www.viator.com/tours/New-York-City/Rockaway-Beach-Bus-by-OvRride/d687-297529P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/d8/77/99.jpg",
-        "duration": 600,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 39.95,
-        "availableOnDate": [
-            {
-                "2023-07-23": [
-                    "09:00"
-                ]
-            },
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "107194P53",
-        "title": "Brooklyn Outdoor Escape Game: The Land of Street Art",
-        "description": "Embark on a quest around Brooklyn to discover the most beautiful street art murals and their stories, all with the help of your smartphone. Unlock new stories as you discover the local artists of Williamsburg, the fascinating New York neighborhood.\n\n+ Discover the charming neighborhood of Williamsburg and its most beautiful street art murals\n+ Uncover secrets about Street-Artists and their art from all around the world\n+ Admire the Williamsburg bridge and walk along the river while looking at the Manhattan skyline\n+ Walk around the most beautiful part of Brooklin\n+ Try a new type of experience, the perfect mix between a tour, outdoor escape game, and treasure hunt\n\nDiscover Brooklyn, New York's famous art-centric borough, by following clues and discovering amazing stories about the astonishing graffiti work.\n\nEach clue will lead you from one place to another, giving you exact directions, so you won't need a map, a GPS or a guide.\n\n",
-        "productUrl": "https://www.viator.com/tours/Brooklyn/Brooklyn-Williamsburg-Famous-Street-Art-Exploration-Game/d22371-107194P53?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/ec/23/ce.jpg",
-        "duration": 70,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 9.05,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "104204P74",
-        "title": "Brooklyn Scavenger Hunt: Soaring To New Heights",
-        "description": "Let\u2019s Roam is the #1 app-led scavenger hunt company. Walk to all the best landmarks and hidden gems, answering trivia questions and solving challenges. Work with your team or compete against them, as you learn new facts and create memorable experiences. Let\u2019s Roam Scavenger Hunts are great as an everyday activity, or for bachelorette parties, birthday parties, corporate team building events and more! Each player chooses an interactive role, with challenges varying by person. ",
-        "productUrl": "https://www.viator.com/tours/Brooklyn/Lets-Roams-Brooklyn-Scavenger-Hunt-Soaring-To-New-Heights/d22371-104204P74?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/9b/54/11.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 12.31,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "195225P4",
-        "title": "Art, History & Waterfront Views in DUMBO",
-        "description": "Soak up the art, food & views in one of the most beautiful and iconic parts of the city, led by local art expert and community builder, Alexandra Harper.\n\nWe will take in the unique sights, sounds and tastes that make DUMBO such a rich and amazing neighborhood, with a focus on female-owned & run businesses. We will see some of the best visual art in the city, both indoors and out, along with an exclusive private studio visit with a local artist, sampling some unique savory snacks and sweet treats along the way.\n\nThis walk features some of the most beautiful waterfront views of Manhattan, and you will learn more about how this fascinating neighborhood has grown and changed over time. It is a great opportunity to take a deep dive into one of NYC's most beautiful and fascinating neighborhoods, learn about its history and meet new friends along the way.\n\nWe will end near the East River ferry, if you would like to ride back to Manhattan with other attendees (not included in trip price).",
-        "productUrl": "https://www.viator.com/tours/Brooklyn/Art-Food-and-Waterfront-Views-in-DUMBO/d22371-195225P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0c/11/b7/7a.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 60.0,
-        "availableOnDate": [
-            {
-                "2023-07-23": [
-                    "13:00",
-                    "15:00",
-                    "12:00"
-                ]
-            },
-            "Nothing Found",
-            "Nothing Found",
-            {
-                "2023-07-26": [
                     "13:00"
                 ]
             }
+        ]
+    },
+    {
+        "productCode": "322630P1",
+        "title": "Take a Walk with a Storyteller! The Surreal San Francisco Tour.",
+        "description": "- Explore the city with San Francisco's most hilarious, imaginative and EXCITING storyteller!\n\n- Enjoy original FOLKLORE and FAIRYTALES told by Clyde Always: a professional storyteller, published poet and decade-long resident of the City by the Bay. Hear about witches & wisemen, hobos & hipster-emperors. Bring your imagination!\n\n- Get to know these three famous neighborhoods: the Mission, the Castro and the Duboce Triangle. \n\n- Get insider knowledge of the best eateries, parks, shops and more. See beautiful street-art, landmarks and architecture. Experience the City like a local.\n\n- BEWARE! Some of the information presented will be highly UNBELIEVABLE. Have fun sorting the fact from the fiction.\n\n-A 2.2 mile (3.5 km) walk with no hills. One public restroom along the way.\n\n- Please note: this tour is NOT for the whole family. Script includes profanity and you might see a nudist or two.\n\n- Guaranteed to entertain, enliven and uplift. An experience you'll always remember. \n\n",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/The-Real-San-Francisco-Walking-Tour/d651-322630P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/65/e6/bc.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 32.0,
+        "availableOnDate": [
+            "Nothing Found"
         ]
     }
 ]

@@ -68,9 +68,10 @@ if submitted:
                 else:
                     st.subheader(activity['title'])
                     st.image(activity['imageUrl'])
+                    st.subheader('Event Description')
                     st.write(activity['description'])
-                    st.write("Starts at ", activity['startTime'])
-                    st.write("Ends at: ", activity['endTime'])
+                    st.write("**Starts at:**", datetime.strptime(activity['startTime'], '%H:%M').strftime("%I:%M %p"))
+                    st.write("**Ends at:** ", datetime.strptime(activity['endTime'], '%H:%M').strftime("%I:%M %p"))
                     st.markdown(f'''<a target="_blank" href="{activity["productUrl"]}">
                                 <button>
                                     Book this event!
