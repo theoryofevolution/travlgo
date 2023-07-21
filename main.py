@@ -34,7 +34,7 @@ with st.form("my_form"):
 
     initial_destination = st.selectbox('**Destination**', options = [""] + destinations.destination_names, format_func=lambda x: '' if x == '' else x)
     start_date = st.date_input('**Arrival Date**', min_value = starter)
-    end_date = st.date_input('**Departure  Date**', value=start_date+timedelta(days=3), min_value=start_date+timedelta(days=2))
+    end_date = st.date_input('**Departure  Date**', value = starter+timedelta(days=3), min_value = starter+timedelta(days=2))
 
     user_tags = st.multiselect(
     '**Customize Your Trip**', options = tag_lib.snatch_tags)
@@ -45,6 +45,10 @@ global dates
 if submitted:
     if initial_destination=='':
         alert = st.warning('No destination is selected')
+        time.sleep(3)
+        alert.empty()
+    if start_date + timedelta(days=8) < end_date:
+        alert = st.warning("Max itinerary days allowed are 7. We hope to increase this number over time!")
         time.sleep(3)
         alert.empty()
     else:

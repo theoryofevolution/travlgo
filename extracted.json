@@ -1,32 +1,766 @@
 [
     {
-        "productCode": "317366P1",
-        "title": "Arad City Private Walking Tour",
-        "description": "Arad was once in the middle of the Austrian \u2013 Hungarian Monarchy. Germans, Hungarians, Romanians, Serbs, and Jews have lived here peacefully over the centuries and built together a culture that is hard to imagine anywhere else! \nWe will talk about the golden age dating back to the beginning of the 20th century when most of the buildings we admire today were built. We will explore the multiculturality of the city through the stories about those who inhabited it and we will learn about heroes undressed by their uniforms in the Romanian \u2013 Hungarian Reconciliation Park! History, architecture and the stories of those who walked this way and lived over the centuries in a fascinating environment!\n",
-        "productUrl": "https://www.viator.com/tours/Arad/Arad-City-Tour/d25907-317366P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/ed/cb/7b.jpg",
-        "duration": 180,
+        "productCode": "52887P2",
+        "title": "Pretty Gritty Arts District Bike Tour",
+        "description": "An Arts District BIKE tour allows you to see so much more of this under the radar, trendy neighborhood. Just past Little Tokyo, L.A.\u2019s hottest neighborhood, The Arts District, is full of galleries, tech-industry, nightlife, murals, history, architecture, shopping, breweries, and restaurants. We visit Hauser and Wirth Gallery, Sci-Arc, Bloom\u2019s Square, Warner Brother\u2019s Music, Art Share, La Kretz Innovation Campus, The American Hotel, some of L.A.\u2019s best restaurants and many more surprising locations. You\u2019ll hear about the origins, history, new development and current status of The Art\u2019s District. This tour breaks at galleries and shopping, allowing participants to explore a bit on their own. This ride is perfect for visitors looking for off the beaten path, up and coming neighborhoods in DTLA. ",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/Pretty-Gritty-Arts-District-Tours/d645-52887P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/ec/0c/6a.jpg",
+        "duration": 150,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 74.17,
+        "price": 65.0,
         "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "14:00"
+                ]
+            },
+            "Nothing Found",
+            {
+                "2023-08-26": [
+                    "14:00"
+                ]
+            },
+            {
+                "2023-08-27": [
+                    "14:00"
+                ]
+            },
             "Nothing Found",
             "Nothing Found"
         ]
     },
     {
-        "productCode": "268155P68",
-        "title": "Arad to Bucharest - Private Guided Transfer - Car and Driver",
-        "description": "Just let us know the time and the place from where we should pick you up!\n\nOUR SERVICE GUARANTEES:\n\u2022 Discretion \n\u2022 Useful tips and information regarding any activities you have planned \n\u2022 Flexibility \n\nIt should not surprise you that with us you get a private driver whose only purpose is to make your trip memorable, in a positive way :)",
-        "productUrl": "https://www.viator.com/tours/Arad/Private-Guided-Transfer-from-Arad-to-Bucharest/d25907-268155P68?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/e4/59/da.jpg",
-        "duration": 480,
-        "lengthType": "Full Day",
+        "productCode": "371630P1",
+        "title": "The Escape Game LA: Epic 60-Minute Adventures",
+        "description": "Located in Westfield Century City, these adventures offer a one-of-a-kind premium experience. Follow clues and solve puzzles to complete your mission together. You might escape...You WILL have fun!\n\nChoose to play one of four uniquely immersive games:\n- Prison Break: Complete a daring escape from the evil warden!\n- Special Ops: Mysterious Market: Uncover the truth as a secret agent!\n- The Heist: Recover a stolen masterpiece from an art thief!\n- The Depths: Go on an underwater mission in a submarine!",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/The-Escape-Game-LA-Epic-60-Minute-Adventures/d645-371630P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/b0/fc/8b.jpg",
+        "duration": 75,
+        "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 433.62,
+        "price": 43.99,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "17:00",
+                    "11:45",
+                    "08:30",
+                    "16:15",
+                    "14:45",
+                    "17:30",
+                    "16:00",
+                    "12:45",
+                    "20:00",
+                    "21:45",
+                    "11:15",
+                    "08:00",
+                    "11:30",
+                    "09:00",
+                    "15:30",
+                    "13:00",
+                    "13:30",
+                    "15:00",
+                    "15:45",
+                    "19:00",
+                    "12:30",
+                    "12:00",
+                    "17:15",
+                    "14:15",
+                    "18:00",
+                    "23:00",
+                    "20:45",
+                    "23:45",
+                    "19:30",
+                    "23:55",
+                    "17:45",
+                    "09:30",
+                    "14:00",
+                    "10:15",
+                    "23:30",
+                    "19:15",
+                    "10:00",
+                    "18:30",
+                    "22:00",
+                    "20:30",
+                    "20:15",
+                    "11:00",
+                    "22:15",
+                    "16:30",
+                    "21:30",
+                    "09:45",
+                    "23:15",
+                    "18:45",
+                    "22:30",
+                    "10:30",
+                    "08:45",
+                    "13:15",
+                    "14:30",
+                    "08:15",
+                    "21:00"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            {
+                "2023-08-28": [
+                    "17:00",
+                    "11:45",
+                    "08:30",
+                    "16:15",
+                    "14:45",
+                    "17:30",
+                    "16:00",
+                    "12:45",
+                    "20:00",
+                    "21:45",
+                    "11:15",
+                    "08:00",
+                    "11:30",
+                    "09:00",
+                    "15:30",
+                    "13:00",
+                    "13:30",
+                    "15:00",
+                    "15:45",
+                    "19:00",
+                    "12:30",
+                    "12:00",
+                    "17:15",
+                    "14:15",
+                    "18:00",
+                    "23:00",
+                    "20:45",
+                    "23:45",
+                    "19:30",
+                    "23:55",
+                    "17:45",
+                    "09:30",
+                    "14:00",
+                    "10:15",
+                    "23:30",
+                    "19:15",
+                    "10:00",
+                    "18:30",
+                    "22:00",
+                    "20:30",
+                    "20:15",
+                    "11:00",
+                    "22:15",
+                    "16:30",
+                    "21:30",
+                    "09:45",
+                    "23:15",
+                    "18:45",
+                    "22:30",
+                    "10:30",
+                    "08:45",
+                    "13:15",
+                    "14:30",
+                    "08:15",
+                    "21:00"
+                ]
+            },
+            {
+                "2023-08-29": [
+                    "17:00",
+                    "11:45",
+                    "08:30",
+                    "16:15",
+                    "14:45",
+                    "17:30",
+                    "16:00",
+                    "12:45",
+                    "20:00",
+                    "21:45",
+                    "11:15",
+                    "08:00",
+                    "11:30",
+                    "09:00",
+                    "15:30",
+                    "13:00",
+                    "13:30",
+                    "15:00",
+                    "15:45",
+                    "19:00",
+                    "12:30",
+                    "12:00",
+                    "17:15",
+                    "14:15",
+                    "18:00",
+                    "23:00",
+                    "20:45",
+                    "23:45",
+                    "19:30",
+                    "23:55",
+                    "17:45",
+                    "09:30",
+                    "14:00",
+                    "10:15",
+                    "23:30",
+                    "19:15",
+                    "10:00",
+                    "18:30",
+                    "22:00",
+                    "20:30",
+                    "20:15",
+                    "11:00",
+                    "22:15",
+                    "16:30",
+                    "21:30",
+                    "09:45",
+                    "23:15",
+                    "18:45",
+                    "22:30",
+                    "10:30",
+                    "08:45",
+                    "13:15",
+                    "14:30",
+                    "08:15",
+                    "21:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "55860P7",
+        "title": "20-Min PRIVATE Lamborghini Drive from Hollywood to Sunset Blvd",
+        "description": "In this private tour, explore the Hollywood attractions behind the wheel of an exotic sports car. Experience 20 minutes of thrill as you and your guide drive throughout the city. Test drive\u00a0a\u00a0Lamborghini Huracan on the Hollywood Walk of Fame, along the streets of the city, on a sightseeing tour in Hollywood and feel the adrenaline of driving such a powerful vehicle! Experience 20 minutes of thrill as you and your guide drive throughout the city.",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/Test-drive-a-2018-Lamborghini-Huracan-Spider/d645-55860P7?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/7f/7b/1d.jpg",
+        "duration": 20,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 139.0,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "17:00",
+                    "17:30",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "11:30",
+                    "15:30",
+                    "13:00",
+                    "12:00",
+                    "13:30",
+                    "15:00",
+                    "10:30",
+                    "14:30",
+                    "18:00",
+                    "11:00",
+                    "12:30",
+                    "16:30"
+                ]
+            },
+            {
+                "2023-08-25": [
+                    "10:00",
+                    "13:30",
+                    "17:30"
+                ]
+            },
+            {
+                "2023-08-26": [
+                    "17:00",
+                    "17:30",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "11:30",
+                    "15:30",
+                    "13:00",
+                    "12:00",
+                    "13:30",
+                    "15:00",
+                    "10:30",
+                    "14:30",
+                    "18:00",
+                    "11:00",
+                    "12:30",
+                    "16:30"
+                ]
+            },
+            {
+                "2023-08-27": [
+                    "17:00",
+                    "17:30",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "11:30",
+                    "15:30",
+                    "13:00",
+                    "12:00",
+                    "13:30",
+                    "15:00",
+                    "10:30",
+                    "14:30",
+                    "18:00",
+                    "11:00",
+                    "12:30",
+                    "16:30"
+                ]
+            },
+            {
+                "2023-08-28": [
+                    "17:00",
+                    "17:30",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "11:30",
+                    "15:30",
+                    "13:00",
+                    "12:00",
+                    "13:30",
+                    "15:00",
+                    "10:30",
+                    "14:30",
+                    "18:00",
+                    "11:00",
+                    "12:30",
+                    "16:30"
+                ]
+            },
+            {
+                "2023-08-29": [
+                    "10:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "55860P2",
+        "title": "50 min PRIVATE Ferrari California driving tour to Hollywood Sign",
+        "description": "In this 50 minutes private tour, take our Ferrari California for a spin all the way from the Walk of Fame to Mulholland Drive, where you will get breathtaking views of the city. Stop up close to the Hollywood Sign for unique pictures with the Ferrari and the Hollywood Sign behind you.\nOur knowledgeable tour guides will share interesting facts and stories about Hollywood history along the way. Make your trip to Hollywood unforgettable with this one-of-a-kind driving experience! \nOn that sightseeing tour you will feel the adrenaline such a powerful Super car! \n",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/Private-Hollywood-Sign-Driving-Tour-in-a-Lamborghini-Gallardo/d645-55860P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/46/78/e5.jpg",
+        "duration": 50,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 189.0,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-25": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-26": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-27": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-28": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-29": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "10:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "279206P4",
+        "title": "Celebrity and Lifestyle Hollywood Bus Tour",
+        "description": "Only in town for a short time? This is the perfect tour for you! Our 90 min tour is designed to give a nice overview of Hollywood and the surrounding areas in a short period of time. Thanks to our open-air buses and their unobstructed views, we get to see a lot without having to ever get off the bus. \n\nTravelling with an onboard guide, you'll pass by all the must-sees attractions such as the Walk of Fame, Hollywood Sign, Beverly Hills, Rodeo Drive, and the celebrity houses with live commentary. Multiple departures throughout the day.",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/90-min-Celebrity-and-Lifestyle-Hollywood-Tour/d645-279206P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/67/ed/b5.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 29.0,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "17:00",
+                    "14:00",
+                    "10:00",
+                    "13:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-25": [
+                    "17:00",
+                    "14:00",
+                    "10:00",
+                    "13:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-26": [
+                    "17:00",
+                    "14:00",
+                    "10:00",
+                    "13:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-27": [
+                    "17:00",
+                    "14:00",
+                    "10:00",
+                    "13:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-28": [
+                    "17:00",
+                    "14:00",
+                    "10:00",
+                    "13:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-29": [
+                    "17:00",
+                    "14:00",
+                    "10:00",
+                    "13:00",
+                    "15:00",
+                    "18:00",
+                    "11:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "169203P5",
+        "title": "Private Ferrari Driving Tour from Hollywood to Sunset",
+        "description": "This is your time to shine like a star! \nIt a unique and amazing way to discover the Hollywood Walk of Fame.\nYou'll drive a Ferrari California (no deposit required) and driver insurance is included.\nAll you need is a valid driver license and be at least 18 years old to drive (if not we can drive you). \nDriving a Ferrari on the Hollywood walk of fame, up to Sunset Plaza. Along the drive, you will discover the star's favorite hangouts and many more spots...\nThis will be the best drive of your life. You will be driving and you will be assisted by a trained copilot to guide you thru this one of kind experience.\n\n",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/FERRARI-California-T-Hollywood-to-Sunset-PRIVATE-Tour/d645-169203P5?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/26/58/09.jpg",
+        "duration": 20,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 109.0,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-25": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-26": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-27": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-28": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "11:00"
+                ]
+            },
+            {
+                "2023-08-29": [
+                    "17:00",
+                    "14:00",
+                    "16:00",
+                    "13:00",
+                    "12:00",
+                    "15:00",
+                    "11:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "175311P5",
+        "title": "Private SURF LESSON at Venice",
+        "description": "Our private surfing lessons offer a unique and personalized learning experience for all skill levels. With one-on-one instruction from our experienced and certified surf coaches, you'll receive tailored feedback and guidance to improve your technique and confidence in the water.\n\nWhether you're a beginner looking to catch your first wave or an experienced surfer seeking to refine your skills, our lessons are designed to meet your specific goals and needs. We use the latest equipment and techniques to ensure your safety and comfort, and our flexible scheduling allows you to learn at your own pace and convenience.\n\nBook your private surfing lesson today and experience the thrill of riding the waves like a pro!",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/Private-SURF-LESSON-at-Venice/d645-175311P5?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/7a/f4/08.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 138.0,
         "availableOnDate": [
             "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
             "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "7302P7",
+        "title": "City Tour of Los Angeles, Hollywood and Beverly Hills",
+        "description": "4 hours private tour of Los Angeles. 8 years award winning from TripAdvisor! Our tour focuses on Hollywood's legendary stars, past and present. Stars from all sectors of the entertainment world will be featured with a montage of film clips, theme songs, locations, photographs, stories, history, sound effects and more. Our emphasis is on television tales, movie moments and musical memories.\nAbout\n\nThe best Hollywood Tour with a unique experience. This tour is a state of the art multimedia sightseeing tour of Hollywood and Beverly Hills. We travel in a luxurious Mercedes Benz Sprinter equipped with a 32\"\" HDTV flat screen monitor and high end audio. With private tour, you have the flexibility on itinerary. We will customize the tour to fit your interest. We will always make a stop to take your picture with the iconic Hollywood sign and we'll email it to you after the tour!\n\n",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/3-Hours-Private-City-Tour-of-Los-Angeles/d645-7302P7?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/e4/65/9e.jpg",
+        "duration": 240,
+        "lengthType": "Half Day",
+        "rating": 5.0,
+        "price": 89.0,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "13:30",
+                    "08:30"
+                ]
+            },
+            {
+                "2023-08-25": [
+                    "13:30",
+                    "08:30"
+                ]
+            },
+            {
+                "2023-08-26": [
+                    "13:30",
+                    "08:30"
+                ]
+            },
+            {
+                "2023-08-27": [
+                    "13:30",
+                    "08:30"
+                ]
+            },
+            {
+                "2023-08-28": [
+                    "13:30",
+                    "08:30"
+                ]
+            },
+            {
+                "2023-08-29": [
+                    "13:30",
+                    "08:30"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "279206P2",
+        "title": "Authentic 3 Hours Hollywood to Beverly Hills Tours ",
+        "description": "By using our small air conditioned vehicles, we will get you access that other companies only dream of, crafted by locals. We'll be taking along the famous walk of fame, giving you history insights from the 1920s onward. Our first stop will be at he very TOP of Hollywood\nHills for the best photos with nobody but you and our party! A very up-close and personal location. Get your Snapchat, IG, and Facebook ready. \nWe'll make you a star! Of course, we'll make a stop by the famous Beverly Hills sign and celebrity houses. All along, we'll drive through the Hollywood Hills, Beverly Hills, West Hollywood, Sunset Strip, and much more!",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/Private-tour-Bus-from-Hollywood-to-Beverly-Hills/d645-279206P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/e7/54/a7.jpg",
+        "duration": 180,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 49.0,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "312725P4",
+        "title": "From Los Angeles: Vineyard & Coastal Wine Tasting Tour",
+        "description": "Join us for a classic California wine tour adventure from Los Angeles.\n\nWine taste among the grape vines in a beautiful vineyard - and then beside a picturesque seaside harbor or the ocean, enjoying waterfront vistas. Travel in upscale, air conditioned transportation, with leather seats, tall ceilings and large picture windows for admiring the fascinating scenery, approximately 60 miles roundtrip. \n\nFun Facts: \n\n- California is the wine capital of the United States, producing over 84% of all US wine. \n\n- Over 20 million people each year visit California wineries. \nJoin us on a fun, scenic and informative wine tour and find out why! \n\nHighlights: \n- Welcome Wine Toast\n- Vineyard Wine Tasting Experience \n- Coastal Waterfront Wine Tasting Experience ",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/Santa-Barbara-Wine-Country-Tasting-Tour-Pick-Up-in-Santa-Monica-and-Los-Angeles/d645-312725P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/83/09/ab.jpg",
+        "duration": 240,
+        "lengthType": "Half Day",
+        "rating": 5.0,
+        "price": 189.0,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "10:30"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "45473P1",
+        "title": "5-Hour Hollywood Bike Tour to Downtown Los Angeles",
+        "description": "Exclusive Bike Tour fully narrated with Tour Guide Scott to famous and hidden locations from Hollywood to Grand Central Market in Downtown Los Angeles. We'll explore places like Griffith Park, Echo Park Lake, Dodgers Stadium, and Grand Central Market. See one of the Best views of the Hollywood Sign in Griffith Park with a fun nature walk. Plenty of Breaks with easy custom routes. Ride at comfortable pace through the Hollywood and Sunset Boulevard for about 16 Miles total. Follow your personal tour Guide on safe Routes to quiet Neighborhoods, and Famous areas of the City. \nHave the option to Ride an electric pedal assist metro city bike with rental purchase, included with helmet and water.\n\u2688 We'll take Metro Subway back to Hollywood for an enjoyable stress free experience. \n\u2688 Finish the Tour on the Hollywood Walk of Fame or Downtown LA.\n\u2688 30-Day LA Metro Bike Pass included with tour \n\u2688 Contact ahead for any inquiries IG: BikeToursHollywood ",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/Hollywood-Bike-Tour/d645-45473P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/5b/cb/f3.jpg",
+        "duration": 360,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 140.0,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "10:00"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "261875P1",
+        "title": "Discover LA in a classic Cadillac Eldorado ",
+        "description": "Yes, everyone drives in Los Angeles, but this experience is nontraditional\u2014 you will discover the city in a 1973 Cadillac Eldorado Convertible.",
+        "productUrl": "https://www.viator.com/tours/Los-Angeles/Discover-LA-in-a-classic-Cadillac-Eldorado/d645-261875P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/ac/08/30.jpg",
+        "duration": 180,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 455.0,
+        "availableOnDate": [
+            {
+                "2023-08-24": [
+                    "13:00",
+                    "09:00"
+                ]
+            },
+            {
+                "2023-08-25": [
+                    "13:00",
+                    "09:00"
+                ]
+            },
+            {
+                "2023-08-26": [
+                    "13:00",
+                    "09:00"
+                ]
+            },
+            {
+                "2023-08-27": [
+                    "13:00",
+                    "09:00"
+                ]
+            },
+            {
+                "2023-08-28": [
+                    "13:00",
+                    "09:00"
+                ]
+            },
+            {
+                "2023-08-29": [
+                    "13:00",
+                    "09:00"
+                ]
+            }
         ]
     }
 ]

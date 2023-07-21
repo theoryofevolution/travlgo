@@ -1,94 +1,245 @@
 [
     [
         {
-            "productCode": "317366P1",
-            "title": "Arad City Private Walking Tour",
-            "description": "Arad was once in the middle of the Austrian \u2013 Hungarian Monarchy. Germans, Hungarians, Romanians, Serbs, and Jews have lived here peacefully over the centuries and built together a culture that is hard to imagine anywhere else! \nWe will talk about the golden age dating back to the beginning of the 20th century when most of the buildings we admire today were built. We will explore the multiculturality of the city through the stories about those who inhabited it and we will learn about heroes undressed by their uniforms in the Romanian \u2013 Hungarian Reconciliation Park! History, architecture and the stories of those who walked this way and lived over the centuries in a fascinating environment!\n",
+            "productCode": "52887P2",
+            "title": "Pretty Gritty Arts District Bike Tour",
+            "description": "An Arts District BIKE tour allows you to see so much more of this under the radar, trendy neighborhood. Just past Little Tokyo, L.A.\u2019s hottest neighborhood, The Arts District, is full of galleries, tech-industry, nightlife, murals, history, architecture, shopping, breweries, and restaurants. We visit Hauser and Wirth Gallery, Sci-Arc, Bloom\u2019s Square, Warner Brother\u2019s Music, Art Share, La Kretz Innovation Campus, The American Hotel, some of L.A.\u2019s best restaurants and many more surprising locations. You\u2019ll hear about the origins, history, new development and current status of The Art\u2019s District. This tour breaks at galleries and shopping, allowing participants to explore a bit on their own. This ride is perfect for visitors looking for off the beaten path, up and coming neighborhoods in DTLA. ",
             "images": [
                 {
                     "imageSource": "SUPPLIER_PROVIDED",
-                    "caption": "The tower of the Town hall, built in 1876",
+                    "caption": "Artist: Royyal Dog",
                     "isCover": true,
                     "variants": [
                         {
                             "height": 50,
                             "width": 50,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 100,
                             "width": 100,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 200,
                             "width": 200,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 400,
                             "width": 400,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 40,
                             "width": 60,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 80,
                             "width": 120,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 120,
                             "width": 180,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 160,
                             "width": 240,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 240,
                             "width": 360,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 320,
                             "width": 480,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 360,
                             "width": 540,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 446,
                             "width": 674,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 480,
                             "width": 720,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 118,
                             "width": 210,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 75,
                             "width": 75,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0f/ec/0c/6a.jpg"
                         },
                         {
                             "height": 109,
                             "width": 154,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0b/ed/cb/7b.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0f/ec/0c/6a.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 3,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 35,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 38,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 150
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 65.0,
+                    "fromPriceBeforeDiscount": 65.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/Pretty-Gritty-Arts-District-Tours/d645-52887P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21946,
+                21951,
+                21702,
+                21960,
+                21949,
+                12029,
+                21959,
+                21954,
+                21948,
+                21860,
+                12028,
+                21972,
+                11911
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "371630P1",
+            "title": "The Escape Game LA: Epic 60-Minute Adventures",
+            "description": "Located in Westfield Century City, these adventures offer a one-of-a-kind premium experience. Follow clues and solve puzzles to complete your mission together. You might escape...You WILL have fun!\n\nChoose to play one of four uniquely immersive games:\n- Prison Break: Complete a daring escape from the evil warden!\n- Special Ops: Mysterious Market: Uncover the truth as a secret agent!\n- The Heist: Recover a stolen masterpiece from an art thief!\n- The Depths: Go on an underwater mission in a submarine!",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Prison Break",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0f/b0/fc/8b.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0f/b0/fc/8b.jpg"
                         }
                     ]
                 }
@@ -97,42 +248,198 @@
                 "sources": [
                     {
                         "provider": "TRIPADVISOR",
-                        "totalCount": 1,
+                        "totalCount": 34,
                         "averageRating": 5.0
                     }
                 ],
-                "totalReviews": 1,
+                "totalReviews": 34,
                 "combinedAverageRating": 5.0
             },
             "duration": {
-                "variableDurationFromMinutes": 120,
-                "variableDurationToMinutes": 180
+                "fixedDurationInMinutes": 75
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "ACTIVITY",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 43.99,
+                    "fromPriceBeforeDiscount": 43.99
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/The-Escape-Game-LA-Epic-60-Minute-Adventures/d645-371630P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                20217,
+                21953,
+                22143,
+                21951,
+                20212,
+                21860,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "55860P7",
+            "title": "20-Min PRIVATE Lamborghini Drive from Hollywood to Sunset Blvd",
+            "description": "In this private tour, explore the Hollywood attractions behind the wheel of an exotic sports car. Experience 20 minutes of thrill as you and your guide drive throughout the city. Test drive\u00a0a\u00a0Lamborghini Huracan on the Hollywood Walk of Fame, along the streets of the city, on a sightseeing tour in Hollywood and feel the adrenaline of driving such a powerful vehicle! Experience 20 minutes of thrill as you and your guide drive throughout the city.",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Hollywood to Sunset Lamborghini driving tour\n",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/10/7f/7b/1d.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/10/7f/7b/1d.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 2,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 29,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 31,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 20
             },
             "confirmationType": "INSTANT",
             "itineraryType": "STANDARD",
             "pricing": {
                 "summary": {
-                    "fromPrice": 74.17,
-                    "fromPriceBeforeDiscount": 74.17
+                    "fromPrice": 139.0,
+                    "fromPriceBeforeDiscount": 139.0
                 },
                 "currency": "USD"
             },
-            "productUrl": "https://www.viator.com/tours/Arad/Arad-City-Tour/d25907-317366P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/Test-drive-a-2018-Lamborghini-Huracan-Spider/d645-55860P7?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
             "destinations": [
                 {
-                    "ref": "25907",
+                    "ref": "645",
                     "primary": true
                 }
             ],
             "tags": [
-                12029,
-                21959,
-                21948,
+                21957,
+                21953,
+                21958,
+                11930,
+                20206,
+                21956,
+                21733,
                 21951,
-                12046,
-                12028,
+                11923,
+                21955,
+                21960,
+                21949,
+                21959,
+                21954,
+                21736,
+                21948,
+                21952,
+                21950,
                 11941,
-                21949
+                21972
             ],
             "flags": [
                 "FREE_CANCELLATION",
@@ -144,9 +451,9 @@
             }
         },
         {
-            "productCode": "268155P68",
-            "title": "Arad to Bucharest - Private Guided Transfer - Car and Driver",
-            "description": "Just let us know the time and the place from where we should pick you up!\n\nOUR SERVICE GUARANTEES:\n\u2022 Discretion \n\u2022 Useful tips and information regarding any activities you have planned \n\u2022 Flexibility \n\nIt should not surprise you that with us you get a private driver whose only purpose is to make your trip memorable, in a positive way :)",
+            "productCode": "55860P2",
+            "title": "50 min PRIVATE Ferrari California driving tour to Hollywood Sign",
+            "description": "In this 50 minutes private tour, take our Ferrari California for a spin all the way from the Walk of Fame to Mulholland Drive, where you will get breathtaking views of the city. Stop up close to the Hollywood Sign for unique pictures with the Ferrari and the Hollywood Sign behind you.\nOur knowledgeable tour guides will share interesting facts and stories about Hollywood history along the way. Make your trip to Hollywood unforgettable with this one-of-a-kind driving experience! \nOn that sightseeing tour you will feel the adrenaline such a powerful Super car! \n",
             "images": [
                 {
                     "imageSource": "SUPPLIER_PROVIDED",
@@ -156,82 +463,82 @@
                         {
                             "height": 50,
                             "width": 50,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 100,
                             "width": 100,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 200,
                             "width": 200,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 400,
                             "width": 400,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 40,
                             "width": 60,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 80,
                             "width": 120,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 120,
                             "width": 180,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 160,
                             "width": 240,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 240,
                             "width": 360,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 320,
                             "width": 480,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 360,
                             "width": 540,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 446,
                             "width": 674,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 480,
                             "width": 720,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 118,
                             "width": 210,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 75,
                             "width": 75,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0a/46/78/e5.jpg"
                         },
                         {
                             "height": 109,
                             "width": 154,
-                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0a/e4/59/da.jpg"
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0a/46/78/e5.jpg"
                         }
                     ]
                 }
@@ -240,39 +547,1232 @@
                 "sources": [
                     {
                         "provider": "TRIPADVISOR",
-                        "totalCount": 1,
+                        "totalCount": 25,
                         "averageRating": 5.0
                     }
                 ],
-                "totalReviews": 1,
+                "totalReviews": 25,
                 "combinedAverageRating": 5.0
             },
             "duration": {
-                "variableDurationFromMinutes": 420,
-                "variableDurationToMinutes": 480
+                "fixedDurationInMinutes": 50
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 189.0,
+                    "fromPriceBeforeDiscount": 189.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/Private-Hollywood-Sign-Driving-Tour-in-a-Lamborghini-Gallardo/d645-55860P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21957,
+                21953,
+                21958,
+                11930,
+                20206,
+                21956,
+                21733,
+                21951,
+                11923,
+                21955,
+                21960,
+                21949,
+                21959,
+                21954,
+                21736,
+                21948,
+                21952,
+                21860,
+                21950,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "279206P4",
+            "title": "Celebrity and Lifestyle Hollywood Bus Tour",
+            "description": "Only in town for a short time? This is the perfect tour for you! Our 90 min tour is designed to give a nice overview of Hollywood and the surrounding areas in a short period of time. Thanks to our open-air buses and their unobstructed views, we get to see a lot without having to ever get off the bus. \n\nTravelling with an onboard guide, you'll pass by all the must-sees attractions such as the Walk of Fame, Hollywood Sign, Beverly Hills, Rodeo Drive, and the celebrity houses with live commentary. Multiple departures throughout the day.",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0f/67/ed/b5.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0f/67/ed/b5.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 1,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 24,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 25,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "variableDurationFromMinutes": 90,
+                "variableDurationToMinutes": 120
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 29.0,
+                    "fromPriceBeforeDiscount": 29.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/90-min-Celebrity-and-Lifestyle-Hollywood-Tour/d645-279206P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12029,
+                12030,
+                21954,
+                21953,
+                11930,
+                21956,
+                22143,
+                21860,
+                21955,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "169203P5",
+            "title": "Private Ferrari Driving Tour from Hollywood to Sunset",
+            "description": "This is your time to shine like a star! \nIt a unique and amazing way to discover the Hollywood Walk of Fame.\nYou'll drive a Ferrari California (no deposit required) and driver insurance is included.\nAll you need is a valid driver license and be at least 18 years old to drive (if not we can drive you). \nDriving a Ferrari on the Hollywood walk of fame, up to Sunset Plaza. Along the drive, you will discover the star's favorite hangouts and many more spots...\nThis will be the best drive of your life. You will be driving and you will be assisted by a trained copilot to guide you thru this one of kind experience.\n\n",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "BEVERLY HILLS SIGN",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0b/26/58/09.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0b/26/58/09.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 23,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 23,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 20
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "ACTIVITY",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 109.0,
+                    "fromPriceBeforeDiscount": 109.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/FERRARI-California-T-Hollywood-to-Sunset-PRIVATE-Tour/d645-169203P5?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21957,
+                21953,
+                21958,
+                21956,
+                21761,
+                21951,
+                11923,
+                21955,
+                21960,
+                21949,
+                21959,
+                21954,
+                21948,
+                21952,
+                21950,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "PRIVATE_TOUR"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "175311P5",
+            "title": "Private SURF LESSON at Venice",
+            "description": "Our private surfing lessons offer a unique and personalized learning experience for all skill levels. With one-on-one instruction from our experienced and certified surf coaches, you'll receive tailored feedback and guidance to improve your technique and confidence in the water.\n\nWhether you're a beginner looking to catch your first wave or an experienced surfer seeking to refine your skills, our lessons are designed to meet your specific goals and needs. We use the latest equipment and techniques to ensure your safety and comfort, and our flexible scheduling allows you to learn at your own pace and convenience.\n\nBook your private surfing lesson today and experience the thrill of riding the waves like a pro!",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/10/7a/f4/08.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/10/7a/f4/08.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 22,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 22,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 120
             },
             "confirmationType": "INSTANT",
             "itineraryType": "UNSTRUCTURED",
             "pricing": {
                 "summary": {
-                    "fromPrice": 433.62,
-                    "fromPriceBeforeDiscount": 433.62
+                    "fromPrice": 138.0,
+                    "fromPriceBeforeDiscount": 138.0
                 },
                 "currency": "USD"
             },
-            "productUrl": "https://www.viator.com/tours/Arad/Private-Guided-Transfer-from-Arad-to-Bucharest/d25907-268155P68?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/Private-SURF-LESSON-at-Venice/d645-175311P5?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
             "destinations": [
                 {
-                    "ref": "25907",
+                    "ref": "645",
                     "primary": true
                 }
             ],
             "tags": [
-                20248,
-                21957,
+                21720,
+                21946,
+                22143,
+                11923,
+                12041,
+                20254,
+                21860,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "7302P7",
+            "title": "City Tour of Los Angeles, Hollywood and Beverly Hills",
+            "description": "4 hours private tour of Los Angeles. 8 years award winning from TripAdvisor! Our tour focuses on Hollywood's legendary stars, past and present. Stars from all sectors of the entertainment world will be featured with a montage of film clips, theme songs, locations, photographs, stories, history, sound effects and more. Our emphasis is on television tales, movie moments and musical memories.\nAbout\n\nThe best Hollywood Tour with a unique experience. This tour is a state of the art multimedia sightseeing tour of Hollywood and Beverly Hills. We travel in a luxurious Mercedes Benz Sprinter equipped with a 32\"\" HDTV flat screen monitor and high end audio. With private tour, you have the flexibility on itinerary. We will customize the tour to fit your interest. We will always make a stop to take your picture with the iconic Hollywood sign and we'll email it to you after the tour!\n\n",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0b/e4/65/9e.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0b/e4/65/9e.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 10,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 10,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 20,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 240
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 89.0,
+                    "fromPriceBeforeDiscount": 89.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/3-Hours-Private-City-Tour-of-Los-Angeles/d645-7302P7?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21946,
+                11930,
+                11938,
+                12075,
+                21734,
+                11929,
+                21860,
+                20224
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "279206P2",
+            "title": "Authentic 3 Hours Hollywood to Beverly Hills Tours ",
+            "description": "By using our small air conditioned vehicles, we will get you access that other companies only dream of, crafted by locals. We'll be taking along the famous walk of fame, giving you history insights from the 1920s onward. Our first stop will be at he very TOP of Hollywood\nHills for the best photos with nobody but you and our party! A very up-close and personal location. Get your Snapchat, IG, and Facebook ready. \nWe'll make you a star! Of course, we'll make a stop by the famous Beverly Hills sign and celebrity houses. All along, we'll drive through the Hollywood Hills, Beverly Hills, West Hollywood, Sunset Strip, and much more!",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Hold the sign like this....",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0f/e7/54/a7.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0f/e7/54/a7.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 15,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 5,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 20,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 180
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 49.0,
+                    "fromPriceBeforeDiscount": 49.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/Private-tour-Bus-from-Hollywood-to-Beverly-Hills/d645-279206P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12029,
+                11930,
+                22143,
+                22083,
+                11929,
+                21860,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "312725P4",
+            "title": "From Los Angeles: Vineyard & Coastal Wine Tasting Tour",
+            "description": "Join us for a classic California wine tour adventure from Los Angeles.\n\nWine taste among the grape vines in a beautiful vineyard - and then beside a picturesque seaside harbor or the ocean, enjoying waterfront vistas. Travel in upscale, air conditioned transportation, with leather seats, tall ceilings and large picture windows for admiring the fascinating scenery, approximately 60 miles roundtrip. \n\nFun Facts: \n\n- California is the wine capital of the United States, producing over 84% of all US wine. \n\n- Over 20 million people each year visit California wineries. \nJoin us on a fun, scenic and informative wine tour and find out why! \n\nHighlights: \n- Welcome Wine Toast\n- Vineyard Wine Tasting Experience \n- Coastal Waterfront Wine Tasting Experience ",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/11/83/09/ab.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/11/83/09/ab.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 1,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 19,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 20,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 240
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 189.0,
+                    "fromPriceBeforeDiscount": 189.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/Santa-Barbara-Wine-Country-Tasting-Tour-Pick-Up-in-Santa-Monica-and-Los-Angeles/d645-312725P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                22111,
+                21953,
+                11930,
                 21956,
+                21951,
+                21574,
                 21955,
-                20238
+                21911,
+                21954,
+                11929,
+                21860,
+                11891,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "45473P1",
+            "title": "5-Hour Hollywood Bike Tour to Downtown Los Angeles",
+            "description": "Exclusive Bike Tour fully narrated with Tour Guide Scott to famous and hidden locations from Hollywood to Grand Central Market in Downtown Los Angeles. We'll explore places like Griffith Park, Echo Park Lake, Dodgers Stadium, and Grand Central Market. See one of the Best views of the Hollywood Sign in Griffith Park with a fun nature walk. Plenty of Breaks with easy custom routes. Ride at comfortable pace through the Hollywood and Sunset Boulevard for about 16 Miles total. Follow your personal tour Guide on safe Routes to quiet Neighborhoods, and Famous areas of the City. \nHave the option to Ride an electric pedal assist metro city bike with rental purchase, included with helmet and water.\n\u2688 We'll take Metro Subway back to Hollywood for an enjoyable stress free experience. \n\u2688 Finish the Tour on the Hollywood Walk of Fame or Downtown LA.\n\u2688 30-Day LA Metro Bike Pass included with tour \n\u2688 Contact ahead for any inquiries IG: BikeToursHollywood ",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Explore Los Angeles on this fun Hollywood Bike Tour to Downtown LA",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/10/5b/cb/f3.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/10/5b/cb/f3.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 1,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 15,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 16,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "variableDurationFromMinutes": 300,
+                "variableDurationToMinutes": 360
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 140.0,
+                    "fromPriceBeforeDiscount": 140.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/Hollywood-Bike-Tour/d645-45473P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21957,
+                21953,
+                21946,
+                21956,
+                21951,
+                21702,
+                21439,
+                20252,
+                21960,
+                12030,
+                21954,
+                12046,
+                11929,
+                11941,
+                11911
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "PRIVATE_TOUR"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "261875P1",
+            "title": "Discover LA in a classic Cadillac Eldorado ",
+            "description": "Yes, everyone drives in Los Angeles, but this experience is nontraditional\u2014 you will discover the city in a 1973 Cadillac Eldorado Convertible.",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0a/ac/08/30.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0a/ac/08/30.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 12,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 3,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 15,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 180
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 455.0,
+                    "fromPriceBeforeDiscount": 455.0
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Los-Angeles/Discover-LA-in-a-classic-Cadillac-Eldorado/d645-261875P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "645",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                20206,
+                22143,
+                11929,
+                11941
             ],
             "flags": [
                 "FREE_CANCELLATION",
