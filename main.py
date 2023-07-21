@@ -22,7 +22,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.image("travlgo_logo_v3.png")
+st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
 
 text_header = 'Please enter in the information below for an optimized experience.'
 st.markdown(f'<p style="color:#FFFFFF;font-size:20px;border-radius:2%;">{text_header}</p>', unsafe_allow_html=True)
