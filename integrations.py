@@ -161,6 +161,8 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     response_custom = requests.post(url, headers=header, json=custom_payload)
     custom_activities = response_custom.json()
     custom_data.append(custom_activities['products'])
+    with open("custom.json", "w") as file:
+        json.dump(custom_data, file, indent=4)
     matched = {}
 
     for data in activities_data[0]:

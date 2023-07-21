@@ -17,16 +17,16 @@ with open('destinations.json') as file:
 
 st.set_page_config(
     page_title="travlgo",
-    page_icon="travlgo_final_logo.png",
+    page_icon="travlgo_logo_v2.png",
     layout="centered",
     initial_sidebar_state="expanded",
 )
 
-st.sidebar.image("travlgo_final_logo.png", use_column_width=True)
+st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
 
 st.title('Welcome to travlgo!')
 text_header = 'Please enter in the information below for an optimized experience.'
-st.subheader('For families who love to travel, travlgo is the smart travel assistant that takes away the hassle and time in trip planning with personalized, fully curated plans you can book within seconds.')
+st.subheader("For families who love to travel, travlgo is the smart travel assistant that handles all the hassles of trip planning. With personalized, fully curated plans you can book within seconds, your dream vacation is just a click away!")
 st.markdown(f'<p style="color:#000000;font-size:20px;border-radius:2%;">{text_header}</p>', unsafe_allow_html=True)
 
 global submitted
@@ -35,7 +35,7 @@ global submitted
 with st.form("my_form"):
 
     initial_destination = st.selectbox('**Destination**', options = [""] + destinations.destination_names, format_func=lambda x: '' if x == '' else x)
-    start_date = st.date_input('**Arrival Date**')
+    start_date = st.date_input('**Arrival Date**', min_value = starter)
     end_date = st.date_input('**Departure  Date**', value=start_date+timedelta(days=3), min_value=start_date+timedelta(days=2))
 
     user_tags = st.multiselect(
@@ -67,4 +67,4 @@ if submitted:
                     st.write("Ends at: ", activity['endTime'])
                     st.markdown("**_[To book this event, please click me!](%s)_**" % activity['productUrl'])
                     st.write("\n\n")
-        st.balloons()            
+        st.balloons()
