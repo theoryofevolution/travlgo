@@ -1,214 +1,172 @@
 [
     {
-        "productCode": "240108P4",
-        "title": "Cave Tubing & Xunantunich (Mayan Ruins) From Placencia",
-        "description": "We will visit one of the most impressive Mayan Ruins in Belize, Xunantunich! Float through mysterious limestone archways beckoning you into the mouths of centuries-old caves, holding untold stories of Maya rituals. Explore the many breathtaking formations designed by only nature and learn about the ancient rituals and ceremonies that are a part of their mystique and magic.",
-        "productUrl": "https://www.viator.com/tours/Placencia/Cave-Tubing-and-Xunantunich-Mayan-Ruins/d23725-240108P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/3a/35/e3.jpg",
-        "duration": 600,
-        "lengthType": "Full Day",
+        "productCode": "228953P4",
+        "title": "The Mafia Adventure Escape Room",
+        "description": "In hot pursuit of notorious outlaws Bonnie and Clyde, your posse ducks into their last known whereabouts: a jazz club in Hell's Half Acre, Fort Worth's thriving gambling district. Explore all the secrets of the speakeasy rumored to be owned by the local mafia and track down Bonnie and Clyde before they give you the slip.",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/The-Mafia-Adventure/d33749-228953P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/27/21/38.jpg",
+        "duration": 60,
+        "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 200.0,
+        "price": 32.48,
+        "availableOnDate": [
+            {
+                "2023-08-03": [
+                    "16:30",
+                    "19:30",
+                    "15:00"
+                ]
+            },
+            {
+                "2023-08-04": [
+                    "16:30",
+                    "19:30",
+                    "15:00"
+                ]
+            },
+            {
+                "2023-08-05": [
+                    "16:30",
+                    "19:30",
+                    "15:00"
+                ]
+            },
+            {
+                "2023-08-06": [
+                    "13:30",
+                    "15:00",
+                    "18:00",
+                    "12:00",
+                    "21:00",
+                    "10:30",
+                    "16:30",
+                    "19:30"
+                ]
+            },
+            {
+                "2023-08-07": [
+                    "16:30",
+                    "19:30",
+                    "15:00"
+                ]
+            },
+            {
+                "2023-08-08": [
+                    "16:30",
+                    "19:30",
+                    "15:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "228953P3",
+        "title": "The Witch's Tower Adventure Escape Room",
+        "description": "Step into the role of Fairy Tale heroes on a quest to save the land from falling into eternal darkness. In the courtyard of the witch's tower, you'll try to find a way into her lair and steal powerful artifacts, with the magical creatures of the realm helping you on your adventure.",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/The-Witchs-Tower-Adventure/d33749-228953P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/27/20/b2.jpg",
+        "duration": 60,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 32.48,
         "availableOnDate": [
             "Nothing Found",
+            "Nothing Found",
+            {
+                "2023-08-05": [
+                    "13:30",
+                    "15:00",
+                    "18:00",
+                    "12:00",
+                    "21:00",
+                    "10:30",
+                    "16:30",
+                    "19:30"
+                ]
+            },
+            {
+                "2023-08-06": [
+                    "13:30",
+                    "15:00",
+                    "18:00",
+                    "12:00",
+                    "21:00",
+                    "10:30",
+                    "16:30",
+                    "19:30"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "59892P6",
+        "title": "Bikes and BBQ: Electric Bike Tour of Fort Worth",
+        "description": "Experience a live longhorn cattle drive and enjoy Texas BBQ on a fun 3-hour guided Pedego electric bike tour of Fort Worth - where the West begins!\n\nWe\u2019ll go sightseeing downtown, stopping at the Fort Worth Water Gardens, JFK Tribute, Sundance Square Plaza, and more. Then we\u2019ll ride to Panther Island and take the Trinity Trails to arrive in the historic Stockyards for the Herd Cattle Drive and lunch at Cooper\u2019s Old Time Pit Bar-B-Que. Lunch is included in the ticket price.",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Bike-and-BBQ-Electric-Bike-Tour-of-Fort-Worth/d33749-59892P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/3d/6a/b3.jpg",
+        "duration": 180,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 125.0,
+        "availableOnDate": [
+            {
+                "2023-08-03": [
+                    "10:00"
+                ]
+            },
+            {
+                "2023-08-04": [
+                    "10:00"
+                ]
+            },
+            {
+                "2023-08-05": [
+                    "10:00"
+                ]
+            },
             "Nothing Found",
             "Nothing Found",
             "Nothing Found"
         ]
     },
     {
-        "productCode": "105141P14",
-        "title": "Snorkeling at Silk and Moho Caye",
-        "description": "Dive into the ultimate underwater adventure around the stunning Silk Caye! Swim with the friendly nurse sharks, graceful sea turtles, and sleek sting rays in their natural habitat. And that's not all \u2013 you'll also get to soak up some sun on this pristine island paradise. After working up an appetite, indulge in a mouth-watering lunch lovingly cooked by your guides on the gorgeous Moho Caye. Once you've refueled, the snorkeling fun continues around the breathtaking Moho Caye. Don't miss this chance to experience the magic of Belize's aquatic wonders!",
-        "productUrl": "https://www.viator.com/tours/Placencia/Snorkeling-at-Silk-and-Moho-Caye/d23725-105141P14?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/3d/97/d9.jpg",
-        "duration": 420,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 140.63,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "240108P1",
-        "title": "Combine 2 of Belizes most popular activities into 1 great package from Placencia",
-        "description": "We will visit one of the most impressive Mayan Ruins in Belize, Xunantunich! Float through mysterious limestone archways beckoning you into the mouths of centuries-old caves, holding untold stories of Maya rituals. Explore the many breathtaking formations designed by only nature and learn about the ancient rituals and ceremonies that are a part of their mystique and magic.",
-        "productUrl": "https://www.viator.com/tours/Placencia/Combine-2-of-Belizes-most-popular-activities-into-one-great-package/d23725-240108P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/3a/35/e5.jpg",
-        "duration": 600,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 200.0,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "07:00"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "07:00"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "07:00"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "07:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "240108P8",
-        "title": " ATM Caves ",
-        "description": "ATM is the crown jewel of all of Belize\u2019s archaeological treasure. This is one of the most unforgettable and adventurous underground tours you can make in Belize. The guided trip into ATM takes you deep into the underworld that the ancient Maya knew as Xibalba.\n\nWe\u2019ll start with a 2 hours drive to the village of Teakettle. From there, we\u2019ll turn off into the Tapir Mountain Nature Reserve and pass through mahogany groves and orchards. \n\nThe tour requires climbing and swimming as well as crawling through small spaces. The cave is extensively decorated with cave formations in the upper passages, dry chambers which lead to the cathedral-like main hall, a towering chamber 350 meters in length and 50 meters wide and filled with artifacts and sacrificial remains. Visitors remove shoes and explore the cave in socks only, to protect the artifacts on the cave floor. After this, another climb takes you to the stone sepulchre (after which the cave is named) where the Crystal Maiden lies.\n\n",
-        "productUrl": "https://www.viator.com/tours/Placencia/Visit-the-MOST-sacred-cave-in-the-world-ATM-CAVES/d23725-240108P8?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/94/52/d3.jpg",
-        "duration": 540,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 200.0,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "06:15"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "06:15"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "06:15"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "06:15"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "240108P2",
-        "title": "Zip Lining + River Tubing +Waterfall 30 minutes away",
-        "description": "Just under a hour outside of Placencia Village, we\u2019ll arrive at Mayan King. We\u2019ll enjoy seven 7 zip Lines and a couple bridges, enjoying the views from as high as 400 feet into the tree tops. The longest line is 1300 feet. The lines crisscross over the river and valley below. This tour is easy for all ages. Children are welcome but may need to go tandem with another rider or guide.\nThen we\u2019ll take a short hike down to the river. We\u2019ll ride the river for about 45 minutes through mostly calm waters, with a few quick rapids along the way. For safety, life jackets and helmets are provided. We\u2019ll also have two guides \u2013 one at the beginning and one at the end of our group \u2013 to help navigate the waters.\nFinally, we take a short drive to the waterfall \u2013 enjoy the pristine beauty and tranquil atmosphere of the natural waterfall. If you\u2019re feeling adventurous, we\u2019ll hike up to the second falls or you can relax by the pool (or even take a dip if you\u2019re up to it!).",
-        "productUrl": "https://www.viator.com/tours/Placencia/Best-Combination-Package-in-Southern-Belize/d23725-240108P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0c/06/22/af.jpg",
+        "productCode": "123176P8",
+        "title": "Fort Worth Highlights Tour",
+        "description": "Experience Fort Worth \u201cWhere The West Begins.\u201d Cowboys. Indians. Cattle. Oil. The History of Fort Worth reads like the history of the American West! Explore Fort Worth's true Western Heritage during your visit in downtown's Sundance Square and the Stockyards National Historic District.\n* JFK Tribute\n* Sundance Square, historic downtown\n* Sid Richardson Museum\n* Fort Worth Historic Stockyards\n* Fort Worth Stockyards daily Texas Longhorn Cattle Drive\n* Cowtown Coliseum\n* Livestock Exchange\n* White Elephant Saloon\n* Fincher's Whitefront Western Wear\n* AT&T Stadium \"Dallas Cowboys\"\n\n",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Fort-Worth-Highlights-Tour/d33749-123176P8?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/9f/71/c7.jpg",
         "duration": 300,
         "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 250.0,
+        "price": 240.0,
         "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
             {
-                "2023-07-22": [
-                    "08:00"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "08:00"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "08:00"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "08:00"
+                "2023-08-08": [
+                    "09:00"
                 ]
             }
         ]
     },
     {
-        "productCode": "240108P6",
-        "title": "Mayan Chocolate Making & Waterfall Swimming From Placencia",
-        "description": "This half day tour of chocolate making starts from the cacao tree and ends with a Mayan chocolate bar in your hands. you will visit a small cacao farm where the farmer gives you a complete history of his organic cacao farm and detailed explanation of how the beans are extracted from the pods.Immediately after the farm we head Back to the small-indoors chocolate facility where you will learn how to make your own chocolate on traditional grinding stones. To top off the day we stop at a nearby waterfall. ",
-        "productUrl": "https://www.viator.com/tours/Placencia/Mayan-Chocolate-Making-and-Waterfall-Swimming/d23725-240108P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/86/37/c2.jpg",
-        "duration": 240,
-        "lengthType": "Half Day",
+        "productCode": "59892P1",
+        "title": "Electric Bike 2-Hour Rental",
+        "description": "A Pedego Electric Bike is the best way to experience all that Fort Worth has to offer -- from the eclectic Near Southside, to Sundance Square Downtown, to the historic Stockyards.\n\nA Pedego is just like a regular bike only better. You can pedal normally and get power when you want it. It feels like being a kid again!",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Self-Guided-Electric-Bike-Tour/d33749-59892P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/a7/99/17.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 120.0,
+        "price": 55.0,
         "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "08:00"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "08:00"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "08:00"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "08:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "92428P23",
-        "title": "PRIVATE Xunantunich Mayan Ruin & Cave Tubing adventure from Placencia",
-        "description": "An excellent choice for all ages in your family. There is something for everyone to do and enjoy from the moment you are picked up; with unlimited sight-seeing until you are returned to your drop off point. Experience two of Belize's top three rated excursions in one trip.",
-        "productUrl": "https://www.viator.com/tours/Placencia/Xunantunich-Mayan-Ruin-and-Cave-Tubing-adventure-from-Placencia/d23725-92428P23?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/26/19/b1.jpg",
-        "duration": 450,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 269.0,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "07:00"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "07:00"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "07:00"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "07:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "105141P6",
-        "title": "Zip Lining, River Tubing and Waterfall Tour at Maya Sky",
-        "description": "Experience the thrill of zip lining on the longest, safest, and most thrilling zip line in the tropical forests of Belize. Seven lines high above the jungle canopy and Stann Creek.\n\nThen cool off with a 45-minute trip down the South Stann Creek, complete with easy rapids and beautiful views.\n\nFinish your activity with a trip to the Mayan King waterfall \u2013 enjoy lunch and take a dip in the pristine waters at the base of the falls, or just sit and enjoy the serenity of the falls.",
-        "productUrl": "https://www.viator.com/tours/Placencia/Zip-Lining-River-Tubing-and-Waterfall-Tour-at-Maya-Sky/d23725-105141P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0d/a5/15/f4.jpg",
-        "duration": 420,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 219.38,
-        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
             "Nothing Found",
             "Nothing Found",
             "Nothing Found",
@@ -216,16 +174,123 @@
         ]
     },
     {
-        "productCode": "105141P12",
-        "title": "Cave Tubing at Jaguar Paw",
-        "description": "Buckle up for an epic adventure as you embark on a scenic 100-mile drive through the lush hills of Belize. Your destination? Jaguar Paw, where you'll journey deep into the heart of ancient Maya culture. After a short hike, you'll enter a world cloaked in mystery and intrigue. Prepare to be wowed as you float through majestic limestone archways, deftly navigating your way through centuries-old caves shrouded in stories of Maya rituals. Your senses will be fully awakened as you take in the breathtaking formations created by Mother Nature herself. Listen closely as your guide shares the secrets and ancient ceremonies that make these caves so captivating and magical. This is a journey you won't want to miss!",
-        "productUrl": "https://www.viator.com/tours/Placencia/Cave-Tubing-at-Jaguar-Paw/d23725-105141P12?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/30/a2/01.jpg",
-        "duration": 360,
-        "lengthType": "Full Day",
+        "productCode": "62305P5",
+        "title": "Cowtown Cycle Party for 6-15 Adults",
+        "description": "The Cowtown Cycle Party is the first, the original, BYOB party bike - celebrating ten years in Fort Worth! During a two hour Cycle Party, you'll visit the eclectic Near Southside and Downtown Fort Worth. The big bike can carry up to 16 happy adults. Only 10 pedal at one time and there is a pedal-assist motor so it's not difficult - just fun! We recommend you have a group of at least 8 pedalers. Please book all seats for your private party. \n\nThe Cycle Party is perfect for birthdays, bachelor/bachelorette parties, corporate team-building, family reunions, or just friends getting together for a good time.",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Cowtown-Cycle-Party-for-8-16-Adults/d33749-62305P5?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0d/ff/33/08.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 174.38,
+        "price": 450.0,
         "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            {
+                "2023-08-06": [
+                    "19:30"
+                ]
+            },
+            {
+                "2023-08-07": [
+                    "20:00",
+                    "15:00",
+                    "10:00",
+                    "17:30",
+                    "12:30"
+                ]
+            },
+            {
+                "2023-08-08": [
+                    "20:00",
+                    "15:00",
+                    "10:00",
+                    "17:30",
+                    "12:30"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "157133P10",
+        "title": "Fort Worth Sundance Square Food, History, and Architecture Tour",
+        "description": "Experience Fort Worth\u2019s spectacular food, rich Western history and diverse architecture in this two-hour walking tour in and around Sundance Square. \n\nFort Worth is the hidden gem in the DFW area that is well worth the 30-minute drive from downtown Dallas. Award-winning cuisine meets Old West tradition as we explore four of the best restaurants in town. \n\nYou'll hear the story of Butch Cassidy and the Sundance Kid and visit one of the best Western art museums in the country.\n\nOur unique pay-as-you-go model lets you enjoy more of what you want for less money, a better value than comparable food tours. Simply hand the guide $35 cash on your arrival, and the guide will take care of the rest. They\u2019ll pay for the entire group at each of our four stops, minimizing wait time. Paying cash makes it easy for each restaurant to offer more food so you\u2019re guaranteed Texas-sized servings.\n\nGo west for the best of everything \u2014 you will not be disappointed and you will definitely not leave hungry!",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Fort-Worth-Sundance-Square-Food-History-and-Architecture-Tour/d33749-157133P10?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/08/9f/1e.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 44.0,
+        "availableOnDate": [
+            {
+                "2023-08-03": [
+                    "12:30"
+                ]
+            },
+            {
+                "2023-08-04": [
+                    "12:30"
+                ]
+            },
+            {
+                "2023-08-05": [
+                    "12:30"
+                ]
+            },
+            {
+                "2023-08-06": [
+                    "12:30"
+                ]
+            },
+            {
+                "2023-08-07": [
+                    "12:30"
+                ]
+            },
+            {
+                "2023-08-08": [
+                    "12:30"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "3975P1",
+        "title": "Murder Mystery Dinner and Show",
+        "description": "What's Murder Mystery Dinner Theater? A night you won't forget complete with a delicious dinner and dessert, a well-stocked cash bar, and a side-splitting show. Immerse yourself in an award-winning 90-minute murder mystery dinner theater performance set in the 1880s of the wild west of Texas. Test your investigation skills and solve the murder mystery. Take photos with the cast after the show to round out a great night of fun!",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Murder-Mystery-Dinner-and-Show/d33749-3975P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/e3/86/75.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 66.0,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            {
+                "2023-08-05": [
+                    "18:00"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "10211P5",
+        "title": "Fort Worth Scavenger Hunt Adventure",
+        "description": "Turn Fort Worth into a giant game board with this fun scavenger hunt adventure! This challenge combines the excitement of the Amazing Race with a 3-hour city walking tour. Guided from any smart phone, teams make their way among well known and overlooked gems of the city, solving clues and completing challenges while learning local history. Note: Pricing is per individual, but teams must book together in order to be included in the same adventure.",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Fort-Worth-Scavenger-Hunt-Adventure/d33749-10211P5?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/cb/07/07.jpg",
+        "duration": 180,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 20.52,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
             "Nothing Found",
             "Nothing Found",
             "Nothing Found",
@@ -233,36 +298,117 @@
         ]
     },
     {
-        "productCode": "92428P5",
-        "title": "Private Xunantunich Mayan Ruins & Inland Blue Hole Tour from Placencia",
-        "description": "This tour will leave you longing for more Belizean adventures; as you'll leave with memories you'll cherish for your lifetime. Learn ancient Mayan history and practices as you explore the majestic City of Xunantunich. You also get to visit the St. Herman's Cave and see beautiful natural formations and crystals, before cooling of in the refreshing \"Blue Hole.\" This package includes a local lunch for each passenger. The best way to spend warm days in Belize with your friends or family!",
-        "productUrl": "https://www.viator.com/tours/Placencia/Private-Inland-Blue-Hole-Tour-from-Belize-City/d23725-92428P5?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/fa/04/60.jpg",
-        "duration": 420,
-        "lengthType": "Full Day",
+        "productCode": "250794P1",
+        "title": "Lock Me If You Can Escape Room",
+        "description": "Looking for something to do as you visit Dallas Fort Worth area? Then why not let complete strangers lock you in a room for an hour (or more)? There is not a better night out then solving puzzles and finally popping that last lock and escaping to freedom. You can tell the tale to anyone passing by that you have escaped from a room that you were locked in. They may not understand, so you\u2019ll really spell it out for them.",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Escape-Room/d33749-250794P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/39/fd/3f.jpg",
+        "duration": 60,
+        "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 255.0,
+        "price": 28.99,
+        "availableOnDate": [
+            "Nothing Found",
+            {
+                "2023-08-04": [
+                    "20:30"
+                ]
+            },
+            {
+                "2023-08-05": [
+                    "14:00",
+                    "17:00",
+                    "18:30"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "228953P1",
+        "title": "The Pirate Adventure Escape Room",
+        "description": "\"The Pirate Chamber\" takes place aboard The Queen Anne's Revenge in 1718... \"The Golden Age of Piracy.\"\n\nCaptain Edward Teach, best known to history as \"Blackbeard the Pirate\", recently had his plans to sail for America disrupted by a group of sneak-thieves.\n\nThough they only managed to make off with five pieces of a worthless decoy treasure map, Blackbeard realized his secrets aren't as safe as he thought...\n\nDigging deep into his dastardly imagination, Blackbeard has deployed more devious devices to distract his detractors - All in the name of keeping the genuine treasure map containing the whereabouts of his REAL riches high and dry!\n\n\"The Pirate Chamber - Heist on the High Seas: Chapter II\" is the sequel to our critically-acclaimed original escape room experience! There are enough new clues, new puzzles, and new surprises to challenge newcomers and veterans alike!",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/The-Pirate-Adventure/d33749-228953P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/27/23/a9.jpg",
+        "duration": 60,
+        "lengthType": "Part Day",
+        "rating": 4.9666667,
+        "price": 32.48,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            {
+                "2023-08-05": [
+                    "13:00",
+                    "16:00",
+                    "14:30",
+                    "10:00",
+                    "20:30",
+                    "17:30",
+                    "19:00",
+                    "11:30"
+                ]
+            },
+            {
+                "2023-08-06": [
+                    "13:00",
+                    "16:00",
+                    "14:30",
+                    "10:00",
+                    "20:30",
+                    "17:30",
+                    "19:00",
+                    "11:30"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "314158P1",
+        "title": "Stockyards History Tour Fort Worth Pub Crawl",
+        "description": "Cowboys, cattle drives\u2026 and beer! Discover the history of Fort Worth\u2019s famous Stockyards as you visit local saloons and watering holes with an expert guide. Enjoy the hidden history, cold drinks, and good times with fellow travelers from around the globe.\n\nOn this 2 hour and 15 minute history tour pub crawl, you\u2019ll learn the exciting tales of Texas\u2019s role in the Wild West. Discover how Fort Worth earned the nickname Where The West Begins - from the creation of the Lone Star state to stories of cattle drivers blazing the Chisholm trail and even the exploits of famous train robbers!\n\nFort Worth Crawling offers two ticket options: The Happy Hour Package includes four beers or ciders of the guest\u2019s choice, and the Dry Run Ticket includes the tour but no pre-purchased drinks. With either ticket option, you can purchase drinks directly from the bars. \n\nSo hitch up your wagon and head on over to the Stockyards for the Best Pub Crawl in Texas. Cheers! \n",
+        "productUrl": "https://www.viator.com/tours/Fort-Worth/Stockyards-History-Tour-Pub-Crawl/d33749-314158P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/20/90/30.jpg",
+        "duration": 135,
+        "lengthType": "Part Day",
+        "rating": 4.83871,
+        "price": 45.0,
         "availableOnDate": [
             {
-                "2023-07-22": [
-                    "08:00"
+                "2023-08-03": [
+                    "19:00",
+                    "15:00"
                 ]
             },
             {
-                "2023-07-23": [
-                    "08:00"
+                "2023-08-04": [
+                    "19:00",
+                    "15:00"
                 ]
             },
             {
-                "2023-07-24": [
-                    "08:00"
+                "2023-08-05": [
+                    "19:00",
+                    "15:00"
                 ]
             },
             {
-                "2023-07-25": [
-                    "08:00"
+                "2023-08-06": [
+                    "19:00",
+                    "15:00"
                 ]
-            }
+            },
+            {
+                "2023-08-07": [
+                    "19:00",
+                    "15:00"
+                ]
+            },
+            "Nothing Found"
         ]
     }
 ]
