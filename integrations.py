@@ -140,28 +140,30 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     activities = response.json()
     activities_data.append(activities['products'])
 
-    custom_payload = {
-    "filtering": {
-            "destination": destination_id,
-            "tags": tag_ids,
-            "lowestPrice": 5,
-            "highestPrice": 500,
-            "startDate": str(start_date),
-            "endDate": str(end_date),
-            "includeAutomaticTranslations": True,
-            "confirmationType": "INSTANT",
-            "durationInMinutes": {"from": 20, "to": 540},
-            "rating": {"from": 3, "to": 5}
-        },
-        "sorting": {"sort": "TRAVELER_RATING", "order": "DESCENDING"},
-        "pagination": {"start": 1, "count": event_number},
-        "currency": "USD"
-    }
-    response_custom = requests.post(url, headers=header, json=custom_payload)
-    custom_activities = response_custom.json()
-    custom_data.append(custom_activities['products'])
-    matched = {}
+    for tag in tag_ids:
+        custom_payload = {
+        "filtering": {
+                "destination": destination_id,
+                "tags": [tag],
+                "lowestPrice": 5,
+                "highestPrice": 500,
+                "startDate": str(start_date),
+                "endDate": str(end_date),
+                "includeAutomaticTranslations": True,
+                "confirmationType": "INSTANT",
+                "durationInMinutes": {"from": 20, "to": 540},
+                "rating": {"from": 3, "to": 5}
+            },
+            "sorting": {"sort": "TRAVELER_RATING", "order": "DESCENDING"},
+            "pagination": {"start": 1, "count": event_number},
+            "currency": "USD"
+        }
+        response_custom = requests.post(url, headers=header, json=custom_payload)
+        custom_activities = response_custom.json()
+        custom_data.append(custom_activities['products'])
 
+    custom_data = [[item for sublist in custom_data for item in sublist]]
+    matched = {}
     for data in activities_data[0]:
         matched[data['productCode']] = data
 
@@ -189,7 +191,7 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     print("test")
     try:
         for event in extracted_values:
-            content = f"""Given the event description: {event['description']} rate it from 0.00 to 5.00 based on how good it is for a family. Only return the single number as a float. Do not apologize, or contain any words in your reponse."""
+            content = f"""Given the event description: {event['description']} rate it from 0.00 to 5.00 based on how good it is for a family with children and their interests here {user_tags}. Make sure it is kid appropriate. Only return the single number as a float. Do not apologize, or contain any words in your reponse."""
             example = "4.9"
             rating = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",

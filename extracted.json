@@ -16,11 +16,10 @@
             "Nothing Found",
             {
                 "2023-07-26": [
-                    "07:00",
-                    "08:00"
+                    "08:00",
+                    "07:00"
                 ]
-            },
-            "Nothing Found"
+            }
         ]
     },
     {
@@ -50,7 +49,6 @@
                     "09:30"
                 ]
             },
-            "Nothing Found",
             "Nothing Found"
         ]
     },
@@ -65,7 +63,6 @@
         "rating": 5.0,
         "price": 170.03,
         "availableOnDate": [
-            "Nothing Found",
             "Nothing Found",
             "Nothing Found",
             "Nothing Found",
@@ -88,26 +85,20 @@
             "Nothing Found",
             {
                 "2023-07-24": [
-                    "13:30",
-                    "10:00"
+                    "10:00",
+                    "13:30"
                 ]
             },
             {
                 "2023-07-25": [
-                    "13:30",
-                    "10:00"
+                    "10:00",
+                    "13:30"
                 ]
             },
             {
                 "2023-07-26": [
-                    "13:30",
-                    "10:00"
-                ]
-            },
-            {
-                "2023-07-27": [
-                    "13:30",
-                    "10:00"
+                    "10:00",
+                    "13:30"
                 ]
             }
         ]
@@ -147,8 +138,7 @@
                 "2023-07-26": [
                     "14:00"
                 ]
-            },
-            "Nothing Found"
+            }
         ]
     },
     {
@@ -166,23 +156,17 @@
             "Nothing Found",
             {
                 "2023-07-24": [
-                    "14:00",
-                    "10:00"
+                    "10:00",
+                    "14:00"
                 ]
             },
             {
                 "2023-07-25": [
-                    "14:00",
-                    "10:00"
+                    "10:00",
+                    "14:00"
                 ]
             },
-            "Nothing Found",
-            {
-                "2023-07-27": [
-                    "14:00",
-                    "10:00"
-                ]
-            }
+            "Nothing Found"
         ]
     },
     {
@@ -208,26 +192,20 @@
             },
             {
                 "2023-07-24": [
-                    "13:30",
-                    "10:00"
+                    "10:00",
+                    "13:30"
                 ]
             },
             {
                 "2023-07-25": [
-                    "13:30",
-                    "10:00"
+                    "10:00",
+                    "13:30"
                 ]
             },
             {
                 "2023-07-26": [
-                    "13:30",
-                    "10:00"
-                ]
-            },
-            {
-                "2023-07-27": [
-                    "13:30",
-                    "10:00"
+                    "10:00",
+                    "13:30"
                 ]
             }
         ]
@@ -263,11 +241,6 @@
                 "2023-07-26": [
                     "08:45"
                 ]
-            },
-            {
-                "2023-07-27": [
-                    "08:45"
-                ]
             }
         ]
     },
@@ -286,33 +259,32 @@
             "Nothing Found",
             {
                 "2023-07-24": [
-                    "13:00",
-                    "13:30",
-                    "15:00",
-                    "14:00",
-                    "10:00",
-                    "15:30",
-                    "11:00",
                     "10:30",
                     "14:30",
-                    "11:30"
+                    "15:00",
+                    "13:30",
+                    "11:30",
+                    "10:00",
+                    "15:30",
+                    "13:00",
+                    "14:00",
+                    "11:00"
                 ]
             },
             {
                 "2023-07-25": [
-                    "13:00",
-                    "13:30",
-                    "15:00",
-                    "14:00",
-                    "10:00",
-                    "15:30",
-                    "11:00",
                     "10:30",
                     "14:30",
-                    "11:30"
+                    "15:00",
+                    "13:30",
+                    "11:30",
+                    "10:00",
+                    "15:30",
+                    "13:00",
+                    "14:00",
+                    "11:00"
                 ]
             },
-            "Nothing Found",
             "Nothing Found"
         ]
     },
@@ -343,169 +315,292 @@
                     "09:30"
                 ]
             },
-            "Nothing Found",
             "Nothing Found"
         ]
     },
     {
-        "productCode": "114983P1",
-        "title": "Exclusive Champagne tour from Paris including 3 house visits",
-        "description": "We created your dream Champagne tour from Paris\n\nWhile crossing the country to Reims from our meeting point in Paris, your guide will share his passion and you will enjoy a nice complimentary breakfast\n\nIn Reims, you visit Champagne Mumm, with a full guided visit and a tasting of beautiful vintage. Then, we go to the Reims Cathedral, a UNESCO world heritage site, and have the opportunity to taste various local specialties\n\nFor lunch, we have selected an iconic restaurant built in the Art Deco style. The gourmet three course meal includes wine and coffee\n\nAfter a short drive to Epernay you will visit the second house of Champagne. You will be here in the heart of the Champagne vineyards. You will have the chance to see the hidden secrets of cellars and taste Champagne\n\nTo finish the day, we will walk in the lovely village of Hautvillers, where Dom Perignon created Champagne more than 3 centuries ago. Here you will visit a third house, one of the oldest family-owned vineyard.",
-        "productUrl": "https://www.viator.com/tours/Paris/Intimate-Champagne-Tour-from-Paris-by-a-local/d479-114983P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/46/0c/3b.jpg",
-        "duration": 720,
-        "lengthType": "Full Day",
-        "rating": 5.0,
-        "price": 386.84,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "40925P3",
-        "title": "Literary Women and Sweet Tastings walking tour ",
-        "description": "The first Paris walking tours devoted to women\u2019s history and influence, Women of Paris offers tours that challenge the status quo by placing women at the heart of the Paris story. Since launching in 2016, Women of Paris has received lots of coverage in the French and international media and very positive reviews. \n\nThis unique experience combines an exploration into women\u2019s imprint on the literary world, as well as a bit of sugar and spice! We'll take a stroll through Saint Germain-des-Pr\u00e9s walking in the footsteps of female writers, examining the development of the Women's Liberation Movement in France and making 4 stops along the way to taste and learn about a selection of award winning French sweets and cakes. \n\nAfter all, it wouldn't be Paris without something delicious to eat..!",
-        "productUrl": "https://www.viator.com/tours/Paris/Sugar-and-Spice-and-Women-Who-Write-walk/d479-40925P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/aa/63/f6.jpg",
-        "duration": 150,
+        "productCode": "69148P1",
+        "title": "Food tour Belleville Off the Beaten Path 10:30 am",
+        "description": "Did you know that the selection of addresses for our Food tour is carefully prepared over several months?\n- Meeting with producers/artisans\n- Visit of the production workshops\nBelleville is in the heart of the artistic village with a bohemian spirit..\nStarting at the Jourdain church, this guided tour by an expert in French gastronomy will begin with a culinary discovery, at the highest point of Paris.\nFor three hours, meet passionate local artisans, the best in their field, and taste bread and croissant, iconic Parisian travel cake, chocolates, coffee, salame or oysters. \nOn your way, settle down in a bistro for a cheese and wine pairing.Visit a baker's kitchen (according to the sanitary rules in force) Learn how to make a baguette and a real butter croissant. \nMany anecdotes will be told to you as well as our French gastronomic exception. Paris A Dream is a local company that has only one desire: to promote our French know-how and provide you with unforgettable experiences. \n",
+        "productUrl": "https://www.viator.com/tours/Paris/Food-tour-Belleville-Off-the-Beaten-Path/d479-69148P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/04/9a/c4.jpg",
+        "duration": 180,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 47.93,
+        "price": 90.15,
         "availableOnDate": [
             "Nothing Found",
             "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "44598P11",
+        "title": "Stroll a Local French market & have a picnic",
+        "description": "This perfect food lovers activity has been picked to be featured on NBC Today Show with Hoda & Jenna. Segment hosted by Donna Farizan.\nParis is known as a major gastronomical dream destination and French markets are the perfect place to begin. So, come along for an informative stroll at a lively, colorful and true local outdoor market. You'll indulge your senses\u00a0with an abundance of aromas, of colors\u00a0while sharpening your taste buds with local delights.\n\nYou'll learn informally all about this exciting aspect of our French lifestyle. With the help of your knowledgeable and personable guide, you'll use easy French\u00a0key sentences to easily interact with vendors and feel like a Parisian for the day. A convivial French picnic with wine and our selection from the market will follow at a nearby peaceful park. The perfect\u00a0reward to sprinkle up your Parisian journey. Joyfully Yours !",
+        "productUrl": "https://www.viator.com/tours/Paris/Local-French-market-and-Picnic-tour/d479-44598P11?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6c/59/1c.jpg",
+        "duration": 180,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 90.15,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "09:30"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "144878P7",
+        "title": "Paris: Small Group WineTasting Tour with Expert Sommelier ",
+        "description": "Join an expert sommelier at a contemporary private bar in the historic Montmartre neighbourhood, once home to artists and writers. Discover the captivating facets of French wine. Enjoy five delicious French wines, each with its own delicate notes and fascinating back story. Each tasting is paired with the perfect light snack. Learn how to navigate the wine shelves, about what is revolutionizing the French wine scene and the impact of climate change on the wine world,.",
+        "productUrl": "https://www.viator.com/tours/Paris/Wine-Tasting-with-Expert-Sommelier-in-the-Heart-of-Paris/d479-144878P7?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/0a/1a/26.jpg",
+        "duration": 90,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 78.74,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "16:00"
+                ]
+            },
             "Nothing Found",
             "Nothing Found",
             "Nothing Found",
             {
-                "2023-07-27": [
-                    "15:00",
-                    "11:00"
+                "2023-07-26": [
+                    "16:00"
                 ]
             }
         ]
     },
     {
-        "productCode": "398994P1",
-        "title": "Private photo session in Paris",
-        "description": "A short circuit but rather rich because it allows you to see the Eiffel Tower from a different point of view. This experience offers a short walk accompanied by a professional photographer to immortalize this dream moment",
-        "productUrl": "https://www.viator.com/tours/Paris/Private-photo-session-in-Paris/d479-398994P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/62/e7/03.jpg",
-        "duration": 30,
+        "productCode": "149678P3",
+        "title": "Unique 2 Hour Wine Tasting with a Certified Parisian Sommelier",
+        "description": "Discover and taste French wines in a choice of secret locations around Paris, truly an unforgettable fun way to experience Paris while enjoying French wines with a Paris local. \n\nYour host is a WSET Level 3 certified Sommelier, with speciality on French wines, whisky and sake. He is well known in Paris and you can't get a better Parisian host to take you through the enjoyment of French wines. \n\nOur locations are hand selected in Paris underground style secret spots that you won't know to experience if not for this wine tasting experience. It will be like meeting and having a drink with a local. What a great way to spend your time in Paris! There is no other wine tasting like this unique offering so book now and don't miss out.",
+        "productUrl": "https://www.viator.com/tours/Paris/Unique-Wine-tasting-with-a-certified-Paris-Sommelier/d479-149678P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/59/65/50.jpg",
+        "duration": 120,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 82.16,
+        "price": 90.15,
         "availableOnDate": [
             {
                 "2023-07-22": [
-                    "15:00",
-                    "13:00",
-                    "09:00",
-                    "08:00",
-                    "12:00",
-                    "14:00",
-                    "10:00",
-                    "17:00",
-                    "07:00",
-                    "11:00",
-                    "20:00",
                     "16:00",
-                    "19:00",
-                    "18:00"
+                    "12:30"
                 ]
             },
             {
                 "2023-07-23": [
-                    "15:00",
-                    "13:00",
-                    "09:00",
-                    "08:00",
-                    "12:00",
-                    "14:00",
-                    "10:00",
-                    "17:00",
-                    "07:00",
-                    "11:00",
-                    "20:00",
                     "16:00",
+                    "12:30"
+                ]
+            },
+            {
+                "2023-07-24": [
+                    "16:00",
+                    "12:30"
+                ]
+            },
+            {
+                "2023-07-25": [
+                    "16:00",
+                    "12:30"
+                ]
+            },
+            {
+                "2023-07-26": [
+                    "16:00",
+                    "12:30"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "342368P1",
+        "title": "Explore Hidden bars and Speakeasies in Paris",
+        "description": "Paris offers a lot of speakeasy bars for night owls, follow us through these hidden bars and enjoy a night full of adventure.\n\nOur tour is an opportunity to experience the Parisian night life like a local. Come ready to discover secret entrances, enjoy amazing cocktails and good music. \nEach bar has a different vibe. Some have hidden doors, some require codes for entry while others are only accessible by invitation.\n\nWe offer the tour on other platforms, so if you cannot find the time/date that works with your schedule, send us a message!",
+        "productUrl": "https://www.viator.com/tours/Paris/Explore-Paris-Hidden-bars-and-Speakeasies/d479-342368P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/54/25/33.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 29.66,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
                     "19:00",
+                    "22:00"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found",
+            {
+                "2023-07-25": [
+                    "19:00",
+                    "22:00"
+                ]
+            },
+            {
+                "2023-07-26": [
+                    "19:00",
+                    "22:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "26729P27",
+        "title": "Paris Local Market & Bastille District Food Tasting Tour",
+        "description": "Enjoy a Food Tour in one of the most authentic and intense areas of Paris far from the main tourist attractions!\n\nStart the tour discovering the legendary Place de la Bastille, symbol of the french revolution, which is located in the 12th arrondissement, few minutes from the Seine river and the Marais district. You will enjoy there typical Parisian breakfast before heading to the Aligre Market through the innumerable (and almost secret) passages that make this district a trendy and creative place.\n\nThe Aligre market is one of the best known of Parisian foodies. He operate every morning (except on Mondays) and its stallholders welcome you right on the streets of the Aligre square. Its a fabulous mix between food sellers (inside and outside) and antique dealers, half of food market, half of a flea market.\n\nAround this market, the diversity of shops related to the art of good cooking impresses gourmets from all around the world who are the most passionate about its diversity and richness.",
+        "productUrl": "https://www.viator.com/tours/Paris/Bastille-and-Paris-Best-Market/d479-26729P27?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/49/c0/a0.jpg",
+        "duration": 210,
+        "lengthType": "Half Day",
+        "rating": 5.0,
+        "price": 112.97,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "10:00"
+                ]
+            },
+            {
+                "2023-07-23": [
+                    "10:00"
+                ]
+            },
+            "Nothing Found",
+            {
+                "2023-07-25": [
+                    "10:00"
+                ]
+            },
+            {
+                "2023-07-26": [
+                    "10:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "11571P23",
+        "title": "Private Dark Chocolate Tasting Tour in Paris",
+        "description": "Treat yourself to a two hour introduction to the world of fine dark chocolate bars. You will learn not only on the chocolate history, but also how to recognize, appreciate and enjoy a fine dark chocolate bar.",
+        "productUrl": "https://www.viator.com/tours/Paris/Paris-Dark-Chocolate-2-Hour-Private-Tour-with-Tasting/d479-11571P23?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6a/e5/14.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 199.69,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "16:00"
+                ]
+            },
+            {
+                "2023-07-23": [
+                    "16:00"
+                ]
+            },
+            {
+                "2023-07-24": [
+                    "16:00"
+                ]
+            },
+            {
+                "2023-07-25": [
+                    "16:00"
+                ]
+            },
+            {
+                "2023-07-26": [
+                    "16:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "361105P1",
+        "title": "Wine Tasting in Paris right next to P\u00e8re Lachaise & l'Atelier des lumi\u00e8res",
+        "description": "Once at the shop, we will host you with the great pleasure of introducing you to our wines, which come directly from the collective of winemakers who own the shop. Our knowledge and advice are at your disposal!\nWe have a wide variety of wines (white, red, ros\u00e9, sparkling) from the major French wine regions. For your 3 glasses of wine included, you have the possibility to choose the profile of the wines you prefer! Otherwise, let us surprise you with our advice.\n\nWith the wines selected, and a planche of aperitif prepared, on with the tasting. We have a close, familial relationship with the winemakers, which means we can have even the most technical details for you. Otherwise, it's about sharing a convivial moment with some good wine!\n\nAll are accompanied by a great selection of music with our famous tournedisc!",
+        "productUrl": "https://www.viator.com/tours/Paris/French-wine-tasting-experience-in-Paris/d479-361105P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/66/0a/f3.jpg",
+        "duration": 60,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 51.35,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "257496P2",
+        "title": "Private Foodie Tour in Paris: Exquisite French Cuisine",
+        "description": "You will spend 3 hours in a private tour with a local guide, stopping at 4 places in the best restaurants and markets of Le Marais district. You will be tasting food such as 'charcuterie', gourmet dishes, french tapas, etc. You'll also enjoy 4 alcoholic or soft drinks per guest while visiting the highlights of one of Paris' most historical districts (Le Marais), with such landmarks as Place des Vosges, H\u00f4tel de Sully and National Archives Museum. As a desert you'll be invited to enjoy 1 sweet french cr\u00eape per guest) Our menus are adapted to different diets (celiacs/vegetarians/vegans). During this tour you'll be trying more than 10 different tastes, from sophisticated gourmet dishes to classic Parisian crepes, french wines and beer. You'll be getting insights from your local guide (which can also be customized at your request) while walking through one of the most authentic neighborhoods of Paris: Le Marais. Remember, this is a private tour, just you and your guide.",
+        "productUrl": "https://www.viator.com/tours/Paris/Yummi-Yummi-Gastronomic-Private-Tour-in-Paris/d479-257496P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/62/67/6b.jpg",
+        "duration": 180,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 176.3,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "181888P6",
+        "title": "Wonders of Paris by bike (night)",
+        "description": "A tour around the wonders of Paris in the night and appreciated the lightening places that are the most attractive on the night like the Eiffel Tower, Invalides and Alexandre III bredge, Champs elys\u00e9es, Concorde Place, the Louvre and the Notre Dame.\n\nAfter the tour, we will go in the most beautiful and local place for take a wine and cheese in an authentic french bar",
+        "productUrl": "https://www.viator.com/tours/Paris/The-essentials-of-Paris-by-bike/d479-181888P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/4a/07/38.jpg",
+        "duration": 180,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 155.19,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "19:00"
+                ]
+            },
+            {
+                "2023-07-23": [
                     "18:00"
                 ]
             },
             {
                 "2023-07-24": [
-                    "15:00",
-                    "13:00",
-                    "09:00",
-                    "08:00",
-                    "12:00",
-                    "14:00",
-                    "10:00",
-                    "17:00",
-                    "07:00",
-                    "11:00",
-                    "20:00",
-                    "16:00",
-                    "19:00",
                     "18:00"
                 ]
             },
             {
                 "2023-07-25": [
-                    "15:00",
-                    "13:00",
-                    "09:00",
-                    "08:00",
-                    "12:00",
-                    "14:00",
-                    "10:00",
-                    "17:00",
-                    "07:00",
-                    "11:00",
-                    "20:00",
-                    "16:00",
-                    "19:00",
                     "18:00"
                 ]
             },
             {
                 "2023-07-26": [
-                    "15:00",
-                    "13:00",
-                    "09:00",
-                    "08:00",
-                    "12:00",
-                    "14:00",
-                    "10:00",
-                    "17:00",
-                    "07:00",
-                    "11:00",
-                    "20:00",
-                    "16:00",
-                    "19:00",
-                    "18:00"
-                ]
-            },
-            {
-                "2023-07-27": [
-                    "15:00",
-                    "13:00",
-                    "09:00",
-                    "08:00",
-                    "12:00",
-                    "14:00",
-                    "10:00",
-                    "17:00",
-                    "07:00",
-                    "11:00",
-                    "20:00",
-                    "16:00",
-                    "19:00",
                     "18:00"
                 ]
             }

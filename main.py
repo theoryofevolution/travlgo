@@ -44,11 +44,15 @@ global calendar
 global dates
 if submitted:
     if initial_destination=='':
-        alert = st.warning('No destination is selected')
+        alert = st.warning('No destination selected.')
         time.sleep(3)
         alert.empty()
     if start_date + timedelta(days=8) < end_date:
         alert = st.warning("Max itinerary days allowed are 7. We hope to increase this number over time!")
+        time.sleep(3)
+        alert.empty()
+    if start_date == starter:
+        alert = st.warning("Arrival date must be at least one day from today.")
         time.sleep(3)
         alert.empty()
     else:
