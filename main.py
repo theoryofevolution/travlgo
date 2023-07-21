@@ -64,11 +64,13 @@ with st.form("my_form"):
     '**Customize Your Trip**', options = tag_lib.snatch_tags)
     # Every form must have a submit button.
     submitted = st.form_submit_button('Submit')
-    if submitted:
-        dates = availability.get_dates_in_between(start_date, end_date)
-        with st.spinner('Wait for it...'):
-            calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=len(dates)*2)
-            st.success('Success!')
+global calendar
+global dates
+if submitted:
+    dates = availability.get_dates_in_between(start_date, end_date)
+    with st.spinner('Wait for it...'):
+        calendar = integrations.itinerary_creation(destination=initial_destination, start_date=start_date, end_date=end_date, user_tags=user_tags, event_number=len(dates)*2)
+        st.success('Success!')
     for index, days in enumerate(calendar):
         st.header(dates[index])
         for activity in days:
@@ -80,7 +82,6 @@ with st.form("my_form"):
                 st.write(activity['description'])
                 st.write("Starts at ", activity['startTime'])
                 st.write("Ends at: ", activity['endTime'])
+                st.markdown("**_[To book this event, please click me!](%s)_**" % activity['productUrl'])
                 st.write("\n\n")
-    st.balloons()
-    st.button("Book this activity!", on_click=webbrowser.open_new_tab('google.com'))
-            
+    st.balloons()            

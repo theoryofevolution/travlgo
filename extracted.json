@@ -1,75 +1,268 @@
 [
     {
-        "productCode": "74127P3",
-        "title": "Hidden Stairways of San Francisco",
-        "description": "Please note: this walk is not at all strenuous. Obviously there's some stairs but this is done at a leisurely pace and suitable for almost everyone.\n\nThis breathtaking 2 mile walking tour of San Francisco's hidden stairways is the #1 rated Airbnb Experience in the Bay Area. See gorgeous mosaic tiled steps and hear the stories behind them, then take in stunning 360\u00b0 views of the Golden Gate Bridge, Golden Gate Park and downtown San Francisco. You'll also discover beautiful neighborhoods and gardens that tourists rarely see...you might even go home with a succulent!\nI'll provide commentary, context and some history along the way.\n\nGenerally SF is dry May-October. There can be fog in the summertime, mostly in the morning. Temps rarely above 70F (21C) or below 50F (10C). Rain may cancel.\n\nInstagram account to see more photos: @hiddenstairssf #hiddenstairssf\n\nMessage me if you have questions!",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Hidden-Stairways-of-San-Francisco/d651-74127P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/ab/90/a8.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
+        "productCode": "240108P4",
+        "title": "Cave Tubing & Xunantunich (Mayan Ruins) From Placencia",
+        "description": "We will visit one of the most impressive Mayan Ruins in Belize, Xunantunich! Float through mysterious limestone archways beckoning you into the mouths of centuries-old caves, holding untold stories of Maya rituals. Explore the many breathtaking formations designed by only nature and learn about the ancient rituals and ceremonies that are a part of their mystique and magic.",
+        "productUrl": "https://www.viator.com/tours/Placencia/Cave-Tubing-and-Xunantunich-Mayan-Ruins/d23725-240108P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/3a/35/e3.jpg",
+        "duration": 600,
+        "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 33.0,
+        "price": 200.0,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "105141P14",
+        "title": "Snorkeling at Silk and Moho Caye",
+        "description": "Dive into the ultimate underwater adventure around the stunning Silk Caye! Swim with the friendly nurse sharks, graceful sea turtles, and sleek sting rays in their natural habitat. And that's not all \u2013 you'll also get to soak up some sun on this pristine island paradise. After working up an appetite, indulge in a mouth-watering lunch lovingly cooked by your guides on the gorgeous Moho Caye. Once you've refueled, the snorkeling fun continues around the breathtaking Moho Caye. Don't miss this chance to experience the magic of Belize's aquatic wonders!",
+        "productUrl": "https://www.viator.com/tours/Placencia/Snorkeling-at-Silk-and-Moho-Caye/d23725-105141P14?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/3d/97/d9.jpg",
+        "duration": 420,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 140.63,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "240108P1",
+        "title": "Combine 2 of Belizes most popular activities into 1 great package from Placencia",
+        "description": "We will visit one of the most impressive Mayan Ruins in Belize, Xunantunich! Float through mysterious limestone archways beckoning you into the mouths of centuries-old caves, holding untold stories of Maya rituals. Explore the many breathtaking formations designed by only nature and learn about the ancient rituals and ceremonies that are a part of their mystique and magic.",
+        "productUrl": "https://www.viator.com/tours/Placencia/Combine-2-of-Belizes-most-popular-activities-into-one-great-package/d23725-240108P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/3a/35/e5.jpg",
+        "duration": 600,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 200.0,
         "availableOnDate": [
             {
                 "2023-07-22": [
-                    "13:00"
+                    "07:00"
                 ]
             },
             {
                 "2023-07-23": [
-                    "13:00"
+                    "07:00"
+                ]
+            },
+            {
+                "2023-07-24": [
+                    "07:00"
+                ]
+            },
+            {
+                "2023-07-25": [
+                    "07:00"
                 ]
             }
         ]
     },
     {
-        "productCode": "322630P1",
-        "title": "Take a Walk with a Storyteller! The Surreal San Francisco Tour.",
-        "description": "- Explore the city with San Francisco's most hilarious, imaginative and EXCITING storyteller!\n\n- Enjoy original FOLKLORE and FAIRYTALES told by Clyde Always: a professional storyteller, published poet and decade-long resident of the City by the Bay. Hear about witches & wisemen, hobos & hipster-emperors. Bring your imagination!\n\n- Get to know these three famous neighborhoods: the Mission, the Castro and the Duboce Triangle. \n\n- Get insider knowledge of the best eateries, parks, shops and more. See beautiful street-art, landmarks and architecture. Experience the City like a local.\n\n- BEWARE! Some of the information presented will be highly UNBELIEVABLE. Have fun sorting the fact from the fiction.\n\n-A 2.2 mile (3.5 km) walk with no hills. One public restroom along the way.\n\n- Please note: this tour is NOT for the whole family. Script includes profanity and you might see a nudist or two.\n\n- Guaranteed to entertain, enliven and uplift. An experience you'll always remember. \n\n",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/The-Real-San-Francisco-Walking-Tour/d651-322630P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/65/e6/bc.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
+        "productCode": "240108P8",
+        "title": " ATM Caves ",
+        "description": "ATM is the crown jewel of all of Belize\u2019s archaeological treasure. This is one of the most unforgettable and adventurous underground tours you can make in Belize. The guided trip into ATM takes you deep into the underworld that the ancient Maya knew as Xibalba.\n\nWe\u2019ll start with a 2 hours drive to the village of Teakettle. From there, we\u2019ll turn off into the Tapir Mountain Nature Reserve and pass through mahogany groves and orchards. \n\nThe tour requires climbing and swimming as well as crawling through small spaces. The cave is extensively decorated with cave formations in the upper passages, dry chambers which lead to the cathedral-like main hall, a towering chamber 350 meters in length and 50 meters wide and filled with artifacts and sacrificial remains. Visitors remove shoes and explore the cave in socks only, to protect the artifacts on the cave floor. After this, another climb takes you to the stone sepulchre (after which the cave is named) where the Crystal Maiden lies.\n\n",
+        "productUrl": "https://www.viator.com/tours/Placencia/Visit-the-MOST-sacred-cave-in-the-world-ATM-CAVES/d23725-240108P8?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/94/52/d3.jpg",
+        "duration": 540,
+        "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 32.0,
+        "price": 200.0,
         "availableOnDate": [
             {
                 "2023-07-22": [
-                    "10:00",
-                    "14:00"
+                    "06:15"
                 ]
             },
-            "Nothing Found"
+            {
+                "2023-07-23": [
+                    "06:15"
+                ]
+            },
+            {
+                "2023-07-24": [
+                    "06:15"
+                ]
+            },
+            {
+                "2023-07-25": [
+                    "06:15"
+                ]
+            }
         ]
     },
     {
-        "productCode": "134682P2",
-        "title": "Classic Sidecar Tour of San Francisco",
-        "description": "We offer you a unique way of touring that few have experience, seeing the world with the distinctive twist of Sidecar. \n\nEveryone love sidecar, so be prepare to trade smiles and waves with complete strangers.\n\nWhen you take a tour in a tour bus you take pictures of people, but when you tour a classic sidecar motorcycle, people take pictures of you.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/Rides-by-me/d651-134682P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/73/d3/24.jpg",
-        "duration": 480,
+        "productCode": "240108P2",
+        "title": "Zip Lining + River Tubing +Waterfall 30 minutes away",
+        "description": "Just under a hour outside of Placencia Village, we\u2019ll arrive at Mayan King. We\u2019ll enjoy seven 7 zip Lines and a couple bridges, enjoying the views from as high as 400 feet into the tree tops. The longest line is 1300 feet. The lines crisscross over the river and valley below. This tour is easy for all ages. Children are welcome but may need to go tandem with another rider or guide.\nThen we\u2019ll take a short hike down to the river. We\u2019ll ride the river for about 45 minutes through mostly calm waters, with a few quick rapids along the way. For safety, life jackets and helmets are provided. We\u2019ll also have two guides \u2013 one at the beginning and one at the end of our group \u2013 to help navigate the waters.\nFinally, we take a short drive to the waterfall \u2013 enjoy the pristine beauty and tranquil atmosphere of the natural waterfall. If you\u2019re feeling adventurous, we\u2019ll hike up to the second falls or you can relax by the pool (or even take a dip if you\u2019re up to it!).",
+        "productUrl": "https://www.viator.com/tours/Placencia/Best-Combination-Package-in-Southern-Belize/d23725-240108P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0c/06/22/af.jpg",
+        "duration": 300,
         "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 240.0,
+        "price": 250.0,
         "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-23": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-24": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-25": [
+                    "08:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "240108P6",
+        "title": "Mayan Chocolate Making & Waterfall Swimming From Placencia",
+        "description": "This half day tour of chocolate making starts from the cacao tree and ends with a Mayan chocolate bar in your hands. you will visit a small cacao farm where the farmer gives you a complete history of his organic cacao farm and detailed explanation of how the beans are extracted from the pods.Immediately after the farm we head Back to the small-indoors chocolate facility where you will learn how to make your own chocolate on traditional grinding stones. To top off the day we stop at a nearby waterfall. ",
+        "productUrl": "https://www.viator.com/tours/Placencia/Mayan-Chocolate-Making-and-Waterfall-Swimming/d23725-240108P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/86/37/c2.jpg",
+        "duration": 240,
+        "lengthType": "Half Day",
+        "rating": 5.0,
+        "price": 120.0,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-23": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-24": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-25": [
+                    "08:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "92428P23",
+        "title": "PRIVATE Xunantunich Mayan Ruin & Cave Tubing adventure from Placencia",
+        "description": "An excellent choice for all ages in your family. There is something for everyone to do and enjoy from the moment you are picked up; with unlimited sight-seeing until you are returned to your drop off point. Experience two of Belize's top three rated excursions in one trip.",
+        "productUrl": "https://www.viator.com/tours/Placencia/Xunantunich-Mayan-Ruin-and-Cave-Tubing-adventure-from-Placencia/d23725-92428P23?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/26/19/b1.jpg",
+        "duration": 450,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 269.0,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "07:00"
+                ]
+            },
+            {
+                "2023-07-23": [
+                    "07:00"
+                ]
+            },
+            {
+                "2023-07-24": [
+                    "07:00"
+                ]
+            },
+            {
+                "2023-07-25": [
+                    "07:00"
+                ]
+            }
+        ]
+    },
+    {
+        "productCode": "105141P6",
+        "title": "Zip Lining, River Tubing and Waterfall Tour at Maya Sky",
+        "description": "Experience the thrill of zip lining on the longest, safest, and most thrilling zip line in the tropical forests of Belize. Seven lines high above the jungle canopy and Stann Creek.\n\nThen cool off with a 45-minute trip down the South Stann Creek, complete with easy rapids and beautiful views.\n\nFinish your activity with a trip to the Mayan King waterfall \u2013 enjoy lunch and take a dip in the pristine waters at the base of the falls, or just sit and enjoy the serenity of the falls.",
+        "productUrl": "https://www.viator.com/tours/Placencia/Zip-Lining-River-Tubing-and-Waterfall-Tour-at-Maya-Sky/d23725-105141P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0d/a5/15/f4.jpg",
+        "duration": 420,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 219.38,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
             "Nothing Found",
             "Nothing Found"
         ]
     },
     {
-        "productCode": "64535P2",
-        "title": "San Francisco Sunset Photography Tour",
-        "description": "Capture treasured memories and photographs from a San Francisco Photo Tour with Doc Miles. Sunrise and Sunset tours take photographers to locations that provide the best perspectives to capture amazing photographs of Bay Area icons and scenery. Locations along the tours take the photographer to places that are not on any tour bus, but provide extraordinary views of the city and its landmarks.",
-        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Sunset-Photography-Tour/d651-64535P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/88/ce/f7.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
+        "productCode": "105141P12",
+        "title": "Cave Tubing at Jaguar Paw",
+        "description": "Buckle up for an epic adventure as you embark on a scenic 100-mile drive through the lush hills of Belize. Your destination? Jaguar Paw, where you'll journey deep into the heart of ancient Maya culture. After a short hike, you'll enter a world cloaked in mystery and intrigue. Prepare to be wowed as you float through majestic limestone archways, deftly navigating your way through centuries-old caves shrouded in stories of Maya rituals. Your senses will be fully awakened as you take in the breathtaking formations created by Mother Nature herself. Listen closely as your guide shares the secrets and ancient ceremonies that make these caves so captivating and magical. This is a journey you won't want to miss!",
+        "productUrl": "https://www.viator.com/tours/Placencia/Cave-Tubing-at-Jaguar-Paw/d23725-105141P12?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/30/a2/01.jpg",
+        "duration": 360,
+        "lengthType": "Full Day",
         "rating": 5.0,
-        "price": 300.0,
+        "price": 174.38,
         "availableOnDate": [
             "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
             "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "92428P5",
+        "title": "Private Xunantunich Mayan Ruins & Inland Blue Hole Tour from Placencia",
+        "description": "This tour will leave you longing for more Belizean adventures; as you'll leave with memories you'll cherish for your lifetime. Learn ancient Mayan history and practices as you explore the majestic City of Xunantunich. You also get to visit the St. Herman's Cave and see beautiful natural formations and crystals, before cooling of in the refreshing \"Blue Hole.\" This package includes a local lunch for each passenger. The best way to spend warm days in Belize with your friends or family!",
+        "productUrl": "https://www.viator.com/tours/Placencia/Private-Inland-Blue-Hole-Tour-from-Belize-City/d23725-92428P5?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/fa/04/60.jpg",
+        "duration": 420,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 255.0,
+        "availableOnDate": [
+            {
+                "2023-07-22": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-23": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-24": [
+                    "08:00"
+                ]
+            },
+            {
+                "2023-07-25": [
+                    "08:00"
+                ]
+            }
         ]
     }
 ]

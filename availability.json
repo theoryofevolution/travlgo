@@ -1,11 +1,11 @@
 {
-    "productCode": "64535P2",
+    "productCode": "92428P5",
     "bookableItems": [
         {
             "seasons": [
                 {
-                    "startDate": "2023-01-01",
-                    "endDate": "2023-12-31",
+                    "startDate": "2019-01-29",
+                    "endDate": "2024-01-02",
                     "pricingRecords": [
                         {
                             "daysOfWeek": [
@@ -17,101 +17,39 @@
                                 "SATURDAY",
                                 "SUNDAY"
                             ],
+                            "timedEntries": [
+                                {
+                                    "startTime": "08:00",
+                                    "unavailableDates": [
+                                        {
+                                            "date": "2023-07-20",
+                                            "reason": "NOT_OPERATING"
+                                        }
+                                    ]
+                                }
+                            ],
                             "pricingDetails": [
                                 {
                                     "pricingPackageType": "PER_PERSON",
                                     "minTravelers": 0,
+                                    "maxTravelers": 15,
                                     "ageBand": "YOUTH",
                                     "price": {
                                         "original": {
-                                            "recommendedRetailPrice": 300.0
+                                            "recommendedRetailPrice": 240.67
                                         }
                                     }
                                 },
                                 {
                                     "pricingPackageType": "PER_PERSON",
-                                    "minTravelers": 0,
+                                    "minTravelers": 2,
+                                    "maxTravelers": 15,
                                     "ageBand": "ADULT",
                                     "price": {
                                         "original": {
-                                            "recommendedRetailPrice": 300.0
+                                            "recommendedRetailPrice": 255.0
                                         }
                                     }
-                                },
-                                {
-                                    "pricingPackageType": "PER_PERSON",
-                                    "minTravelers": 0,
-                                    "ageBand": "SENIOR",
-                                    "price": {
-                                        "original": {
-                                            "recommendedRetailPrice": 300.0
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    ],
-                    "operatingHours": [
-                        {
-                            "dayOfWeek": "MONDAY",
-                            "operatingHours": [
-                                {
-                                    "opensAt": "15:30:00",
-                                    "closesAt": "17:30:00"
-                                }
-                            ]
-                        },
-                        {
-                            "dayOfWeek": "TUESDAY",
-                            "operatingHours": [
-                                {
-                                    "opensAt": "15:30:00",
-                                    "closesAt": "17:30:00"
-                                }
-                            ]
-                        },
-                        {
-                            "dayOfWeek": "WEDNESDAY",
-                            "operatingHours": [
-                                {
-                                    "opensAt": "15:30:00",
-                                    "closesAt": "17:30:00"
-                                }
-                            ]
-                        },
-                        {
-                            "dayOfWeek": "THURSDAY",
-                            "operatingHours": [
-                                {
-                                    "opensAt": "15:30:00",
-                                    "closesAt": "17:00:00"
-                                }
-                            ]
-                        },
-                        {
-                            "dayOfWeek": "FRIDAY",
-                            "operatingHours": [
-                                {
-                                    "opensAt": "15:30:00",
-                                    "closesAt": "17:30:00"
-                                }
-                            ]
-                        },
-                        {
-                            "dayOfWeek": "SATURDAY",
-                            "operatingHours": [
-                                {
-                                    "opensAt": "15:00:00",
-                                    "closesAt": "17:30:00"
-                                }
-                            ]
-                        },
-                        {
-                            "dayOfWeek": "SUNDAY",
-                            "operatingHours": [
-                                {
-                                    "opensAt": "15:30:00",
-                                    "closesAt": "17:30:00"
                                 }
                             ]
                         }
@@ -122,6 +60,6 @@
     ],
     "currency": "USD",
     "summary": {
-        "fromPrice": 300.0
+        "fromPrice": 255.0
     }
 }
