@@ -1,5 +1,5 @@
-{
-    "products": [
+[
+    [
         {
             "productCode": "317366P1",
             "title": "Arad City Private Walking Tour",
@@ -283,6 +283,5 @@
                 "translationSource": "ORIGINAL"
             }
         }
-    ],
-    "totalCount": 2
-}
+    ]
+]

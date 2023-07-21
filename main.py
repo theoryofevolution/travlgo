@@ -22,12 +22,10 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
+st.image("travlgo_logo_v3.png")
 
-st.title('Welcome to travlgo!')
 text_header = 'Please enter in the information below for an optimized experience.'
-st.subheader("For families who love to travel, travlgo is the smart travel assistant that handles all the hassles of trip planning. With personalized, fully curated plans you can book within seconds, your dream vacation is just a click away!")
-st.markdown(f'<p style="color:#000000;font-size:20px;border-radius:2%;">{text_header}</p>', unsafe_allow_html=True)
+st.markdown(f'<p style="color:#FFFFFF;font-size:20px;border-radius:2%;">{text_header}</p>', unsafe_allow_html=True)
 
 global submitted
 
