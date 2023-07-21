@@ -71,6 +71,12 @@ if submitted:
                     st.write(activity['description'])
                     st.write("Starts at ", activity['startTime'])
                     st.write("Ends at: ", activity['endTime'])
-                    st.markdown("**_[To book this event, please click me!](%s)_**" % activity['productUrl'])
+                    st.markdown(f'''<a target="_blank" href="{activity["productUrl"]}">
+                                <button>
+                                    Book this event!
+                                </button>
+                            </a>''',
+                       unsafe_allow_html=True
+                        )
                     st.write("\n\n")
         st.balloons()

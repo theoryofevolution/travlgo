@@ -1,549 +1,74 @@
 [
     {
-        "productCode": "100972P3",
-        "title": "Parisian Life Style Private Photo Shoot at Eiffel Tower",
-        "description": "Visiting Paris? \n\nTime to live the dream! \n\nWalk around the city with a local professional photographer and take home the best images of your amazing trip. In a 100% Parisian life style photo shooting, get to know Paris' highlights and secrets and keep your memories forever. \n \u2022 1h photo shooting with local professional photographer \n \u2022 50-80 high resolution EDITED photos sent by mail after the shooting \n \u2022 groups up to ten people! \n \u2022 Ideal for celebrating your honeymoon, engagement photos, bachelor party, family trip, birthdays and more \n \u2022 props included for kids \n \u2022 kids friendly activity \n \u2022 fun, local and 100% passionate photographers!\n\nNOTE: you will be booked in the first available hour. You will receive an email about your tour hour, meeting point and recognizing your photographer within 7 days of booking. Please check your spam and contact with us if you have not received it. ",
-        "productUrl": "https://www.viator.com/tours/Paris/EIFFEL-TOWER-TROCADERO-1h-Photo-Shooting/d479-100972P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/21/f3/64.jpg",
-        "duration": 60,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 142.64,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            {
-                "2023-07-26": [
-                    "08:00",
-                    "07:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "40711P1",
-        "title": "Paris Highlights: Half Day Private Walking Tour",
-        "description": "A perfect introduction to the City of Lights! Meet the city's legacy by exploring the grand monuments that make Paris such a desirable destination - from the Louvre to the Iron Lady herself and everything in between!",
-        "productUrl": "https://www.viator.com/tours/Paris/Paris-Half-Day-Highlights-Private-Walking-Tour/d479-40711P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6c/22/ec.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 399.39,
-        "availableOnDate": [
-            "Nothing Found",
-            {
-                "2023-07-23": [
-                    "09:30"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "09:30"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "09:30"
-                ]
-            },
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "63697P1",
-        "title": "Semi-Private Louvre Masterpieces with Reserved Entrance Time",
-        "description": "With a maximum of six people per group, you are guaranteed a nearly private experience! Whether it is your first or one hundredth visit to the Louvre, there is something for everyone on this exclusive tour.\u00a0 Your expert guide will lead you through the museum as you visit the Louvre\u2019s must-sees.\u00a0 Marvel at masterpieces in the Louvre\u2019s most significant collections from Mesopotamia to French Romanticism, including, of course, the Mona Lisa, the Venus de Milo, and Winged Victory.",
-        "productUrl": "https://www.viator.com/tours/Paris/Semi-Private-Louvre-Masterpieces-with-Skip-the-Line-Access/d479-63697P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/3c/b9/00.jpg",
-        "duration": 150,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 170.03,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "6353P18",
-        "title": "Paris City Center \"History of Paris\" Guided Walking Tour - Semi-Private 8ppl Max",
-        "description": "on this 2.5 hour intimate Semi-Private (8 Guest Maximum) guided tou of central Paris, Become a true fl\u00e2neur \u2013 French for someone who enjoys a good stroll \u2013 Our expert guides will take show you all of the highlights including the Notre Dame Cathedral and the Tuileries Garden while ending where the guillotine once stood at the base of the world\u2019s most famous avenue, the Champs Elys\u00e9es. There will be time for a snack and restroom break during the walk.\u00a0",
-        "productUrl": "https://www.viator.com/tours/Paris/Semi-Private-Guided-Walking-Tour-Paris-City-Center-Including-Notre-Dame-Interior/d479-6353P18?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/16/d5/ac.jpg",
-        "duration": 150,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 114.91,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            {
-                "2023-07-24": [
-                    "10:00",
-                    "13:30"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "10:00",
-                    "13:30"
-                ]
-            },
-            {
-                "2023-07-26": [
-                    "10:00",
-                    "13:30"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "129335P2",
-        "title": "Montmartre/Sacre-Coeur/Paris- Artistic & Bohemian Epicenter ",
-        "description": "You will follow a highly attractive itinerary including history and stories, architecture, street art, local food stores, artists at work in the lively Place de Tertre, walking in the calm cobbled old streets uphill to reach the imposing Basilica of Sacre \u2013 Coeur, with a breathtaking panorama view upon the city of Paris.\n\nYour walking tour covers must-see spot as well as hidden treasures of Montmartre Village, walking in the footsteps of the impressionist artists who were inspired by local sites. You see film shot spots of famous French \u2018 Amelie of Montmartre\u2019 and many more. You feel the vibes of the hip , artsy and historical Montmartre Village and its eclectic sites. Your tour is tailored to your interests and physical abilities \n Note : private/ personalized tours possible on request- number of participants- unlimited\n Note: students & group of friends & team- building, special event in a group tours possible on request- number of participants- unlimited\n",
-        "productUrl": "https://www.viator.com/tours/Paris/Montmarte-Sacre-Coeur-visit-Artistic-and-Bohemian-Paris/d479-129335P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/54/bf/b4.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 33.09,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "09:30"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "09:30"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "09:30"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "14:00"
-                ]
-            },
-            {
-                "2023-07-26": [
-                    "14:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "40925P1",
-        "title": "Great Women of History walking tour",
-        "description": "Join the first Paris walking tour devoted entirely to women's history and influence. Meet near the Luxembourg Gardens and take an inspirational 2-hour guided walk through the charming streets of the famous Left Bank, unraveling stories of incredible women at every turn. ",
-        "productUrl": "https://www.viator.com/tours/Paris/Women-of-Paris-Guided-Walking-Tour/d479-40925P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/d5/9f/1d.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 39.94,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            {
-                "2023-07-24": [
-                    "10:00",
-                    "14:00"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "10:00",
-                    "14:00"
-                ]
-            },
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "6353P14",
-        "title": "Latin Quarter Paris - Exclusive Guided Walking Tour",
-        "description": "With a exclusive guide, take a 2.5-hour walking tour of one of Paris\u2019 oldest and most iconic neighborhoods\u2014the Latin Quarter. You\u2019ll start by the Notre-Dame Cathedral before making your way on foot to the playground of French students and the Lost Generation. Sights include the Panth\u00e9on and Luxembourg Garden. Select a morning or afternoon departure time when booking.",
-        "productUrl": "https://www.viator.com/tours/Paris/Private-Guided-Walking-Tour-Latin-Quarter-Including-Notre-Dame-Interior/d479-6353P14?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/f2/c9/89.jpg",
-        "duration": 150,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 114.91,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "13:30"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "13:30"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "10:00",
-                    "13:30"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "10:00",
-                    "13:30"
-                ]
-            },
-            {
-                "2023-07-26": [
-                    "10:00",
-                    "13:30"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "302088P2",
-        "title": "First Entry Louvre Highlights Private Tour ",
-        "description": "Experience the Louvre like never before on our 3-hour private tour that starts at the earliest time possible. \n\nAs you walk through the hallowed halls of this iconic museum, you'll see breathtaking masterpieces that are sure to dazzle your senses. Feast your eyes on the Mona Lisa's enigmatic smile, the Winged Victory of Samothrace's magnificent form, and the Venus de Milo's graceful beauty. \n\nAs you take in these incredible works of art, you'll feel a sense of wonder and awe at the sheer scale and majesty of the Louvre's collection. You'll also get to touch history with your own hands as you explore the museum's exhibits up close and personal. \n\nWith our expert guide by your side, you'll learn fascinating stories about the artists behind the works, and gain insights into the cultural significance of each piece. Join us on this unforgettable journey through the Louvre, and create memories that will last a lifetime.",
-        "productUrl": "https://www.viator.com/tours/Paris/First-Entry-Louvre-Highlights-Private-Tour/d479-302088P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/5f/1f/34.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 295.55,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "08:45"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "08:45"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "08:45"
-                ]
-            },
-            "Nothing Found",
-            {
-                "2023-07-26": [
-                    "08:45"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "342744P1",
-        "title": "Photographer in Paris",
-        "description": "Hi! I m Nina :) 10 years of experience in photography and same living in Paris - great mix for an excellent photoshooting quality. And a bit of humor and love for meeting new people. I would be glad to meet your for a photo promenade :)\n",
-        "productUrl": "https://www.viator.com/tours/Paris/Photographer-in-Paris/d479-342744P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/97/47/03.jpg",
-        "duration": 30,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 91.29,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            {
-                "2023-07-24": [
-                    "10:30",
-                    "14:30",
-                    "15:00",
-                    "13:30",
-                    "11:30",
-                    "10:00",
-                    "15:30",
-                    "13:00",
-                    "14:00",
-                    "11:00"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "10:30",
-                    "14:30",
-                    "15:00",
-                    "13:30",
-                    "11:30",
-                    "10:00",
-                    "15:30",
-                    "13:00",
-                    "14:00",
-                    "11:00"
-                ]
-            },
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "40711P2",
-        "title": "Private Half Day Historic Tour",
-        "description": "Journey through time in the heart of historic Paris. Stroll through the different eras of Paris from Ancient Gaul to the Roman era and Middle Ages of the Left Bank. Crossing the Seine, you will discover Renaissance Paris and the Grand Si\u00e8cle.",
-        "productUrl": "https://www.viator.com/tours/Paris/Private-Half-Day-Historic-Tour/d479-40711P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6c/22/ef.jpg",
-        "duration": 240,
-        "lengthType": "Half Day",
-        "rating": 5.0,
-        "price": 399.39,
-        "availableOnDate": [
-            "Nothing Found",
-            {
-                "2023-07-23": [
-                    "09:30"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "09:30"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "09:30"
-                ]
-            },
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "69148P1",
-        "title": "Food tour Belleville Off the Beaten Path 10:30 am",
-        "description": "Did you know that the selection of addresses for our Food tour is carefully prepared over several months?\n- Meeting with producers/artisans\n- Visit of the production workshops\nBelleville is in the heart of the artistic village with a bohemian spirit..\nStarting at the Jourdain church, this guided tour by an expert in French gastronomy will begin with a culinary discovery, at the highest point of Paris.\nFor three hours, meet passionate local artisans, the best in their field, and taste bread and croissant, iconic Parisian travel cake, chocolates, coffee, salame or oysters. \nOn your way, settle down in a bistro for a cheese and wine pairing.Visit a baker's kitchen (according to the sanitary rules in force) Learn how to make a baguette and a real butter croissant. \nMany anecdotes will be told to you as well as our French gastronomic exception. Paris A Dream is a local company that has only one desire: to promote our French know-how and provide you with unforgettable experiences. \n",
-        "productUrl": "https://www.viator.com/tours/Paris/Food-tour-Belleville-Off-the-Beaten-Path/d479-69148P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/04/9a/c4.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 90.15,
-        "availableOnDate": [
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "44598P11",
-        "title": "Stroll a Local French market & have a picnic",
-        "description": "This perfect food lovers activity has been picked to be featured on NBC Today Show with Hoda & Jenna. Segment hosted by Donna Farizan.\nParis is known as a major gastronomical dream destination and French markets are the perfect place to begin. So, come along for an informative stroll at a lively, colorful and true local outdoor market. You'll indulge your senses\u00a0with an abundance of aromas, of colors\u00a0while sharpening your taste buds with local delights.\n\nYou'll learn informally all about this exciting aspect of our French lifestyle. With the help of your knowledgeable and personable guide, you'll use easy French\u00a0key sentences to easily interact with vendors and feel like a Parisian for the day. A convivial French picnic with wine and our selection from the market will follow at a nearby peaceful park. The perfect\u00a0reward to sprinkle up your Parisian journey. Joyfully Yours !",
-        "productUrl": "https://www.viator.com/tours/Paris/Local-French-market-and-Picnic-tour/d479-44598P11?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6c/59/1c.jpg",
-        "duration": 180,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 90.15,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "09:30"
-                ]
-            },
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found"
-        ]
-    },
-    {
-        "productCode": "144878P7",
-        "title": "Paris: Small Group WineTasting Tour with Expert Sommelier ",
-        "description": "Join an expert sommelier at a contemporary private bar in the historic Montmartre neighbourhood, once home to artists and writers. Discover the captivating facets of French wine. Enjoy five delicious French wines, each with its own delicate notes and fascinating back story. Each tasting is paired with the perfect light snack. Learn how to navigate the wine shelves, about what is revolutionizing the French wine scene and the impact of climate change on the wine world,.",
-        "productUrl": "https://www.viator.com/tours/Paris/Wine-Tasting-with-Expert-Sommelier-in-the-Heart-of-Paris/d479-144878P7?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/0a/1a/26.jpg",
-        "duration": 90,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 78.74,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "16:00"
-                ]
-            },
-            "Nothing Found",
-            "Nothing Found",
-            "Nothing Found",
-            {
-                "2023-07-26": [
-                    "16:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "149678P3",
-        "title": "Unique 2 Hour Wine Tasting with a Certified Parisian Sommelier",
-        "description": "Discover and taste French wines in a choice of secret locations around Paris, truly an unforgettable fun way to experience Paris while enjoying French wines with a Paris local. \n\nYour host is a WSET Level 3 certified Sommelier, with speciality on French wines, whisky and sake. He is well known in Paris and you can't get a better Parisian host to take you through the enjoyment of French wines. \n\nOur locations are hand selected in Paris underground style secret spots that you won't know to experience if not for this wine tasting experience. It will be like meeting and having a drink with a local. What a great way to spend your time in Paris! There is no other wine tasting like this unique offering so book now and don't miss out.",
-        "productUrl": "https://www.viator.com/tours/Paris/Unique-Wine-tasting-with-a-certified-Paris-Sommelier/d479-149678P3?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/59/65/50.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 90.15,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "16:00",
-                    "12:30"
-                ]
-            },
-            {
-                "2023-07-23": [
-                    "16:00",
-                    "12:30"
-                ]
-            },
-            {
-                "2023-07-24": [
-                    "16:00",
-                    "12:30"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "16:00",
-                    "12:30"
-                ]
-            },
-            {
-                "2023-07-26": [
-                    "16:00",
-                    "12:30"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "342368P1",
-        "title": "Explore Hidden bars and Speakeasies in Paris",
-        "description": "Paris offers a lot of speakeasy bars for night owls, follow us through these hidden bars and enjoy a night full of adventure.\n\nOur tour is an opportunity to experience the Parisian night life like a local. Come ready to discover secret entrances, enjoy amazing cocktails and good music. \nEach bar has a different vibe. Some have hidden doors, some require codes for entry while others are only accessible by invitation.\n\nWe offer the tour on other platforms, so if you cannot find the time/date that works with your schedule, send us a message!",
-        "productUrl": "https://www.viator.com/tours/Paris/Explore-Paris-Hidden-bars-and-Speakeasies/d479-342368P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/54/25/33.jpg",
-        "duration": 120,
-        "lengthType": "Part Day",
-        "rating": 5.0,
-        "price": 29.66,
-        "availableOnDate": [
-            {
-                "2023-07-22": [
-                    "19:00",
-                    "22:00"
-                ]
-            },
-            "Nothing Found",
-            "Nothing Found",
-            {
-                "2023-07-25": [
-                    "19:00",
-                    "22:00"
-                ]
-            },
-            {
-                "2023-07-26": [
-                    "19:00",
-                    "22:00"
-                ]
-            }
-        ]
-    },
-    {
-        "productCode": "26729P27",
-        "title": "Paris Local Market & Bastille District Food Tasting Tour",
-        "description": "Enjoy a Food Tour in one of the most authentic and intense areas of Paris far from the main tourist attractions!\n\nStart the tour discovering the legendary Place de la Bastille, symbol of the french revolution, which is located in the 12th arrondissement, few minutes from the Seine river and the Marais district. You will enjoy there typical Parisian breakfast before heading to the Aligre Market through the innumerable (and almost secret) passages that make this district a trendy and creative place.\n\nThe Aligre market is one of the best known of Parisian foodies. He operate every morning (except on Mondays) and its stallholders welcome you right on the streets of the Aligre square. Its a fabulous mix between food sellers (inside and outside) and antique dealers, half of food market, half of a flea market.\n\nAround this market, the diversity of shops related to the art of good cooking impresses gourmets from all around the world who are the most passionate about its diversity and richness.",
-        "productUrl": "https://www.viator.com/tours/Paris/Bastille-and-Paris-Best-Market/d479-26729P27?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0a/49/c0/a0.jpg",
+        "productCode": "75738P6",
+        "title": "Underground Brooklyn Walking Brewery Tour",
+        "description": "Visit three world-class breweries on this all-inclusive 3.5 hour craft beer experience through Brooklyn. Ranked as one of the top beer cities in the country, indulge your taste buds as we give you a backstage pass to some of NYC's hippest breweries & neighborhoods. A complimentary snack is included, as well as subway transportation to the breweries.\n",
+        "productUrl": "https://www.viator.com/tours/Brooklyn/UNDERGROUND-BROOKLYN-BREW-TOUR/d22371-75738P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/ab/9b/45.jpg",
         "duration": 210,
         "lengthType": "Half Day",
         "rating": 5.0,
-        "price": 112.97,
+        "price": 99.0,
         "availableOnDate": [
             {
-                "2023-07-22": [
-                    "10:00"
-                ]
-            },
-            {
                 "2023-07-23": [
-                    "10:00"
+                    "12:00"
                 ]
             },
             "Nothing Found",
-            {
-                "2023-07-25": [
-                    "10:00"
-                ]
-            },
-            {
-                "2023-07-26": [
-                    "10:00"
-                ]
-            }
+            "Nothing Found",
+            "Nothing Found"
         ]
     },
     {
-        "productCode": "11571P23",
-        "title": "Private Dark Chocolate Tasting Tour in Paris",
-        "description": "Treat yourself to a two hour introduction to the world of fine dark chocolate bars. You will learn not only on the chocolate history, but also how to recognize, appreciate and enjoy a fine dark chocolate bar.",
-        "productUrl": "https://www.viator.com/tours/Paris/Paris-Dark-Chocolate-2-Hour-Private-Tour-with-Tasting/d479-11571P23?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/6a/e5/14.jpg",
+        "productCode": "365993P2",
+        "title": "The Story of Brooklyn Heights Tour",
+        "description": "In this tour, you will be told from a resident of Brooklyn Heights a compressed and almost storyline version of the four hundred years of Brooklyn. This tour breaks down those four hundred years into four epochs, the colonial era, the suburban era, the fall of Brooklyn Heights, and its rebirth. The tour guide may also point to different restaurants to try out along the way.",
+        "productUrl": "https://www.viator.com/tours/Brooklyn/The-Story-of-Brooklyn-Heights-Tour/d22371-365993P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/86/45/57.jpg",
+        "duration": 90,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 30.0,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "345485P1",
+        "title": "Private Brooklyn Bridge Tour with a Local",
+        "description": "Everyone else comes to the Bridge to take a photo and move on. Not us - we'll understand the huge effort that went in to getting the Bridge built, the lives lost and made, the scandals and celebrations. It's such a beautiful bridge but even better when you understand how it came to be.\n\nIn many ways the story of New York is the story of the Brooklyn Bridge. Almost nothing you see in the City existed before the Bridge - we'll use the Bridge as a way to understand the City that rose around it - the buildings, the other bridges, the transportation system, the people. \n\nAnd then there are all the fun stories that span 140 years. We'll have a jam packed 90 minutes exploring the bridge, the city, and their history.",
+        "productUrl": "https://www.viator.com/tours/Brooklyn/Life-and-death-on-the-Brooklyn-Bridge-with-a-local/d22371-345485P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/98/d6/72.jpg",
         "duration": 120,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 199.69,
+        "price": 17.5,
         "availableOnDate": [
             {
-                "2023-07-22": [
-                    "16:00"
-                ]
-            },
-            {
                 "2023-07-23": [
-                    "16:00"
+                    "10:30"
                 ]
             },
-            {
-                "2023-07-24": [
-                    "16:00"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "16:00"
-                ]
-            },
-            {
-                "2023-07-26": [
-                    "16:00"
-                ]
-            }
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
         ]
     },
     {
-        "productCode": "361105P1",
-        "title": "Wine Tasting in Paris right next to P\u00e8re Lachaise & l'Atelier des lumi\u00e8res",
-        "description": "Once at the shop, we will host you with the great pleasure of introducing you to our wines, which come directly from the collective of winemakers who own the shop. Our knowledge and advice are at your disposal!\nWe have a wide variety of wines (white, red, ros\u00e9, sparkling) from the major French wine regions. For your 3 glasses of wine included, you have the possibility to choose the profile of the wines you prefer! Otherwise, let us surprise you with our advice.\n\nWith the wines selected, and a planche of aperitif prepared, on with the tasting. We have a close, familial relationship with the winemakers, which means we can have even the most technical details for you. Otherwise, it's about sharing a convivial moment with some good wine!\n\nAll are accompanied by a great selection of music with our famous tournedisc!",
-        "productUrl": "https://www.viator.com/tours/Paris/French-wine-tasting-experience-in-Paris/d479-361105P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/66/0a/f3.jpg",
-        "duration": 60,
+        "productCode": "8501P25",
+        "title": "Brooklyn Heights, Brooklyn Bridge, and DUMBO Food Tour",
+        "description": "Explore and learn about this historic and lively borough with a guided walk through some of the best of Brooklyn: Brooklyn Heights, Brooklyn Promenade + Park and DUMBO. This tour offers spectacular vistas of the Statue of Liberty, the Manhattan skyline and the majestic Brooklyn Bridge.\n\nAnd the best part is we will see it all while enjoying popular local food: Juliana\u2019s pizza (same owner, same pizza next door to Grimaldi\u2019s pizza), Jaques Torres Chocolate, One Girl Cookie and more! \n\nKnow that you are making a difference by simply choosing our tours; we offer guests a way to give back to the community, by engaging with our social impact partners. By adding a social impact partner to each food tour, we've created a unique experience for you and assure that every tour we run is having a direct positive impact on the community we'll be exploring. \n\nThis tour is Vegetarian friendly. Gluten Free & Vegan currently unavailable for this tour. ",
+        "productUrl": "https://www.viator.com/tours/Brooklyn/Brooklyn-Heights-Brooklyn-Bridge-and-DUMBO-Food-Tour/d22371-8501P25?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/10/7c/4d/d1.jpg",
+        "duration": 180,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 51.35,
+        "price": 78.0,
         "availableOnDate": [
-            "Nothing Found",
             "Nothing Found",
             "Nothing Found",
             "Nothing Found",
@@ -551,17 +76,37 @@
         ]
     },
     {
-        "productCode": "257496P2",
-        "title": "Private Foodie Tour in Paris: Exquisite French Cuisine",
-        "description": "You will spend 3 hours in a private tour with a local guide, stopping at 4 places in the best restaurants and markets of Le Marais district. You will be tasting food such as 'charcuterie', gourmet dishes, french tapas, etc. You'll also enjoy 4 alcoholic or soft drinks per guest while visiting the highlights of one of Paris' most historical districts (Le Marais), with such landmarks as Place des Vosges, H\u00f4tel de Sully and National Archives Museum. As a desert you'll be invited to enjoy 1 sweet french cr\u00eape per guest) Our menus are adapted to different diets (celiacs/vegetarians/vegans). During this tour you'll be trying more than 10 different tastes, from sophisticated gourmet dishes to classic Parisian crepes, french wines and beer. You'll be getting insights from your local guide (which can also be customized at your request) while walking through one of the most authentic neighborhoods of Paris: Le Marais. Remember, this is a private tour, just you and your guide.",
-        "productUrl": "https://www.viator.com/tours/Paris/Yummi-Yummi-Gastronomic-Private-Tour-in-Paris/d479-257496P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/11/62/67/6b.jpg",
-        "duration": 180,
+        "productCode": "297529P1",
+        "title": "Rockaway Beach Bus in New York City",
+        "description": "Support a rebuilding scene and join us for an epic day at the beach! \n\nRockaway Beach is an old New York institution on the rise after surviving the devastating effects of Hurricane Sandy. We\u2019re teaming up with some of the best brands on the NYC Summer scene to get Manhattan & Brooklyn out to Rockaway, Riis Park & Fort Tilden for a summer of fun with the best NYC beach experience in the game\u2026 \n\nRent a board and get a surf lesson. Bar hop or keep it mellow and just hang on the beach, no matter what you\u2019re into The OvR Rockaway Beach Bus has you covered!",
+        "productUrl": "https://www.viator.com/tours/New-York-City/Rockaway-Beach-Bus-by-OvRride/d687-297529P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/d8/77/99.jpg",
+        "duration": 600,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 39.95,
+        "availableOnDate": [
+            {
+                "2023-07-23": [
+                    "09:00"
+                ]
+            },
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "107194P53",
+        "title": "Brooklyn Outdoor Escape Game: The Land of Street Art",
+        "description": "Embark on a quest around Brooklyn to discover the most beautiful street art murals and their stories, all with the help of your smartphone. Unlock new stories as you discover the local artists of Williamsburg, the fascinating New York neighborhood.\n\n+ Discover the charming neighborhood of Williamsburg and its most beautiful street art murals\n+ Uncover secrets about Street-Artists and their art from all around the world\n+ Admire the Williamsburg bridge and walk along the river while looking at the Manhattan skyline\n+ Walk around the most beautiful part of Brooklin\n+ Try a new type of experience, the perfect mix between a tour, outdoor escape game, and treasure hunt\n\nDiscover Brooklyn, New York's famous art-centric borough, by following clues and discovering amazing stories about the astonishing graffiti work.\n\nEach clue will lead you from one place to another, giving you exact directions, so you won't need a map, a GPS or a guide.\n\n",
+        "productUrl": "https://www.viator.com/tours/Brooklyn/Brooklyn-Williamsburg-Famous-Street-Art-Exploration-Game/d22371-107194P53?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/ec/23/ce.jpg",
+        "duration": 70,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 176.3,
+        "price": 9.05,
         "availableOnDate": [
-            "Nothing Found",
             "Nothing Found",
             "Nothing Found",
             "Nothing Found",
@@ -569,39 +114,45 @@
         ]
     },
     {
-        "productCode": "181888P6",
-        "title": "Wonders of Paris by bike (night)",
-        "description": "A tour around the wonders of Paris in the night and appreciated the lightening places that are the most attractive on the night like the Eiffel Tower, Invalides and Alexandre III bredge, Champs elys\u00e9es, Concorde Place, the Louvre and the Notre Dame.\n\nAfter the tour, we will go in the most beautiful and local place for take a wine and cheese in an authentic french bar",
-        "productUrl": "https://www.viator.com/tours/Paris/The-essentials-of-Paris-by-bike/d479-181888P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/4a/07/38.jpg",
+        "productCode": "104204P74",
+        "title": "Brooklyn Scavenger Hunt: Soaring To New Heights",
+        "description": "Let\u2019s Roam is the #1 app-led scavenger hunt company. Walk to all the best landmarks and hidden gems, answering trivia questions and solving challenges. Work with your team or compete against them, as you learn new facts and create memorable experiences. Let\u2019s Roam Scavenger Hunts are great as an everyday activity, or for bachelorette parties, birthday parties, corporate team building events and more! Each player chooses an interactive role, with challenges varying by person. ",
+        "productUrl": "https://www.viator.com/tours/Brooklyn/Lets-Roams-Brooklyn-Scavenger-Hunt-Soaring-To-New-Heights/d22371-104204P74?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/9b/54/11.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 12.31,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "195225P4",
+        "title": "Art, History & Waterfront Views in DUMBO",
+        "description": "Soak up the art, food & views in one of the most beautiful and iconic parts of the city, led by local art expert and community builder, Alexandra Harper.\n\nWe will take in the unique sights, sounds and tastes that make DUMBO such a rich and amazing neighborhood, with a focus on female-owned & run businesses. We will see some of the best visual art in the city, both indoors and out, along with an exclusive private studio visit with a local artist, sampling some unique savory snacks and sweet treats along the way.\n\nThis walk features some of the most beautiful waterfront views of Manhattan, and you will learn more about how this fascinating neighborhood has grown and changed over time. It is a great opportunity to take a deep dive into one of NYC's most beautiful and fascinating neighborhoods, learn about its history and meet new friends along the way.\n\nWe will end near the East River ferry, if you would like to ride back to Manhattan with other attendees (not included in trip price).",
+        "productUrl": "https://www.viator.com/tours/Brooklyn/Art-Food-and-Waterfront-Views-in-DUMBO/d22371-195225P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0c/11/b7/7a.jpg",
         "duration": 180,
         "lengthType": "Part Day",
         "rating": 5.0,
-        "price": 155.19,
+        "price": 60.0,
         "availableOnDate": [
             {
-                "2023-07-22": [
-                    "19:00"
-                ]
-            },
-            {
                 "2023-07-23": [
-                    "18:00"
+                    "13:00",
+                    "15:00",
+                    "12:00"
                 ]
             },
-            {
-                "2023-07-24": [
-                    "18:00"
-                ]
-            },
-            {
-                "2023-07-25": [
-                    "18:00"
-                ]
-            },
+            "Nothing Found",
+            "Nothing Found",
             {
                 "2023-07-26": [
-                    "18:00"
+                    "13:00"
                 ]
             }
         ]
