@@ -1,11 +1,11 @@
 {
-    "productCode": "92428P5",
+    "productCode": "86919P143",
     "bookableItems": [
         {
+            "productOptionCode": "TG1",
             "seasons": [
                 {
-                    "startDate": "2019-01-29",
-                    "endDate": "2024-01-02",
+                    "startDate": "2019-07-09",
                     "pricingRecords": [
                         {
                             "daysOfWeek": [
@@ -19,35 +19,519 @@
                             ],
                             "timedEntries": [
                                 {
-                                    "startTime": "08:00",
-                                    "unavailableDates": [
-                                        {
-                                            "date": "2023-07-20",
-                                            "reason": "NOT_OPERATING"
-                                        }
-                                    ]
+                                    "startTime": "10:00"
+                                },
+                                {
+                                    "startTime": "14:00"
+                                },
+                                {
+                                    "startTime": "08:00"
+                                },
+                                {
+                                    "startTime": "16:00"
+                                },
+                                {
+                                    "startTime": "20:00"
+                                },
+                                {
+                                    "startTime": "18:00"
+                                },
+                                {
+                                    "startTime": "11:00"
+                                },
+                                {
+                                    "startTime": "12:00"
+                                },
+                                {
+                                    "startTime": "17:00"
+                                },
+                                {
+                                    "startTime": "09:00"
+                                },
+                                {
+                                    "startTime": "19:00"
+                                },
+                                {
+                                    "startTime": "13:00"
+                                },
+                                {
+                                    "startTime": "15:00"
                                 }
                             ],
                             "pricingDetails": [
                                 {
                                     "pricingPackageType": "PER_PERSON",
                                     "minTravelers": 0,
-                                    "maxTravelers": 15,
-                                    "ageBand": "YOUTH",
+                                    "maxTravelers": 6,
+                                    "ageBand": "INFANT",
                                     "price": {
                                         "original": {
-                                            "recommendedRetailPrice": 240.67
+                                            "recommendedRetailPrice": 0.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "CHILD",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 20.0
                                         }
                                     }
                                 },
                                 {
                                     "pricingPackageType": "PER_PERSON",
                                     "minTravelers": 2,
-                                    "maxTravelers": 15,
+                                    "maxTravelers": 6,
                                     "ageBand": "ADULT",
                                     "price": {
                                         "original": {
-                                            "recommendedRetailPrice": 255.0
+                                            "recommendedRetailPrice": 40.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 1,
+                                    "maxTravelers": 1,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 70.0
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productOptionCode": "TG3",
+            "seasons": [
+                {
+                    "startDate": "2019-07-09",
+                    "pricingRecords": [
+                        {
+                            "daysOfWeek": [
+                                "MONDAY",
+                                "TUESDAY",
+                                "WEDNESDAY",
+                                "THURSDAY",
+                                "FRIDAY",
+                                "SATURDAY",
+                                "SUNDAY"
+                            ],
+                            "timedEntries": [
+                                {
+                                    "startTime": "19:00"
+                                },
+                                {
+                                    "startTime": "16:00"
+                                },
+                                {
+                                    "startTime": "08:00"
+                                },
+                                {
+                                    "startTime": "20:00"
+                                },
+                                {
+                                    "startTime": "09:00"
+                                },
+                                {
+                                    "startTime": "18:00"
+                                },
+                                {
+                                    "startTime": "11:00"
+                                },
+                                {
+                                    "startTime": "13:00"
+                                },
+                                {
+                                    "startTime": "12:00"
+                                },
+                                {
+                                    "startTime": "15:00"
+                                },
+                                {
+                                    "startTime": "14:00"
+                                },
+                                {
+                                    "startTime": "10:00"
+                                },
+                                {
+                                    "startTime": "17:00"
+                                }
+                            ],
+                            "pricingDetails": [
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "INFANT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 0.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "CHILD",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 40.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 2,
+                                    "maxTravelers": 6,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 80.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 1,
+                                    "maxTravelers": 1,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 140.0
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productOptionCode": "TG2",
+            "seasons": [
+                {
+                    "startDate": "2019-07-09",
+                    "pricingRecords": [
+                        {
+                            "daysOfWeek": [
+                                "MONDAY",
+                                "TUESDAY",
+                                "WEDNESDAY",
+                                "THURSDAY",
+                                "FRIDAY",
+                                "SATURDAY",
+                                "SUNDAY"
+                            ],
+                            "timedEntries": [
+                                {
+                                    "startTime": "08:00"
+                                },
+                                {
+                                    "startTime": "16:00"
+                                },
+                                {
+                                    "startTime": "20:00"
+                                },
+                                {
+                                    "startTime": "09:00"
+                                },
+                                {
+                                    "startTime": "11:00"
+                                },
+                                {
+                                    "startTime": "18:00"
+                                },
+                                {
+                                    "startTime": "13:00"
+                                },
+                                {
+                                    "startTime": "14:00"
+                                },
+                                {
+                                    "startTime": "15:00"
+                                },
+                                {
+                                    "startTime": "10:00"
+                                },
+                                {
+                                    "startTime": "17:00"
+                                },
+                                {
+                                    "startTime": "19:00"
+                                },
+                                {
+                                    "startTime": "12:00"
+                                }
+                            ],
+                            "pricingDetails": [
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "INFANT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 0.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "CHILD",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 30.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 1,
+                                    "maxTravelers": 1,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 105.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 2,
+                                    "maxTravelers": 6,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 60.0
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productOptionCode": "TG4",
+            "seasons": [
+                {
+                    "startDate": "2019-07-09",
+                    "pricingRecords": [
+                        {
+                            "daysOfWeek": [
+                                "MONDAY",
+                                "TUESDAY",
+                                "WEDNESDAY",
+                                "THURSDAY",
+                                "FRIDAY",
+                                "SATURDAY",
+                                "SUNDAY"
+                            ],
+                            "timedEntries": [
+                                {
+                                    "startTime": "19:00"
+                                },
+                                {
+                                    "startTime": "10:00"
+                                },
+                                {
+                                    "startTime": "15:00"
+                                },
+                                {
+                                    "startTime": "12:00"
+                                },
+                                {
+                                    "startTime": "16:00"
+                                },
+                                {
+                                    "startTime": "14:00"
+                                },
+                                {
+                                    "startTime": "20:00"
+                                },
+                                {
+                                    "startTime": "18:00"
+                                },
+                                {
+                                    "startTime": "17:00"
+                                },
+                                {
+                                    "startTime": "13:00"
+                                },
+                                {
+                                    "startTime": "11:00"
+                                },
+                                {
+                                    "startTime": "09:00"
+                                },
+                                {
+                                    "startTime": "08:00"
+                                }
+                            ],
+                            "pricingDetails": [
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "INFANT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 0.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "CHILD",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 50.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 2,
+                                    "maxTravelers": 6,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 100.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 1,
+                                    "maxTravelers": 1,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 175.0
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "productOptionCode": "TG5",
+            "seasons": [
+                {
+                    "startDate": "2019-07-09",
+                    "pricingRecords": [
+                        {
+                            "daysOfWeek": [
+                                "MONDAY",
+                                "TUESDAY",
+                                "WEDNESDAY",
+                                "THURSDAY",
+                                "FRIDAY",
+                                "SATURDAY",
+                                "SUNDAY"
+                            ],
+                            "timedEntries": [
+                                {
+                                    "startTime": "11:00"
+                                },
+                                {
+                                    "startTime": "12:00"
+                                },
+                                {
+                                    "startTime": "20:00"
+                                },
+                                {
+                                    "startTime": "09:00"
+                                },
+                                {
+                                    "startTime": "17:00"
+                                },
+                                {
+                                    "startTime": "13:00"
+                                },
+                                {
+                                    "startTime": "15:00"
+                                },
+                                {
+                                    "startTime": "08:00"
+                                },
+                                {
+                                    "startTime": "10:00"
+                                },
+                                {
+                                    "startTime": "19:00"
+                                },
+                                {
+                                    "startTime": "14:00"
+                                },
+                                {
+                                    "startTime": "16:00"
+                                },
+                                {
+                                    "startTime": "18:00"
+                                }
+                            ],
+                            "pricingDetails": [
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "INFANT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 0.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "maxTravelers": 6,
+                                    "ageBand": "CHILD",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 60.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 1,
+                                    "maxTravelers": 1,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 210.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 2,
+                                    "maxTravelers": 6,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 120.0
                                         }
                                     }
                                 }
@@ -58,8 +542,8 @@
             ]
         }
     ],
-    "currency": "USD",
+    "currency": "EUR",
     "summary": {
-        "fromPrice": 255.0
+        "fromPrice": 40.0
     }
 }

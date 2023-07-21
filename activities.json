@@ -1,0 +1,1149 @@
+{
+    "products": [
+        {
+            "productCode": "86919P143",
+            "title": "Cherbourg Like a Local: Customized Private Tour",
+            "description": "With our walking tours, you\u2019ll skip the mundane historical tours and discover the city through a local\u2019s eyes. Experience a tour that will transform the way you travel to make it as much about the people you meet, as it is the places you see. Our local guides (Lokafyers) are passionate about their city and eager to share their knowledge and perspective. Since Lokafyers are not professional guides and tour occasionally, they provide an experience that\u2019s authentic and personal, like a friend showing you around their city. By the end of the tour, you'll feel comfortable navigating the city and confident that you have all the information you need to make the most of your stay.\n\n",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/07/b4/b7/23.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/07/b4/b7/23.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 2,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 1,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 3,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "variableDurationFromMinutes": 120,
+                "variableDurationToMinutes": 360
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 45.64,
+                    "fromPriceBeforeDiscount": 45.64
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Mont-St-Michel/Cherbourg-Like-a-Local-Customized-Private-Tour/d25906-86919P143?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "25906",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21946,
+                12075,
+                21074,
+                21948,
+                21952,
+                12046,
+                12028,
+                11941,
+                21949
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "PRIVATE_TOUR"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "100213P9",
+            "title": "Private Transfer from Mont Saint-Michel to Rennes - Up to 7 People",
+            "description": "Let you drive and travel in a luxurious and comfortable minivan Mercedes from Mont Saint-Michel to Rennes.\u00a0 \n\nRennes is located about 1.15 hour from Mont Saint-Michel. \n\nFor your Mont Saint-Michel-Rennes Transfer, our professional english speaking drivers guarantee a punctual service available 7 days a week. \n\nThe price is all include for a transfer up to 7 people.",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Rennes City",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/07/2a/46/54.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/07/2a/46/54.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 1,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 1,
+                "combinedAverageRating": 5.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 75
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "UNSTRUCTURED",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 319.51,
+                    "fromPriceBeforeDiscount": 319.51
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Mont-St-Michel/Private-Transfer-from-Mont-Saint-Michel-to-Rennes-Up-to-7-People/d25906-100213P9?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "25906",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                20248,
+                20238
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "PRIVATE_TOUR"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "63176P2",
+            "title": "Entrance ticket to the Battle of the Hedges Museum",
+            "description": "An ideal visit for families (1h30 approx.) in which everyone finds their interest during a course that is at the same time complete, lively and interactive. A museum with a unique atmosphere, full of emotion that takes you into the daily life of the 1940s with the soldiers but also the civilians.\n(Re)discover a period sometimes forgotten and yet decisive on the road to Liberation... It took place a few weeks after June 6, 44, it was the Battle of the Hedges...\nThrough 27 hyperrealistic sound stages, you will discover a collection of more than 15,000 authentic objects and old military vehicles, discover the days after D-Day and take part in this tribute to the civilians and soldiers who fell in the Normandy countryside. .",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "P47 Thunderbolt",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0e/fa/de/de.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0e/fa/de/de.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 37,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 37,
+                "combinedAverageRating": 4.810811
+            },
+            "duration": {
+                "variableDurationFromMinutes": 90,
+                "variableDurationToMinutes": 120
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 10.27,
+                    "fromPriceBeforeDiscount": 10.27
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Mont-St-Michel/Normandy-Victory-Museum-Visitors-ticket/d25906-63176P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "25906",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21514,
+                12074,
+                12716,
+                11901,
+                21972
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "SKIP_THE_LINE"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": true,
+                "translationSource": "MACHINE",
+                "translationAttribution": "GOOGLE"
+            }
+        },
+        {
+            "productCode": "72377P1",
+            "title": "Airborne Museum Admission Ticket",
+            "description": "Located in the centre of Sainte-Mere-Eglise and only a few kilometers from Utah Beach and the landing beaches, the Airborn Museum facing the bell tower on which paratrooper John Steele was suspended on the D-Day.\n\nThrough spectacular museography, the Airborne Museum will make you live the D-Day alongside the American paratroopers of the 82nd and 101st Airborne. Discover an exceptional collection of historical artifacts, an authentic glider and a C-47 aircraft that participated in the D-Day operations.\n",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "Airborne Museum",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/06/67/b8/e3.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/06/67/b8/e3.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 2,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 284,
+                        "averageRating": 5.0
+                    }
+                ],
+                "totalReviews": 286,
+                "combinedAverageRating": 4.7552447
+            },
+            "duration": {
+                "fixedDurationInMinutes": 120
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 11.3,
+                    "fromPriceBeforeDiscount": 11.3
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Mont-St-Michel/Airborne-Museum-Admission-Ticket/d25906-72377P1?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "25906",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21514,
+                21954,
+                21953,
+                12716,
+                21948,
+                21951,
+                11901,
+                21860,
+                21950,
+                21960,
+                21972,
+                21949
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "317228P4",
+            "title": "All-terrain electric scooter rental in Mont-Saint-Michel",
+            "description": "If you want to get away from it all in nature, to discover magnificent landscapes and to feel sensations as yet unknown. This experience is for you. The all-terrain electric scooter is the ideal machine for fun and effortless rides. Explore the marvelous landscapes. You will have the opportunity to visit the entire bay of Mont-Saint-Michel with less effort and with unique sensations.",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0b/ef/1e/1c.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0b/ef/1e/1c.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 2,
+                        "averageRating": 4.5
+                    }
+                ],
+                "totalReviews": 2,
+                "combinedAverageRating": 4.5
+            },
+            "duration": {
+                "fixedDurationInMinutes": 90
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "UNSTRUCTURED",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 51.35,
+                    "fromPriceBeforeDiscount": 51.35
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Mont-St-Michel/All-terrain-electric-scooter-rental-in-Mont-Saint-Michel/d25906-317228P4?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "25906",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21954,
+                21720,
+                21956,
+                12009,
+                21716,
+                21951,
+                12041,
+                21952,
+                21751,
+                21960,
+                11911
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": true,
+                "translationSource": "MACHINE",
+                "translationAttribution": "GOOGLE"
+            }
+        },
+        {
+            "productCode": "37736P6",
+            "title": "Normandy Mont-Saint-Michel Abbey Entrance Ticket",
+            "description": "Discover the Abbey of Mont-Saint-Michel with its unique medieval architecture and religious history. Explore this UNESCO world heritage site by visiting the Abbey, the cloister sooth and the terrace where you can enjoy an unforgettable view of the bay. ",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/07/9d/b0/1f.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/07/9d/b0/1f.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 120,
+                        "averageRating": 4.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 405,
+                        "averageRating": 4.5
+                    }
+                ],
+                "totalReviews": 525,
+                "combinedAverageRating": 4.247619
+            },
+            "duration": {
+                "variableDurationFromMinutes": 180,
+                "variableDurationToMinutes": 300
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 12.55,
+                    "fromPriceBeforeDiscount": 12.55
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Mont-St-Michel/Mont-Saint-Michel-Abbey-Skip-the-Line-Ticket/d25906-37736P6?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "25906",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                21638,
+                12716,
+                21860
+            ],
+            "flags": [],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "132681P36",
+            "title": "Normandy: Mont-Saint-Michel Private Walking Tour",
+            "description": "Discover the history of Mont-Saint-Michel, from the Hundred Years' War to the French Revolution, on a fascinating walking adventure. Join your private guide to discover the area and take in the stunning Romanesque architecture perched on top of the cliffs contrasting with the surrounding marshland.\n\nArrive in Normandy and meet your guide outside the castle for a trip back in time as you walk around this outstanding site, dating back to the medieval era. Make the most of your guide's knowledge and expertise to customize your experience to your specific needs.\n\nExplore the many wonders of this UNESCO World Heritage Site, with the option to visit the historic abbey, which served both as a pilgrimage site and a prison back in the day.",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0f/e4/73/04.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0f/e4/73/04.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 1,
+                        "averageRating": 4.0
+                    }
+                ],
+                "totalReviews": 1,
+                "combinedAverageRating": 4.0
+            },
+            "duration": {
+                "fixedDurationInMinutes": 120
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 227.65,
+                    "fromPriceBeforeDiscount": 227.65
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Mont-St-Michel/Normandy-Mont-Saint-Michel-Private-Walking-Tour/d25906-132681P36?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "25906",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12029,
+                12046,
+                12028,
+                11941
+            ],
+            "flags": [
+                "FREE_CANCELLATION",
+                "PRIVATE_TOUR",
+                "NEW_ON_VIATOR"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        },
+        {
+            "productCode": "6839P138",
+            "title": "2-Hour Guided Walking tour of the Mont Saint Michel ",
+            "description": "Meet your tour guide and experience a 2H guided walking tour in the streets of the old village of Mont Saint Michel\nExplore the narrow, cobblestone streets and ramparts and be amaze with the splendid view of the bay from the top of the village.\nYour tour will finish at the top of the Mont Saint Michel and from there you can visit the Abbey at your own pace ( Ticket is included in the tour ). \nThis journey to the Mont Saint Michel will be surely a memorable experience.",
+            "images": [
+                {
+                    "imageSource": "SUPPLIER_PROVIDED",
+                    "caption": "",
+                    "isCover": true,
+                    "variants": [
+                        {
+                            "height": 50,
+                            "width": 50,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-50x50/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 100,
+                            "width": 100,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-100x100/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 200,
+                            "width": 200,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-200x200/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 400,
+                            "width": 400,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-400x400/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 40,
+                            "width": 60,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-60x40/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 80,
+                            "width": 120,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-120x80/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 120,
+                            "width": 180,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-180x120/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 160,
+                            "width": 240,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 240,
+                            "width": 360,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 320,
+                            "width": 480,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-480x320/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 360,
+                            "width": 540,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 446,
+                            "width": 674,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 480,
+                            "width": 720,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 118,
+                            "width": 210,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-210x118/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 75,
+                            "width": 75,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-75x75/0b/cc/f0/74.jpg"
+                        },
+                        {
+                            "height": 109,
+                            "width": 154,
+                            "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-154x109/0b/cc/f0/74.jpg"
+                        }
+                    ]
+                }
+            ],
+            "reviews": {
+                "sources": [
+                    {
+                        "provider": "VIATOR",
+                        "totalCount": 1,
+                        "averageRating": 5.0
+                    },
+                    {
+                        "provider": "TRIPADVISOR",
+                        "totalCount": 5,
+                        "averageRating": 3.5
+                    }
+                ],
+                "totalReviews": 6,
+                "combinedAverageRating": 3.6666667
+            },
+            "duration": {
+                "fixedDurationInMinutes": 120
+            },
+            "confirmationType": "INSTANT",
+            "itineraryType": "STANDARD",
+            "pricing": {
+                "summary": {
+                    "fromPrice": 28.53,
+                    "fromPriceBeforeDiscount": 28.53
+                },
+                "currency": "USD"
+            },
+            "productUrl": "https://www.viator.com/tours/Mont-St-Michel/2H-Guided-Walking-tour-of-the-Mont-Saint-Michel/d25906-6839P138?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+            "destinations": [
+                {
+                    "ref": "25906",
+                    "primary": true
+                }
+            ],
+            "tags": [
+                12029,
+                21948,
+                21952,
+                12046,
+                12028,
+                21949
+            ],
+            "flags": [
+                "FREE_CANCELLATION"
+            ],
+            "translationInfo": {
+                "containsMachineTranslatedText": false,
+                "translationSource": "ORIGINAL"
+            }
+        }
+    ],
+    "totalCount": 9
+}
