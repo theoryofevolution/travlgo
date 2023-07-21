@@ -95,6 +95,7 @@ def plan_events(data, date_range, calendar):
     return calendar
 
 def itinerary_creation(destination:str, start_date, end_date, user_tags:list, event_number:int):
+    print(destination, start_date, end_date, user_tags, event_number)
     activities_data = []
     custom_data = []
     with open('destinations.json') as file:
@@ -137,8 +138,6 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     }
     response = requests.post(url, headers=header, json=payload)
     activities = response.json()
-    with open("activities.json", "w") as file:
-        json.dump(activities, file, indent=4)
     activities_data.append(activities['products'])
 
     custom_payload = {
@@ -161,8 +160,6 @@ def itinerary_creation(destination:str, start_date, end_date, user_tags:list, ev
     response_custom = requests.post(url, headers=header, json=custom_payload)
     custom_activities = response_custom.json()
     custom_data.append(custom_activities['products'])
-    with open("custom.json", "w") as file:
-        json.dump(custom_data, file, indent=4)
     matched = {}
 
     for data in activities_data[0]:

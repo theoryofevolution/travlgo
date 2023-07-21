@@ -1,265 +1,87 @@
 {
-    "productCode": "261875P1",
+    "productCode": "129335P2",
     "bookableItems": [
         {
             "productOptionCode": "TG1",
             "seasons": [
                 {
-                    "startDate": "2020-04-07",
+                    "startDate": "2022-04-11",
                     "pricingRecords": [
                         {
                             "daysOfWeek": [
-                                "MONDAY",
                                 "TUESDAY",
                                 "WEDNESDAY",
-                                "THURSDAY",
-                                "FRIDAY",
-                                "SATURDAY",
-                                "SUNDAY"
+                                "FRIDAY"
                             ],
                             "timedEntries": [
                                 {
-                                    "startTime": "09:00",
+                                    "startTime": "14:00",
                                     "unavailableDates": [
-                                        {
-                                            "date": "2023-10-21",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-14",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-22",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-07",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2024-03-24",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-13",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-20",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-09-16",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-10-30",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-12",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-04",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-11",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-18",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-12-10",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-10",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-10-10",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-09-22",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-10-25",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-17",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-23",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-30",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-24",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-01",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-20",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-09",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-31",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-09-30",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-02",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-15",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-08",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-25",
-                                            "reason": "SOLD_OUT"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "startTime": "13:00",
-                                    "unavailableDates": [
-                                        {
-                                            "date": "2023-08-13",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-21",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-09-16",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-12",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-09-08",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-05",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-10-18",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-30",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-15",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-09-22",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-23",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-14",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-10-11",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-09",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2024-03-26",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-16",
-                                            "reason": "SOLD_OUT"
-                                        },
                                         {
                                             "date": "2023-07-28",
                                             "reason": "SOLD_OUT"
                                         },
                                         {
-                                            "date": "2023-08-01",
+                                            "date": "2023-10-03",
+                                            "reason": "SOLD_OUT"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "pricingDetails": [
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "ageBand": "INFANT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 0.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "ageBand": "CHILD",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 17.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 1,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 29.0
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "daysOfWeek": [
+                                "MONDAY",
+                                "THURSDAY",
+                                "SATURDAY",
+                                "SUNDAY"
+                            ],
+                            "timedEntries": [
+                                {
+                                    "startTime": "09:30",
+                                    "unavailableDates": [
+                                        {
+                                            "date": "2023-09-30",
                                             "reason": "SOLD_OUT"
                                         },
                                         {
-                                            "date": "2023-07-22",
+                                            "date": "2023-10-02",
                                             "reason": "SOLD_OUT"
                                         },
                                         {
-                                            "date": "2023-08-08",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-02",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-29",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-26",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-09-19",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-11",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-10-30",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-10",
-                                            "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-08-03",
+                                            "date": "2023-10-01",
                                             "reason": "SOLD_OUT"
                                         },
                                         {
@@ -271,13 +93,32 @@
                             ],
                             "pricingDetails": [
                                 {
-                                    "pricingPackageType": "UNIT",
+                                    "pricingPackageType": "PER_PERSON",
                                     "minTravelers": 0,
-                                    "maxTravelers": 5,
-                                    "ageBand": "TRAVELER",
+                                    "ageBand": "INFANT",
                                     "price": {
                                         "original": {
-                                            "recommendedRetailPrice": 455.0
+                                            "recommendedRetailPrice": 0.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "ageBand": "CHILD",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 17.0
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 1,
+                                    "ageBand": "ADULT",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 29.0
                                         }
                                     }
                                 }
@@ -288,8 +129,8 @@
             ]
         }
     ],
-    "currency": "USD",
+    "currency": "EUR",
     "summary": {
-        "fromPrice": 455.0
+        "fromPrice": 29.0
     }
 }
