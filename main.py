@@ -78,5 +78,4 @@ if submitted:
                             </a>''',
                        unsafe_allow_html=True
                         )
-                    st.write("\n\n")
         st.balloons()
