@@ -5,8 +5,6 @@ import integrations
 import availability
 import destinations
 import webbrowser
-from bokeh.models.widgets import Div
-
 
 with open('english_tags.json') as file:
         tags_data = json.load(file)
