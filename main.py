@@ -39,7 +39,7 @@ with st.form("my_form"):
     user_tags = st.multiselect(
     '**Customize Your Trip**', options = tag_lib.snatch_tags)
     # Every form must have a submit button.
-    submitted = st.form_submit_button('Submit')
+    submitted = st.form_submit_button('Generate')
 global calendar
 global dates
 if submitted:
