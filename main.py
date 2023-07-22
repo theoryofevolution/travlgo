@@ -6,6 +6,7 @@ import availability
 import destinations
 import webbrowser
 import time
+from streamlit_card import card
 from datetime import datetime, timedelta, date
 starter = date.today()
 #ender = 
@@ -20,6 +21,7 @@ st.set_page_config(
     page_icon="travlgo_logo_v2.png",
     layout="centered",
     initial_sidebar_state="expanded",
+    menu_items={'Report a bug':'https://docs.google.com/forms/d/e/1FAIpQLSciIVTnEU94L3srZB5xMY3QBREzxNElsZD2rPHhIikD07IbOg/viewform'}
 )
 
 st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
@@ -80,3 +82,11 @@ if submitted:
                        unsafe_allow_html=True
                         )
         st.balloons()
+        st.write('\n\n\n\n')
+        st.markdown(f'''<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSciIVTnEU94L3srZB5xMY3QBREzxNElsZD2rPHhIikD07IbOg/viewform">
+                                <button>
+                                    Enter your feedback for a chance to win $50!
+                                </button>
+                            </a>''',
+                       unsafe_allow_html=True
+                        )
