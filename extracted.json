@@ -1,5 +1,21 @@
 [
     {
+        "productCode": "12831P2",
+        "title": "SF Native Local Food Tour",
+        "description": "The Original Tour covers the most popular neighborhoods of San Francisco to provide the best local introduction to the city. The tour starts in the heart of the financial district underneath the Transamerica Pyramid. After our group introduction in SF's smallest redwood park, we'll weave our way through the secret side of downtown to see parts of the city that even locals often miss! As we explore the historical Barbary Coast we share family stories of the Wild West during the Gold Rush years. After learning about these lawless times, we'll make our way into North Beach (our Little Italy) as we sample a plethora of snacks and introducing our groups to local community businesses. We'll end the tour in our most authentic historic neighborhood, Chinatown. In Chinatown we'll visit stores and marketplaces that sell unique items, both dead & alive(!), while trying delicious authentic dim sum. Finally, we'll finish up by visiting the fortune-cookie factory and the \"living room\" of Chinatown.",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/The-Original-Tour/d651-12831P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/09/af/2a/df.jpg",
+        "duration": 270,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 99.0,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
         "productCode": "74127P3",
         "title": "Hidden Stairways of San Francisco",
         "description": "Please note: this walk is not at all strenuous. Obviously there's some stairs but this is done at a leisurely pace and suitable for almost everyone.\n\nThis breathtaking 2 mile walking tour of San Francisco's hidden stairways is the #1 rated Airbnb Experience in the Bay Area. See gorgeous mosaic tiled steps and hear the stories behind them, then take in stunning 360\u00b0 views of the Golden Gate Bridge, Golden Gate Park and downtown San Francisco. You'll also discover beautiful neighborhoods and gardens that tourists rarely see...you might even go home with a succulent!\nI'll provide commentary, context and some history along the way.\n\nGenerally SF is dry May-October. There can be fog in the summertime, mostly in the morning. Temps rarely above 70F (21C) or below 50F (10C). Rain may cancel.\n\nInstagram account to see more photos: @hiddenstairssf #hiddenstairssf\n\nMessage me if you have questions!",
@@ -10,10 +26,17 @@
         "rating": 5.0,
         "price": 33.0,
         "availableOnDate": [
+            "Nothing Found",
             {
-                "2023-07-24": [
-                    "10:30",
-                    "13:00"
+                "2023-07-26": [
+                    "13:00",
+                    "10:30"
+                ]
+            },
+            {
+                "2023-07-27": [
+                    "13:00",
+                    "10:30"
                 ]
             }
         ]
@@ -29,12 +52,62 @@
         "rating": 5.0,
         "price": 32.0,
         "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
             {
-                "2023-07-24": [
+                "2023-07-27": [
                     "10:00",
                     "14:00"
                 ]
             }
+        ]
+    },
+    {
+        "productCode": "134682P2",
+        "title": "Classic Sidecar Tour of San Francisco",
+        "description": "We offer you a unique way of touring that few have experience, seeing the world with the distinctive twist of Sidecar. \n\nEveryone love sidecar, so be prepare to trade smiles and waves with complete strangers.\n\nWhen you take a tour in a tour bus you take pictures of people, but when you tour a classic sidecar motorcycle, people take pictures of you.",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/Rides-by-me/d651-134682P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/07/73/d3/24.jpg",
+        "duration": 480,
+        "lengthType": "Full Day",
+        "rating": 5.0,
+        "price": 240.0,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "64535P2",
+        "title": "San Francisco Sunset Photography Tour",
+        "description": "Capture treasured memories and photographs from a San Francisco Photo Tour with Doc Miles. Sunrise and Sunset tours take photographers to locations that provide the best perspectives to capture amazing photographs of Bay Area icons and scenery. Locations along the tours take the photographer to places that are not on any tour bus, but provide extraordinary views of the city and its landmarks.",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/San-Francisco-Sunset-Photography-Tour/d651-64535P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/06/88/ce/f7.jpg",
+        "duration": 180,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 300.0,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
+        ]
+    },
+    {
+        "productCode": "348030P2",
+        "title": "The Nearly-Private Golden Gate Bridge Tour",
+        "description": "\"How do we get to the Golden Gate Bridge?\"\n\nThis is the most commonly asked question visitors to SF have, and the 2 Hour Golden Gate Bridge tour is the answer!\n\nThis popular tour is designed to provide the complete Golden Gate Bridge experience - you can even walk the length of the Bridge, if desired.\n\nYou'll avoid the crowds that can tie up the vista points, and have a peaceful transit, as we only take a maximum of 5-6 passengers on this tour -it may not be a Private tour, but it might as well be!\n\nAfter nearly a decade of giving other people's tours, Paul, the owner/ guide, started SF Expeditions in order to give *his* tours of the City he grew up in. \n\nComplimentary bottled water included\nComplimentary hotel pick-up/drop-offs can be pre-arranged.* \n\n*Same-day requests may not be possible due to prior tours, so please text/email for fastest response.\n",
+        "productUrl": "https://www.viator.com/tours/San-Francisco/Golden-Gate-Bridge-Tour/d651-348030P2?mcid=42383&pid=P00111704&medium=api&api_version=2.0",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-240x160/0e/ee/82/64.jpg",
+        "duration": 120,
+        "lengthType": "Part Day",
+        "rating": 5.0,
+        "price": 84.99,
+        "availableOnDate": [
+            "Nothing Found",
+            "Nothing Found",
+            "Nothing Found"
         ]
     }
 ]

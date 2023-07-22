@@ -1,144 +1,29 @@
 {
-    "productCode": "322630P1",
+    "productCode": "348030P2",
     "bookableItems": [
         {
             "productOptionCode": "TG1",
             "seasons": [
                 {
-                    "startDate": "2021-09-06",
+                    "startDate": "2022-06-02",
                     "pricingRecords": [
                         {
                             "daysOfWeek": [
-                                "MONDAY",
-                                "TUESDAY",
-                                "WEDNESDAY",
-                                "THURSDAY",
-                                "SATURDAY"
+                                "FRIDAY",
+                                "SATURDAY",
+                                "SUNDAY"
                             ],
                             "timedEntries": [
                                 {
-                                    "startTime": "10:00",
+                                    "startTime": "08:30",
                                     "unavailableDates": [
                                         {
-                                            "date": "2023-10-12",
+                                            "date": "2023-07-22",
                                             "reason": "NOT_OPERATING"
                                         },
                                         {
-                                            "date": "2023-10-16",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-07-31",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-02",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-09",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-30",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-26",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-07-26",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-10",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-29",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-07-25",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-11",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-28",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-14",
-                                            "reason": "NOT_OPERATING"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "startTime": "14:00",
-                                    "unavailableDates": [
-                                        {
-                                            "date": "2023-07-19",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-26",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-14",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-30",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-10",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-07-26",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-11",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-29",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-09",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-12",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-28",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-10-16",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-08-21",
+                                            "date": "2023-07-23",
                                             "reason": "SOLD_OUT"
-                                        },
-                                        {
-                                            "date": "2023-07-31",
-                                            "reason": "NOT_OPERATING"
-                                        },
-                                        {
-                                            "date": "2023-07-25",
-                                            "reason": "NOT_OPERATING"
                                         }
                                     ]
                                 }
@@ -147,10 +32,30 @@
                                 {
                                     "pricingPackageType": "PER_PERSON",
                                     "minTravelers": 0,
+                                    "ageBand": "CHILD",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 44.99
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
                                     "ageBand": "ADULT",
                                     "price": {
                                         "original": {
-                                            "recommendedRetailPrice": 32.0
+                                            "recommendedRetailPrice": 84.99
+                                        }
+                                    }
+                                },
+                                {
+                                    "pricingPackageType": "PER_PERSON",
+                                    "minTravelers": 0,
+                                    "ageBand": "SENIOR",
+                                    "price": {
+                                        "original": {
+                                            "recommendedRetailPrice": 79.99
                                         }
                                     }
                                 }
@@ -163,6 +68,6 @@
     ],
     "currency": "USD",
     "summary": {
-        "fromPrice": 32.0
+        "fromPrice": 84.99
     }
 }

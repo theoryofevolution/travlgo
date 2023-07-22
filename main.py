@@ -7,6 +7,7 @@ import destinations
 import webbrowser
 import time
 from streamlit_card import card
+from streamlit_extras.customize_running import center_running
 from datetime import datetime, timedelta, date
 starter = date.today()
 #ender = 
@@ -57,6 +58,14 @@ if submitted:
         alert = st.warning("Arrival date must be at least one day from today.")
         time.sleep(3)
         alert.empty()
+    if start_date + timedelta(days=365):
+        alert = st.warning("Arrival date cannot be more than a year from today.")
+        time.sleep(3)
+        alert.empty() 
+    if end_date + timedelta(days=365):
+        alert = st.warning("Departure date cannot be more than a year from today.")
+        time.sleep(3)
+        alert.empty() 
     else:
         dates = availability.get_dates_in_between(start_date, end_date)
         with st.spinner('Wait for it...'):
