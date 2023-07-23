@@ -6,8 +6,6 @@ import availability
 import destinations
 import webbrowser
 import time
-from streamlit_card import card
-from streamlit_extras.customize_running import center_running
 from datetime import datetime, timedelta, date
 starter = date.today()
 #ender = 
