@@ -60,6 +60,10 @@ if submitted:
         alert = st.warning("Arrival date cannot be more than a year from today.")
         time.sleep(3)
         alert.empty() 
+    if start_date + timedelta(days=1) == end_date:
+        alert = st.warning("There must be at least one day between the arrival and departure day.")
+        time.sleep(3)
+        alert.empty() 
     else:
         dates = availability.get_dates_in_between(start_date, end_date)
         with st.spinner('Wait for it...'):
