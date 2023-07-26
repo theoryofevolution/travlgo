@@ -96,6 +96,8 @@ if submitted:
                 if "No found event for the day" in activity:
                     st.write("No events were found for the day. Try regenerating your itinerary.")
                 else:
+                    url = activity["productUrl"]
+                    result = url.split('?')[0]
                     st.subheader(activity['title'])
                     st.image(activity['imageUrl'])
                     st.subheader('Event Description')
@@ -103,7 +105,7 @@ if submitted:
                     st.subheader('Timing')
                     st.write("**Starts at:**", datetime.strptime(activity['startTime'], '%H:%M').strftime("%I:%M %p"))
                     st.write("**Ends at:** ", datetime.strptime(activity['endTime'], '%H:%M').strftime("%I:%M %p"))
-                    st.markdown(f'''<a target="_blank" href="{activity["productUrl"]+"?pid=P00111704&mcid=42383&medium=link&campaign=travelling-explorer"}">
+                    st.markdown(f'''<a target="_blank" href="{result+"?pid=P00111704&mcid=42383&medium=link&campaign=travelling-explorer"}">
                                 <button>
                                     Book this event!
                                 </button>
