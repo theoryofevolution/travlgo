@@ -34,6 +34,8 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+st.image("travlgo_logo_v2.png")
+
 st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
 
 text_header = "Please enter in the information below for an optimized experience."
