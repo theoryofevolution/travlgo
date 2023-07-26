@@ -38,7 +38,7 @@ with st.form("my_form"):
     end_date = st.date_input('**Departure  Date**', value = starter+timedelta(days=3), min_value = starter+timedelta(days=2))
 
     user_tags = st.multiselect(
-    '**Customize Your Trip**', options = tag_lib.snatch_tags, help = "Search for your interests to help us make our results more personalized", max_selections=5)
+    '**Customize Your Trip**', options = tag_lib.snatch_tags, help = "Search for your interests to help us make our results more personalized. Please choose anywhere from 1-5 options", max_selections=5)
     # Every form must have a submit button.
     submitted = st.form_submit_button('Generate')
 global calendar
