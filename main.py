@@ -73,7 +73,7 @@ if submitted:
             st.header(dates[index])
             for activity in days:
                 if "No found event for the day" in activity:
-                    st.write("No events were found for the day 😢...to make it up, here's a donut 🍩")
+                    st.write("No events were found for the day. Try regenerating your itinerary.")
                 else:
                     st.subheader(activity['title'])
                     st.image(activity['imageUrl'])
