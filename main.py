@@ -34,7 +34,16 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.image("travlgo_logo_v2.png")
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.write(' ')
+
+with col2:
+    st.image("travlgo_logo_v2.png")
+
+with col3:
+    st.write(' ')
 
 st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
 
