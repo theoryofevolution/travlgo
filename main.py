@@ -37,7 +37,7 @@ st.markdown(
 
 st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
 
-text_header = 'Please enter in the information below for an optimized experience.'
+text_header = "Please enter in the information below for an optimized experience."
 st.markdown(f'<p style="color:#FFFFFF;font-size:20px;border-radius:2%;">{text_header}</p>', unsafe_allow_html=True)
 
 global submitted
@@ -50,7 +50,7 @@ with st.form("my_form"):
     end_date = st.date_input('**Departure  Date**', value = starter+timedelta(days=3), min_value = starter+timedelta(days=2))
 
     user_tags = st.multiselect(
-    '**Customize Your Trip**', options = tag_lib.snatch_tags)
+    '**Customize Your Trip**', options = tag_lib.snatch_tags, help = "Search for your interests to help us make our results more personalized. Please choose anywhere from 1-5 options.", max_selections=5)
     # Every form must have a submit button.
     submitted = st.form_submit_button('Generate')
 global calendar
@@ -85,12 +85,13 @@ if submitted:
             st.header(dates[index])
             for activity in days:
                 if "No found event for the day" in activity:
-                    st.write("No events were found for the day 😢...to make it up, here's a donut 🍩")
+                    st.write("No events were found for the day. Try regenerating your itinerary.")
                 else:
                     st.subheader(activity['title'])
                     st.image(activity['imageUrl'])
                     st.subheader('Event Description')
                     st.write(activity['description'])
+                    st.subheader('Timing')
                     st.write("**Starts at:**", datetime.strptime(activity['startTime'], '%H:%M').strftime("%I:%M %p"))
                     st.write("**Ends at:** ", datetime.strptime(activity['endTime'], '%H:%M').strftime("%I:%M %p"))
                     st.markdown(f'''<a target="_blank" href="{activity["productUrl"]}">
