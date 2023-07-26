@@ -7,9 +7,10 @@ import destinations
 import webbrowser
 import time
 from datetime import datetime, timedelta, date
-from st_pages import hide_pages, Page, show_pages
+from st_pages import hide_pages
 starter = date.today()
 #ender = 
+
 with open('english_tags.json') as file:
         tags_data = json.load(file)
 
