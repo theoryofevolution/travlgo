@@ -20,6 +20,7 @@ st.set_page_config(
     page_icon="travlgo_logo_v2.png",
     layout="centered",
     initial_sidebar_state="expanded",
+    menu_items={'Report a bug':'https://docs.google.com/forms/d/e/1FAIpQLSciIVTnEU94L3srZB5xMY3QBREzxNElsZD2rPHhIikD07IbOg/viewform'}
 )
 
 st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
@@ -55,6 +56,14 @@ if submitted:
         alert = st.warning("Arrival date must be at least one day from today.")
         time.sleep(3)
         alert.empty()
+    if start_date == starter + timedelta(days=365):
+        alert = st.warning("Arrival date cannot be more than a year from today.")
+        time.sleep(3)
+        alert.empty() 
+    if start_date + timedelta(days=1) == end_date:
+        alert = st.warning("There must be at least one day between the arrival and departure day.")
+        time.sleep(3)
+        alert.empty() 
     else:
         dates = availability.get_dates_in_between(start_date, end_date)
         with st.spinner('Wait for it...'):
@@ -80,3 +89,11 @@ if submitted:
                        unsafe_allow_html=True
                         )
         st.balloons()
+        st.write('\n\n\n\n')
+        st.markdown(f'''<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSciIVTnEU94L3srZB5xMY3QBREzxNElsZD2rPHhIikD07IbOg/viewform">
+                                <button>
+                                    Enter your feedback for a chance to win $50!
+                                </button>
+                            </a>''',
+                       unsafe_allow_html=True
+                        )
