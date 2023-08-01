@@ -82,6 +82,7 @@ if submitted:
                     st.subheader('Timing')
                     st.write("**Starts at:**", datetime.strptime(activity['startTime'], '%H:%M').strftime("%I:%M %p"))
                     st.write("**Ends at:** ", datetime.strptime(activity['endTime'], '%H:%M').strftime("%I:%M %p"))
+                    st.write('Price: $', activity['price'])
                     st.markdown(f'''<a target="_blank" href="{activity["productUrl"]}">
                                 <button>
                                     Book this event!
