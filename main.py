@@ -74,10 +74,6 @@ if submitted:
         alert = st.warning("Max itinerary days allowed are 7. We hope to increase this number over time!")
         time.sleep(3)
         alert.empty()
-    if start_date == starter:
-        alert = st.warning("Arrival date must be at least one day from today.")
-        time.sleep(3)
-        alert.empty()
     if start_date == starter + timedelta(days=365):
         alert = st.warning("Arrival date cannot be more than a year from today.")
         time.sleep(3)
