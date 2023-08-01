@@ -9,6 +9,7 @@ import time
 from datetime import datetime, timedelta, date
 starter = date.today()
 #ender = 
+
 with open('english_tags.json') as file:
         tags_data = json.load(file)
 
@@ -45,9 +46,7 @@ with col2:
 with col3:
     st.write(' ')
 
-st.sidebar.image("travlgo_logo_v2.png", use_column_width=True)
-
-text_header = "Please enter in the information below for an optimized experience."
+text_header = 'Please enter in the information below for an optimized experience.'
 st.markdown(f'<p style="color:#FFFFFF;font-size:20px;border-radius:2%;">{text_header}</p>', unsafe_allow_html=True)
 
 global submitted
@@ -97,6 +96,8 @@ if submitted:
                 if "No found event for the day" in activity:
                     st.write("No events were found for the day. Try regenerating your itinerary.")
                 else:
+                    url = activity["productUrl"]
+                    result = url.split('?')[0]
                     st.subheader(activity['title'])
                     st.image(activity['imageUrl'])
                     st.subheader('Event Description')
@@ -104,8 +105,7 @@ if submitted:
                     st.subheader('Timing')
                     st.write("**Starts at:**", datetime.strptime(activity['startTime'], '%H:%M').strftime("%I:%M %p"))
                     st.write("**Ends at:** ", datetime.strptime(activity['endTime'], '%H:%M').strftime("%I:%M %p"))
-                    st.write('Price: $', activity['price'])
-                    st.markdown(f'''<a target="_blank" href="{activity["productUrl"]}">
+                    st.markdown(f'''<a target="_blank" href="{result+"?pid=P00111704&mcid=42383&medium=link&campaign=travelling-explorer"}">
                                 <button>
                                     Book this event!
                                 </button>
